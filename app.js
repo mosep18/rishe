@@ -37,8 +37,8 @@ async function load() {
     (a.type === 'Prefix' ? prefixes : suffixes).push({ s, v, gi });
   }));
   prefixes.sort((a, b) => b.s.length - a.s.length);
-  const nf = D.families.length, nw = D.words.length, nd = D.words.filter(w => famById.get(w.f).draft).length;
-  $('.foot p').textContent = `${nf} word families · ${nw.toLocaleString()} words (${nd.toLocaleString()} drafted by AI, not yet reviewed). Works offline once loaded.`;
+  const nf = D.families.filter(f => !f.solo).length, ns = D.families.length - nf, nw = D.words.length, nd = D.words.filter(w => famById.get(w.f).draft).length;
+  $('.foot p').textContent = `${nf} word families + ${ns} single words · ${nw.toLocaleString()} words in total (${nd.toLocaleString()} drafted by AI, not yet reviewed). Works offline once loaded.`;
   suffixes.sort((a, b) => b.s.length - a.s.length);
 }
 
@@ -192,7 +192,7 @@ function viewHome() {
     <div class="label">Try these <span class="fa" lang="fa">امتحان کنید</span></div>
     <div class="chips">${['inactivity', 'reaction', 'invisible', 'transportation', 'misinformation', 'creativity', 'rewriting', 'developed'].map(w => `<a class="chip" href="${wordLink(w)}">${w}</a>`).join('')}</div>
     <div class="label">Browse by level <span class="fa" lang="fa">بر اساس سطح</span></div>
-    <div class="chips">${LEVELS.filter(l => D.families.some(f => f.cefr === l)).map(l => `<a class="chip" href="#/families/${l}">${l} · ${D.families.filter(f => f.cefr === l).length} families</a>`).join('')}</div>`;
+    <div class="chips">${LEVELS.filter(l => D.families.some(f => f.cefr === l && !f.solo)).map(l => `<a class="chip" href="#/families/${l}">${l} · ${D.families.filter(f => f.cefr === l && !f.solo).length} families</a>`).join('')}<a class="chip" href="#/singles">Single words · ${D.families.filter(f => f.solo).length}</a></div>`;
   bindSearch();
 }
 
@@ -270,7 +270,7 @@ function wordView(res) {
   const paint = (n, target) => {
     const wi = idx[n];
     target.innerHTML = (idx.length > 1 ? `<div class="notice"><span>🔀</span><div><b>${esc(D.words[wi].w)}</b> belongs to ${idx.length} families — pick one above.</div></div>` : '') +
-      entryCard(wi) + rootCard(wi) + buildCard(wi) + familyCard(D.words[wi].f, wi) + exampleCard(wi);
+      (famById.get(D.words[wi].f).solo ? entryCard(wi) + soloCard(wi) : entryCard(wi) + rootCard(wi) + buildCard(wi) + familyCard(D.words[wi].f, wi) + exampleCard(wi));
     bindEntry(target);
   };
   return { sw, notice, paint };
@@ -317,16 +317,18 @@ function viewWord(raw) {
 }
 
 function viewFamilies(level) {
-  const list = D.families.filter(f => !level || f.cefr === level);
+  const list = D.families.filter(f => !f.solo && (!level || f.cefr === level));
   main.innerHTML = `<h1 class="page-title">Word families <span class="fa" lang="fa" style="font-size:1.1rem;color:var(--muted)">خانوادهٔ واژه‌ها</span></h1>
     <p class="sub">Words that grow from one root. Tap a family to explore it.</p>
-    <div class="chips"><a class="chip ${!level ? 'on' : ''}" href="#/families">All</a>${LEVELS.filter(l => D.families.some(f => f.cefr === l)).map(l => `<a class="chip ${level === l ? 'on' : ''}" href="#/families/${l}">${l}</a>`).join('')}</div>
+    <div class="chips"><a class="chip on" href="#/families">Families</a><a class="chip" href="#/singles">Single words</a></div>
+    <div class="chips"><a class="chip ${!level ? 'on' : ''}" href="#/families">All levels</a>${LEVELS.filter(l => D.families.some(f => f.cefr === l)).map(l => `<a class="chip ${level === l ? 'on' : ''}" href="#/families/${l}">${l}</a>`).join('')}</div>
     <div class="grid">${list.map(f => `<a class="fcard enter" href="#/f/${f.id}"><div class="top2"><span class="b">${esc(f.base)}</span><span class="lv">${esc(f.cefr || '')}${f.draft ? ' · draft' : ''}</span></div><span class="fa" lang="fa" dir="rtl">${esc(f.fa)}</span><span class="n">${f.words.length} words · ${esc(f.topic || '')}</span></a>`).join('')}</div>`;
 }
 
 function viewFamily(id) {
   const f = famById.get(+id);
   if (!f) return viewFamilies();
+  if (f.solo) return viewWord(f.base);
   const bi = f.words.find(i => D.words[i].w.toLowerCase() === f.base.toLowerCase());
   const first = bi ?? f.words[0];
   main.innerHTML = `<a class="back" href="#/families">← All families</a>
@@ -452,7 +454,7 @@ function treeCard(f) {
 function wotdHtml() {
   const d = new Date(), seed = d.getFullYear() * 400 + d.getMonth() * 32 + d.getDate();
   const i = Math.imul(seed, 2654435761) >>> 0, w = D.words[i % D.words.length], f = famById.get(w.f);
-  return `<a class="wotd enter" href="${wordLink(w.w)}"><div><div class="k">Word of the day · واژهٔ امروز</div><div class="w">${esc(w.w)}</div><div class="r">root: ${esc(f.base)}</div></div><div class="m" lang="fa" dir="rtl">${esc(w.fa.split('؛')[0])}</div></a>`;
+  return `<a class="wotd enter" href="${wordLink(w.w)}"><div><div class="k">Word of the day · واژهٔ امروز</div><div class="w">${esc(w.w)}</div><div class="r">${f.solo ? esc(f.topic || 'single word') : 'root: ' + esc(f.base)}</div></div><div class="m" lang="fa" dir="rtl">${esc(w.fa.split('؛')[0])}</div></a>`;
 }
 
 function viewSaved() {
@@ -557,6 +559,25 @@ function applyTheme(t) {
 applyTheme(store.get('rishe.theme', 'auto'));
 $('#theme').addEventListener('click', () => { const t = THEMES[(THEMES.indexOf(store.get('rishe.theme', 'auto')) + 1) % 3]; store.set('rishe.theme', t); applyTheme(t); toast('Theme: ' + t); });
 
+
+/* ---------- single words (no word family) ---------- */
+function soloCard(wi) {
+  const w = D.words[wi], f = famById.get(w.f);
+  return `<section class="card enter"><h2>Word family <span class="fa" lang="fa">خانوادهٔ واژه</span></h2>
+    <p class="sub" style="margin:0">“${esc(w.w)}” stands on its own: no related forms for it have been added to the database yet.${f.topic ? ` Topic: <b>${esc(f.topic)}</b>.` : ''}</p></section>`;
+}
+function viewSingles(level) {
+  const list = D.families.filter(f => f.solo && (!level || f.cefr === level)).sort((a, b) => a.base.localeCompare(b.base));
+  main.innerHTML = `<h1 class="page-title">Single words <span class="fa" lang="fa" style="font-size:1.1rem;color:var(--muted)">واژه‌های مستقل</span></h1>
+    <p class="sub">Words without family members. ${list.length} shown.</p>
+    <div class="chips"><a class="chip" href="#/families">Families</a><a class="chip on" href="#/singles">Single words</a></div>
+    <div class="chips"><a class="chip ${!level ? 'on' : ''}" href="#/singles">All levels</a>${LEVELS.filter(l => D.families.some(f => f.solo && f.cefr === l)).map(l => `<a class="chip ${level === l ? 'on' : ''}" href="#/singles/${l}">${l}</a>`).join('')}</div>
+    <input class="filter" id="sfilter" type="search" placeholder="Filter words…" aria-label="Filter single words">
+    <div id="slist"></div>`;
+  const draw = t => { const q = t.toLowerCase().trim(); const rows = list.filter(f => !q || f.base.toLowerCase().includes(q) || f.fa.includes(q)).slice(0, 300);
+    $('#slist').innerHTML = rows.map(f => rowHtml(f.words[0])).join('') || '<p class="sub">No match.</p>'; };
+  draw(''); $('#sfilter').addEventListener('input', e => draw(e.target.value));
+}
 /* ---------- router ---------- */
 function setTab(name) { document.querySelectorAll('#tabs a').forEach(a => a.toggleAttribute('aria-current', a.dataset.tab === name)); document.querySelectorAll('#tabs a').forEach(a => { if (a.dataset.tab === name) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); }); }
 
@@ -567,7 +588,8 @@ function route() {
   window.scrollTo(0, 0);
   if (seg === 'w' && arg) { setTab('search'); viewWord(arg); document.title = `${arg} – Rishe`; return; }
   document.title = 'Rishe – English Roots Dictionary';
-  if (seg === 'saved') { setTab('saved'); viewSaved(); }
+  if (seg === 'singles') { setTab('families'); viewSingles(arg || ''); }
+  else if (seg === 'saved') { setTab('saved'); viewSaved(); }
   else if (seg === 'practice') { setTab('practice'); viewPractice(rest[0], rest[1]); }
   else if (seg === 'affix') { setTab('affixes'); viewAffix(+arg); }
   else if (seg === 'families') { setTab('families'); viewFamilies(arg || ''); }

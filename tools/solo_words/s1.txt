@@ -1,0 +1,330 @@
+umbrella|n|چتر|A2|Weather
+table|n|میز|A1|Home
+apple|n|سیب|A1|Food
+window|n|پنجره|A1|Home
+dog|n|سگ|A1|Animals
+cat|n|گربه|A1|Animals
+horse|n|اسب|A1|Animals
+cow|n|گاو|A1|Animals
+sheep|n|گوسفند|A1|Animals
+goat|n|بز|A2|Animals
+pig|n|خوک|A1|Animals
+chicken|n|مرغ؛ جوجه|A1|Animals
+duck|n|اردک|A1|Animals
+rabbit|n|خرگوش|A1|Animals
+bird|n|پرنده|A1|Animals
+fish|n|ماهی|A1|Animals
+monkey|n|میمون|A1|Animals
+lion|n|شیر|A1|Animals
+tiger|n|ببر|A1|Animals
+bear|n|خرس|A1|Animals
+wolf|n|گرگ|A2|Animals
+fox|n|روباه|A2|Animals
+elephant|n|فیل|A1|Animals
+camel|n|شتر|A2|Animals
+donkey|n|الاغ|A2|Animals
+snake|n|مار|A2|Animals
+frog|n|قورباغه|A2|Animals
+spider|n|عنکبوت|A2|Animals
+bee|n|زنبور عسل|A2|Animals
+ant|n|مورچه|A2|Animals
+butterfly|n|پروانه|A2|Animals
+turtle|n|لاک‌پشت|A2|Animals
+shark|n|کوسه|A2|Animals
+dolphin|n|دلفین|A2|Animals
+bread|n|نان|A1|Food
+butter|n|کره|A1|Food
+cheese|n|پنیر|A1|Food
+egg|n|تخم‌مرغ؛ تخم|A1|Food
+milk|n|شیر|A1|Food
+rice|n|برنج؛ پلو|A1|Food
+meat|n|گوشت|A1|Food
+beef|n|گوشت گاو|A2|Food
+soup|n|سوپ؛ آش|A1|Food
+salad|n|سالاد|A1|Food
+sandwich|n|ساندویچ|A1|Food
+pizza|n|پیتزا|A1|Food
+cake|n|کیک|A1|Food
+cookie|n|شیرینی؛ کلوچه|A2|Food
+candy|n|آب‌نبات؛ شکلات|A2|Food
+chocolate|n|شکلات|A1|Food
+honey|n|عسل|A2|Food
+sugar|n|شکر؛ قند|A1|Food
+salt|n|نمک|A1|Food
+pepper|n|فلفل|A2|Food
+oil|n|روغن؛ نفت|A2|Food
+flour|n|آرد|A2|Food
+jam|n|مربا|A2|Food
+tea|n|چای|A1|Drink
+coffee|n|قهوه|A1|Drink
+juice|n|آب‌میوه|A1|Drink
+water|n|آب|A1|Drink
+orange|n|پرتقال|A1|Food
+banana|n|موز|A1|Food
+grape|n|انگور|A2|Food
+lemon|n|لیمو|A2|Food
+peach|n|هلو|A2|Food
+pear|n|گلابی|A2|Food
+cherry|n|گیلاس|A2|Food
+melon|n|خربزه|A2|Food
+watermelon|n|هندوانه|A2|Food
+strawberry|n|توت‌فرنگی|A2|Food
+pomegranate|n|انار|B1|Food
+fig|n|انجیر|B1|Food
+plum|n|آلو|B1|Food
+tomato|n|گوجه‌فرنگی|A1|Food
+potato|n|سیب‌زمینی|A1|Food
+onion|n|پیاز|A1|Food
+carrot|n|هویج|A1|Food
+cucumber|n|خیار|A2|Food
+garlic|n|سیر|A2|Food
+cabbage|n|کلم|A2|Food
+mushroom|n|قارچ|A2|Food
+bean|n|لوبیا؛ باقلا|A2|Food
+pea|n|نخود فرنگی|A2|Food
+corn|n|ذرت|A2|Food
+nut|n|آجیل؛ مغز|A2|Food
+walnut|n|گردو|B1|Food
+almond|n|بادام|B1|Food
+spoon|n|قاشق|A1|Kitchen
+fork|n|چنگال|A1|Kitchen
+knife|n|چاقو|A1|Kitchen
+plate|n|بشقاب|A1|Kitchen
+bowl|n|کاسه؛ ظرف|A1|Kitchen
+cup|n|فنجان؛ لیوان|A1|Kitchen
+glass|n|لیوان؛ شیشه|A1|Kitchen
+bottle|n|بطری|A1|Kitchen
+pot|n|قابلمه؛ گلدان|A2|Kitchen
+pan|n|تابه|A2|Kitchen
+kettle|n|کتری|B1|Kitchen
+oven|n|فر؛ تنور|A2|Kitchen
+fridge|n|یخچال|A2|Kitchen
+stove|n|اجاق|B1|Kitchen
+shirt|n|پیراهن|A1|Clothes
+skirt|n|دامن|A1|Clothes
+trousers|n|شلوار|A1|Clothes
+jeans|n|شلوار جین|A1|Clothes
+shorts|n|شلوارک|A1|Clothes
+coat|n|پالتو؛ کت|A1|Clothes
+jacket|n|ژاکت؛ کت|A1|Clothes
+sweater|n|پلیور|A2|Clothes
+scarf|n|شال؛ روسری|A2|Clothes
+glove|n|دستکش|A2|Clothes
+sock|n|جوراب|A1|Clothes
+shoe|n|کفش|A1|Clothes
+boot|n|چکمه؛ بوت|A2|Clothes
+hat|n|کلاه|A1|Clothes
+belt|n|کمربند|A2|Clothes
+pocket|n|جیب|A2|Clothes
+button|n|دکمه|A2|Clothes
+suit|n|کت و شلوار|A2|Clothes
+wallet|n|کیف پول|A2|Clothes
+head|n|سر|A1|Body
+hair|n|مو|A1|Body
+face|n|صورت|A1|Body
+eye|n|چشم|A1|Body
+ear|n|گوش|A1|Body
+nose|n|بینی|A1|Body
+mouth|n|دهان|A1|Body
+tooth|n|دندان|A1|Body
+tongue|n|زبان|A2|Body
+lip|n|لب|A2|Body
+neck|n|گردن|A1|Body
+shoulder|n|شانه|A2|Body
+arm|n|بازو|A1|Body
+elbow|n|آرنج|B1|Body
+hand|n|دست|A1|Body
+finger|n|انگشت|A1|Body
+chest|n|سینه|A2|Body
+back|n|پشت؛ کمر|A1|Body
+stomach|n|معده؛ شکم|A2|Body
+knee|n|زانو|A2|Body
+foot|n|پا؛ کف پا|A1|Body
+toe|n|انگشت پا|A2|Body
+skin|n|پوست|A2|Body
+bone|n|استخوان|A2|Body
+blood|n|خون|A2|Body
+heart|n|قلب|A1|Body
+brain|n|مغز|A2|Body
+beard|n|ریش|B1|Body
+cheek|n|گونه|B1|Body
+chin|n|چانه|B1|Body
+forehead|n|پیشانی|B1|Body
+nail|n|ناخن؛ میخ|B1|Body
+fever|n|تب|A2|Health
+cough|n|سرفه|A2|Health
+pill|n|قرص|A2|Health
+hospital|n|بیمارستان|A1|Health
+nurse|n|پرستار|A1|Job
+doctor|n|پزشک؛ دکتر|A1|Job
+bed|n|تخت|A1|Home
+chair|n|صندلی|A1|Home
+sofa|n|مبل|A1|Home
+desk|n|میز تحریر|A1|Home
+shelf|n|قفسه|A2|Home
+cupboard|n|کمد؛ گنجه|A2|Home
+wardrobe|n|کمد لباس|B1|Home
+drawer|n|کشو|B1|Home
+carpet|n|فرش؛ موکت|A2|Home
+curtain|n|پرده|A2|Home
+mirror|n|آینه|A2|Home
+lamp|n|چراغ؛ لامپ|A2|Home
+pillow|n|بالش|A2|Home
+blanket|n|پتو|A2|Home
+towel|n|حوله|A2|Home
+soap|n|صابون|A1|Home
+toothbrush|n|مسواک|A2|Home
+toothpaste|n|خمیردندان|A2|Home
+bath|n|حمام؛ وان|A1|Home
+sink|n|سینک؛ ظرفشویی|B1|Home
+tap|n|شیر آب|A2|Home
+broom|n|جارو|B1|Home
+bucket|n|سطل|B1|Home
+key|n|کلید|A1|Home
+door|n|در|A1|Home
+roof|n|سقف؛ پشت‌بام|A2|Home
+floor|n|کف؛ طبقه|A1|Home
+wall|n|دیوار|A1|Home
+ceiling|n|سقف|B1|Home
+stairs|n|پله‌ها|A2|Home
+garden|n|باغ؛ باغچه|A1|Home
+garage|n|پارکینگ؛ گاراژ|A2|Home
+fence|n|حصار؛ نرده|B1|Home
+clock|n|ساعت دیواری|A1|Home
+mother|n|مادر|A1|Family
+father|n|پدر|A1|Family
+brother|n|برادر|A1|Family
+sister|n|خواهر|A1|Family
+son|n|پسر؛ فرزند پسر|A1|Family
+daughter|n|دختر؛ فرزند دختر|A1|Family
+uncle|n|دایی؛ عمو|A1|Family
+aunt|n|خاله؛ عمه|A1|Family
+cousin|n|پسرعمو؛ دخترعمو|A2|Family
+grandmother|n|مادربزرگ|A1|Family
+grandfather|n|پدربزرگ|A1|Family
+husband|n|شوهر|A1|Family
+wife|n|همسر؛ زن|A1|Family
+baby|n|نوزاد؛ بچه|A1|Family
+tree|n|درخت|A1|Plants
+flower|n|گل|A1|Plants
+grass|n|چمن؛ علف|A1|Plants
+leaf|n|برگ|A2|Plants
+root|n|ریشه|A2|Plants
+rose|n|گل رز؛ گل سرخ|A2|Plants
+seed|n|دانه؛ بذر|A2|Plants
+branch|n|شاخه|B1|Plants
+bush|n|بوته|B1|Plants
+forest|n|جنگل|A2|Nature
+mountain|n|کوه|A1|Nature
+river|n|رودخانه|A1|Nature
+lake|n|دریاچه|A1|Nature
+sea|n|دریا|A1|Nature
+beach|n|ساحل|A1|Nature
+island|n|جزیره|A2|Nature
+desert|n|بیابان؛ کویر|A2|Nature
+hill|n|تپه|A2|Nature
+valley|n|دره|B1|Nature
+rock|n|سنگ؛ صخره|A2|Nature
+sand|n|ماسه؛ شن|A2|Nature
+field|n|مزرعه؛ زمین|A2|Nature
+sun|n|خورشید|A1|Weather
+moon|n|ماه|A1|Weather
+star|n|ستاره|A1|Weather
+sky|n|آسمان|A1|Weather
+cloud|n|ابر|A1|Weather
+rain|n|باران|A1|Weather
+snow|n|برف|A1|Weather
+wind|n|باد|A1|Weather
+storm|n|طوفان|A2|Weather
+fog|n|مه|B1|Weather
+ice|n|یخ|A1|Weather
+thunder|n|رعد|B1|Weather
+red|adj|قرمز|A1|Colours
+blue|adj|آبی|A1|Colours
+green|adj|سبز|A1|Colours
+yellow|adj|زرد|A1|Colours
+black|adj|سیاه؛ مشکی|A1|Colours
+white|adj|سفید|A1|Colours
+brown|adj|قهوه‌ای|A1|Colours
+pink|adj|صورتی|A1|Colours
+purple|adj|بنفش|A1|Colours
+grey|adj|خاکستری|A1|Colours
+gold|n|طلا؛ طلایی|A2|Colours
+silver|n|نقره؛ نقره‌ای|A2|Colours
+shop|n|مغازه؛ فروشگاه|A1|Town
+market|n|بازار|A1|Town
+bank|n|بانک|A1|Town
+restaurant|n|رستوران|A1|Town
+cafe|n|کافه|A1|Town
+cinema|n|سینما|A1|Town
+museum|n|موزه|A1|Town
+library|n|کتابخانه|A1|Town
+church|n|کلیسا|A1|Town
+park|n|پارک|A1|Town
+bridge|n|پل|A2|Town
+street|n|خیابان|A1|Town
+road|n|جاده؛ خیابان|A1|Town
+square|n|میدان؛ مربع|A2|Town
+village|n|روستا|A1|Town
+city|n|شهر|A1|Town
+tower|n|برج|A2|Town
+castle|n|قلعه؛ کاخ|A2|Town
+stadium|n|ورزشگاه|A2|Town
+theatre|n|تئاتر|A2|Town
+zoo|n|باغ‌وحش|A1|Town
+farm|n|مزرعه|A1|Town
+factory|n|کارخانه|A2|Town
+hotel|n|هتل|A1|Town
+butcher|n|قصاب|B1|Job
+traffic|n|ترافیک؛ رفت‌وآمد|A2|Transport
+car|n|ماشین؛ خودرو|A1|Transport
+bus|n|اتوبوس|A1|Transport
+taxi|n|تاکسی|A1|Transport
+train|n|قطار|A1|Transport
+plane|n|هواپیما|A1|Transport
+ship|n|کشتی|A2|Transport
+boat|n|قایق|A1|Transport
+bicycle|n|دوچرخه|A1|Transport
+truck|n|کامیون|A2|Transport
+tram|n|تراموا|B1|Transport
+ticket|n|بلیط|A1|Transport
+wheel|n|چرخ|A2|Transport
+engine|n|موتور|B1|Transport
+passport|n|گذرنامه|A2|Transport
+suitcase|n|چمدان|A2|Transport
+map|n|نقشه|A1|Transport
+pen|n|خودکار|A1|School
+pencil|n|مداد|A1|School
+book|n|کتاب|A1|School
+page|n|صفحه|A1|School
+paper|n|کاغذ|A1|School
+bag|n|کیف؛ کیسه|A1|School
+board|n|تخته|A2|School
+chalk|n|گچ|B1|School
+scissors|n|قیچی|A2|School
+glue|n|چسب|A2|School
+exam|n|امتحان|A1|School
+test|n|آزمون؛ امتحان|A1|School
+lesson|n|درس|A1|School
+class|n|کلاس|A1|School
+school|n|مدرسه|A1|School
+tennis|n|تنیس|A1|Sport
+golf|n|گلف|A2|Sport
+ball|n|توپ|A1|Sport
+team|n|تیم|A1|Sport
+match|n|مسابقه؛ بازی|A2|Sport
+guitar|n|گیتار|A1|Hobby
+piano|n|پیانو|A1|Hobby
+violin|n|ویولن|A2|Hobby
+drum|n|طبل؛ درام|A2|Hobby
+camera|n|دوربین|A1|Hobby
+chess|n|شطرنج|A2|Hobby
+puzzle|n|پازل؛ معما|B1|Hobby
+toy|n|اسباب‌بازی|A1|Hobby
+doll|n|عروسک|A2|Hobby
+kite|n|بادبادک|B1|Hobby
+film|n|فیلم|A1|Hobby
+song|n|آهنگ؛ ترانه|A1|Hobby
+dance|n|رقص|A1|Hobby
+cook|n|آشپز|A2|Job
+judge|n|قاضی|B1|Job

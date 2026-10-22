@@ -1,9 +1,9 @@
 /* Rishe service worker: precache the app shell + data so everything works offline. */
-const VERSION = 'rishe-v4';
+const VERSION = 'rishe-v5';
 const SHELL = [
   './', 'index.html', 'styles.css', 'app.js', 'data.json', 'manifest.webmanifest',
   'fonts/fraunces.woff2', 'fonts/fraunces-italic.woff2', 'fonts/inter.woff2', 'fonts/vazirmatn.woff2',
-  'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png',
+  'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-192.png', 'icons/icon-maskable-512.png',
   'icons/apple-touch-icon.png', 'icons/favicon-32.png'
 ];
 

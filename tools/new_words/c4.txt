@@ -1,0 +1,418 @@
+#protect|Latin protegere 'to cover in front'|verb|محافظت کردن؛ حفاظت کردن|B1|Safety
+~Helmets protect cyclists from head injuries.|کلاه ایمنی از دوچرخه‌سواران در برابر آسیب سر محافظت می‌کند.
+protect|v|محافظت کردن
+protection|n|حفاظت؛ محافظت
+protective|adj|محافظ؛ حمایتی
+protector|n|محافظ؛ حامی
+protectively|adv|محافظانه
+protectorate|n|تحت‌الحمایه
+overprotective|adj|بیش‌ازحد حمایت‌گر
+unprotected|adj|بی‌حفاظ؛ محافظت‌نشده
+#defend|Latin defendere 'to ward off'|verb|دفاع کردن؛ حمایت کردن|B1|Safety
+~The lawyer defended his client in court.|وکیل در دادگاه از موکلش دفاع کرد.
+defend|v|دفاع کردن
+defence|n|دفاع
+defender|n|مدافع
+defensive|adj|دفاعی
+defensively|adv|به‌صورت دفاعی
+defendant|n|متهم؛ خوانده
+indefensible|adj|غیرقابل‌دفاع
+defenceless|adj|بی‌دفاع
+#compare|Latin comparare 'to match together'|verb|مقایسه کردن؛ سنجیدن|A2|Thinking
+~It is not fair to compare the two cities.|مقایسهٔ این دو شهر منصفانه نیست.
+compare|v|مقایسه کردن
+comparison|n|مقایسه
+comparative|adj|مقایسه‌ای؛ نسبی
+comparatively|adv|نسبتاً
+comparable|adj|قابل‌مقایسه
+incomparable|adj|بی‌همتا؛ بی‌مانند
+incomparably|adv|به‌طرز بی‌همتایی
+#combine|Latin combinare 'to join two by two'|verb|ترکیب کردن؛ درآمیختن|B1|Science
+~You can combine the flour with the eggs.|می‌توانید آرد را با تخم‌مرغ ترکیب کنید.
+combine|v|ترکیب کردن
+combination|n|ترکیب؛ تلفیق
+combined|adj|ترکیبی؛ مشترک
+combinable|adj|قابل‌ترکیب
+recombine|v|دوباره ترکیب کردن
+recombination|n|ترکیب مجدد
+#share|Old English scearu 'a cutting, division'|verb|سهیم شدن؛ تقسیم کردن؛ به اشتراک گذاشتن|A1|Daily life
+~She likes to share her lunch with friends.|او دوست دارد ناهارش را با دوستانش تقسیم کند.
+share|v|به اشتراک گذاشتن
+sharing|n|اشتراک‌گذاری
+shareholder|n|سهام‌دار
+shareware|n|نرم‌افزار آزمایشی
+timeshare|n|اشتراک زمانی
+sharer|n|شریک؛ سهیم
+#improve|Anglo-French emprouwer 'to turn to profit'|verb|بهبود دادن؛ بهتر شدن|A2|Progress
+~I want to improve my English this year.|می‌خواهم امسال انگلیسی‌ام را بهتر کنم.
+improve|v|بهبود یافتن
+improvement|n|بهبود؛ پیشرفت
+improved|adj|بهبودیافته
+improver|n|بهبوددهنده
+improvable|adj|قابل‌بهبود
+#increase|Latin increscere 'to grow in'|verb|افزایش یافتن؛ افزودن|A2|Numbers
+~Prices increase every year.|قیمت‌ها هر سال افزایش می‌یابند.
+increase|v|افزایش یافتن
+increasing|adj|رو‌به‌افزایش
+increasingly|adv|به‌طور فزاینده
+increment|n|افزایش تدریجی
+incremental|adj|تدریجی؛ افزایشی
+incrementally|adv|به‌صورت تدریجی
+#expand|Latin expandere 'to spread out'|verb|گسترش دادن؛ بسط دادن|B1|Business
+~The company plans to expand into new markets.|شرکت قصد دارد به بازارهای جدید گسترش یابد.
+expand|v|گسترش دادن
+expansion|n|گسترش؛ بسط
+expansive|adj|گسترده؛ وسیع
+expansionist|adj|توسعه‌طلب
+expandable|adj|قابل‌گسترش
+expander|n|گسترش‌دهنده
+#limit|Latin limes 'boundary'|noun|حد؛ محدودیت|B1|Rules
+~There is a speed limit on this road.|در این جاده محدودیت سرعت وجود دارد.
+limit|n|حد؛ محدودیت
+limited|adj|محدود
+limitation|n|محدودیت؛ نارسایی
+limitless|adj|بی‌حد؛ نامحدود
+unlimited|adj|نامحدود
+delimit|v|مرزبندی کردن
+illimitable|adj|بی‌کران
+#allow|Latin allaudare 'to praise'; Old French alouer|verb|اجازه دادن؛ مجاز دانستن|A2|Rules
+~Smoking is not allowed in this building.|سیگار کشیدن در این ساختمان مجاز نیست.
+allow|v|اجازه دادن
+allowance|n|مقرری؛ کمک‌هزینه
+allowable|adj|مجاز؛ قابل‌قبول
+allowably|adv|به‌طور مجاز
+disallow|v|مجاز ندانستن؛ رد کردن
+disallowance|n|عدم پذیرش
+#require|Latin requirere 'to seek again'|verb|لازم داشتن؛ ایجاب کردن|B1|Rules
+~This job requires good communication skills.|این شغل به مهارت‌های ارتباطی خوب نیاز دارد.
+require|v|نیاز داشتن؛ ایجاب کردن
+requirement|n|الزام؛ شرط لازم
+required|adj|الزامی؛ لازم
+requisite|adj|ضروری؛ لازم
+requisition|n|درخواست رسمی
+prerequisite|n|پیش‌نیاز
+#deliver|Latin deliberare 'to set free'|verb|تحویل دادن؛ رساندن|B1|Services
+~The shop will deliver the sofa on Monday.|فروشگاه کاناپه را دوشنبه تحویل می‌دهد.
+deliver|v|تحویل دادن
+delivery|n|تحویل؛ ارسال
+deliverer|n|تحویل‌دهنده
+deliverable|n|تحویلی؛ خروجی پروژه
+deliverance|n|رهایی؛ نجات
+redeliver|v|دوباره تحویل دادن
+#arrive|Latin ad ripam 'to come to shore'|verb|رسیدن؛ وارد شدن|A1|Travel
+~The train arrives at nine o'clock.|قطار ساعت نه می‌رسد.
+arrive|v|رسیدن
+arrival|n|ورود؛ رسیدن
+arrivals|n|بخش ورودی‌ها
+#enter|Latin intrare 'to go in'|verb|وارد شدن؛ داخل شدن|A2|Movement
+~Please enter your password here.|لطفاً رمز عبور خود را اینجا وارد کنید.
+enter|v|وارد شدن
+entrance|n|ورودی
+entry|n|ورود؛ ثبت‌نام
+entrant|n|شرکت‌کننده
+enterprise|n|بنگاه؛ شرکت؛ ابتکار
+entrepreneur|n|کارآفرین
+entrepreneurial|adj|کارآفرینانه
+reenter|v|دوباره وارد شدن
+#return|Old French retourner 'to turn back'|verb|بازگشتن؛ برگرداندن|A2|Movement
+~She returned home late last night.|او دیشب دیر به خانه برگشت.
+return|v|بازگشتن
+returnable|adj|قابل‌برگشت
+returnee|n|بازگشته
+returning|adj|بازگشتی
+#repeat|Latin repetere 'to seek again'|verb|تکرار کردن|A2|Language
+~Could you repeat the question, please?|می‌شود لطفاً سؤال را تکرار کنید؟
+repeat|v|تکرار کردن
+repetition|n|تکرار
+repetitive|adj|تکراری
+repetitiously|adv|به‌طور تکراری
+repeatedly|adv|مکرراً
+repeatable|adj|قابل‌تکرار
+unrepeatable|adj|تکرارناپذیر
+#perform|Old French parfournir 'to carry out'|verb|اجرا کردن؛ انجام دادن|B1|Arts
+~The band will perform live tonight.|گروه امشب زنده اجرا می‌کند.
+perform|v|اجرا کردن؛ انجام دادن
+performance|n|اجرا؛ عملکرد
+performer|n|اجراکننده؛ هنرمند
+performative|adj|اجرایی
+underperform|v|ضعیف‌تر از انتظار عمل کردن
+outperform|v|بهتر عمل کردن از
+#celebrate|Latin celebrare 'to frequent, honour'|verb|جشن گرفتن؛ تجلیل کردن|A2|Events
+~We celebrated her birthday with a small party.|تولدش را با یک مهمانی کوچک جشن گرفتیم.
+celebrate|v|جشن گرفتن
+celebration|n|جشن؛ تجلیل
+celebrated|adj|مشهور؛ نام‌آور
+celebrity|n|سلبریتی؛ شخص مشهور
+celebrant|n|برگزارکنندهٔ مراسم
+celebratory|adj|جشن‌گونه
+#invite|Latin invitare 'to entertain'|verb|دعوت کردن|A2|Social
+~They invited us to dinner on Saturday.|آن‌ها ما را شنبه به شام دعوت کردند.
+invite|v|دعوت کردن
+invitation|n|دعوت‌نامه؛ دعوت
+invitee|n|مدعو
+inviting|adj|دل‌انگیز؛ وسوسه‌کننده
+invitingly|adv|به‌طرزی دعوت‌کننده
+uninvited|adj|ناخوانده
+#welcome|Old English wilcuma 'a welcome guest'|verb|خوشامد گفتن؛ استقبال کردن|A1|Social
+~Welcome to our home!|به خانهٔ ما خوش آمدید!
+welcome|v|خوشامد گفتن
+welcoming|adj|خوش‌برخورد؛ استقبال‌کننده
+welcomer|n|استقبال‌کننده
+unwelcome|adj|ناخواسته؛ نامطلوب
+unwelcoming|adj|نامهربان؛ سرد
+#forgive|Old English forgiefan 'to give up'|verb|بخشیدن؛ عفو کردن|B1|Emotions
+~I can't forgive him for lying to me.|نمی‌توانم او را به‌خاطر دروغ گفتن ببخشم.
+forgive|v|بخشیدن
+forgiveness|n|بخشش
+forgiving|adj|بخشنده؛ گذشت‌کننده
+forgivable|adj|بخشیدنی
+unforgivable|adj|نابخشودنی
+unforgiving|adj|بی‌گذشت؛ سخت‌گیر
+#punish|Latin punire 'to penalise'|verb|تنبیه کردن؛ مجازات کردن|B1|Law
+~Students were punished for cheating.|دانش‌آموزان به‌خاطر تقلب تنبیه شدند.
+punish|v|تنبیه کردن
+punishment|n|مجازات؛ تنبیه
+punishing|adj|طاقت‌فرسا
+punishable|adj|مجازات‌پذیر
+punitive|adj|تنبیهی
+unpunished|adj|بی‌مجازات
+#reward|Old French rewarder 'to take notice of'|noun|پاداش؛ جایزه|B1|Work
+~The company gave her a reward for her idea.|شرکت برای ایده‌اش به او پاداش داد.
+reward|n|پاداش
+rewarding|adj|رضایت‌بخش؛ ارزشمند
+rewardingly|adv|به‌طرزی رضایت‌بخش
+unrewarding|adj|بی‌ثمر؛ نارضایت‌بخش
+#prove|Latin probare 'to test, approve'|verb|ثابت کردن؛ اثبات کردن|B1|Thinking
+~The experiment proved that the theory was correct.|آزمایش ثابت کرد که نظریه درست بود.
+prove|v|ثابت کردن
+proof|n|اثبات؛ مدرک
+proven|adj|اثبات‌شده
+provable|adj|قابل‌اثبات
+unproven|adj|اثبات‌نشده
+disprove|v|رد کردن؛ باطل کردن
+improbable|adj|نامحتمل
+#examine|Latin examinare 'to weigh, test'|verb|بررسی کردن؛ معاینه کردن|B1|Education
+~The doctor examined the patient carefully.|پزشک بیمار را با دقت معاینه کرد.
+examine|v|بررسی کردن؛ معاینه کردن
+examination|n|امتحان؛ معاینه
+examiner|n|ممتحن؛ بازرس
+examinee|n|آزمون‌دهنده
+exam|n|امتحان
+reexamine|v|دوباره بررسی کردن
+#publish|Latin publicare 'to make public'|verb|منتشر کردن؛ چاپ کردن|B1|Media
+~The university will publish her research next year.|دانشگاه سال آینده پژوهش او را منتشر می‌کند.
+publish|v|منتشر کردن
+publisher|n|ناشر
+publishing|n|نشر؛ انتشارات
+publication|n|انتشار؛ نشریه
+published|adj|منتشرشده
+unpublished|adj|منتشرنشده
+republish|v|دوباره منتشر کردن
+#record|Latin recordari 'to remember'|noun|سابقه؛ ضبط؛ رکورد|A2|Media
+~The singer is recording a new album.|خواننده در حال ضبط آلبوم جدیدی است.
+record|n|سابقه؛ رکورد
+recorder|n|ضبط‌کننده؛ فلوت ریکوردر
+recording|n|ضبط؛ صدای ضبط‌شده
+recorded|adj|ضبط‌شده
+prerecorded|adj|از پیش ضبط‌شده
+#translate|Latin translatus 'carried across'|verb|ترجمه کردن|A2|Language
+~Can you translate this sentence into Persian?|می‌توانی این جمله را به فارسی ترجمه کنی؟
+translate|v|ترجمه کردن
+translation|n|ترجمه
+translator|n|مترجم
+translatable|adj|قابل‌ترجمه
+untranslatable|adj|ترجمه‌ناپذیر
+mistranslate|v|اشتباه ترجمه کردن
+mistranslation|n|ترجمهٔ نادرست
+#interpret|Latin interpretari 'to explain'|verb|تفسیر کردن؛ ترجمهٔ شفاهی کردن|B2|Language
+~Different people may interpret the poem differently.|افراد مختلف ممکن است شعر را متفاوت تفسیر کنند.
+interpret|v|تفسیر کردن
+interpretation|n|تفسیر؛ برداشت
+interpreter|n|مترجم شفاهی
+interpretive|adj|تفسیری
+interpretative|adj|تفسیری
+misinterpret|v|اشتباه تفسیر کردن
+misinterpretation|n|برداشت نادرست
+#encourage|Old French encoragier 'to make strong'|verb|تشویق کردن؛ دلگرم کردن|B1|Emotions
+~Her teacher encouraged her to apply for the prize.|معلمش او را تشویق کرد برای جایزه درخواست بدهد.
+encourage|v|تشویق کردن
+encouragement|n|تشویق؛ دلگرمی
+encouraging|adj|دلگرم‌کننده
+encouragingly|adv|به‌طرزی دلگرم‌کننده
+discourage|v|دلسرد کردن
+discouragement|n|دلسردی
+discouraging|adj|دلسردکننده
+courage|n|شجاعت
+courageous|adj|شجاع
+#public|Latin publicus 'of the people'|adjective|عمومی؛ همگانی|A2|Society
+~The park is open to the public.|پارک برای عموم باز است.
+public|adj|عمومی
+publicly|adv|علناً
+publicity|n|تبلیغات؛ شهرت
+publicise|v|تبلیغ کردن؛ علنی کردن
+publicist|n|مسئول روابط عمومی
+republic|n|جمهوری
+republican|adj|جمهوری‌خواه؛ جمهوری
+#private|Latin privatus 'set apart'|adjective|خصوصی؛ شخصی|A2|Society
+~This is a private conversation.|این یک گفتگوی خصوصی است.
+private|adj|خصوصی
+privately|adv|به‌صورت خصوصی
+privacy|n|حریم خصوصی
+privatise|v|خصوصی‌سازی کردن
+privatisation|n|خصوصی‌سازی
+deprive|v|محروم کردن
+privilege|n|امتیاز ویژه
+#global|Latin globus 'a round mass'|adjective|جهانی؛ سراسری|B1|World
+~Climate change is a global problem.|تغییر اقلیم یک مسئلهٔ جهانی است.
+global|adj|جهانی
+globally|adv|در سطح جهانی
+globe|n|کرهٔ زمین؛ گوی
+globalise|v|جهانی کردن
+globalisation|n|جهانی‌شدن
+globalist|n|جهان‌گرا
+#human|Latin humanus 'of man'|adjective|انسانی؛ بشری|A2|People
+~Every human has basic rights.|هر انسانی حقوق اساسی دارد.
+human|adj|انسانی
+humanity|n|بشریت؛ انسانیت
+humane|adj|انسان‌دوستانه
+humanely|adv|انسانی؛ با ملاحظه
+humanise|v|انسانی کردن
+humanitarian|adj|بشردوستانه
+inhuman|adj|غیرانسانی
+dehumanise|v|انسانیت‌زدایی کردن
+#mental|Latin mens 'mind'|adjective|ذهنی؛ روانی|B1|Health
+~Exercise is good for mental health.|ورزش برای سلامت روان خوب است.
+mental|adj|ذهنی؛ روانی
+mentally|adv|ذهناً؛ از نظر روانی
+mentality|n|طرز فکر؛ ذهنیت
+mention|v|اشاره کردن؛ ذکر کردن
+mentor|n|مربی؛ راهنما
+dementia|n|زوال عقل
+#physical|Greek physikos 'of nature'|adjective|جسمانی؛ فیزیکی|B1|Health
+~Physical exercise helps you sleep better.|ورزش بدنی به خواب بهتر کمک می‌کند.
+physical|adj|جسمانی؛ فیزیکی
+physically|adv|از نظر جسمی
+physics|n|فیزیک
+physicist|n|فیزیکدان
+physician|n|پزشک
+physique|n|هیکل؛ ساختار بدنی
+#art|Latin ars 'skill, craft'|noun|هنر|A1|Arts
+~She studies art at university.|او در دانشگاه هنر می‌خواند.
+art|n|هنر
+artist|n|هنرمند
+artistic|adj|هنری
+artistically|adv|هنرمندانه
+artisan|n|صنعتگر
+artful|adj|زیرک؛ ماهر
+artifact|n|مصنوع؛ شیء تاریخی
+artificial|adj|مصنوعی
+#sound|Latin sonus 'noise'|noun|صدا|A2|Senses
+~I heard a strange sound outside.|بیرون صدای عجیبی شنیدم.
+sound|n|صدا
+soundly|adv|عمیقاً؛ به‌خوبی
+soundless|adj|بی‌صدا
+soundproof|adj|عایق صدا
+soundtrack|n|موسیقی متن فیلم
+resound|v|طنین انداختن
+resounding|adj|پرطنین؛ چشمگیر
+#colour|Latin color 'hue'|noun|رنگ|A1|Senses
+~What is your favourite colour?|رنگ مورد علاقه‌ات چیست؟
+colour|n|رنگ
+colourful|adj|رنگارنگ
+colourless|adj|بی‌رنگ
+colouring|n|رنگ‌آمیزی
+coloured|adj|رنگی
+discolour|v|تغییر رنگ دادن
+watercolour|n|آبرنگ
+#shape|Old English gesceap 'creation'|noun|شکل؛ قالب|A2|Description
+~The cake was in the shape of a heart.|کیک به شکل قلب بود.
+shape|n|شکل
+shaped|adj|شکل‌یافته
+shapeless|adj|بی‌شکل
+shapely|adj|خوش‌اندام
+reshape|v|دوباره شکل دادن
+misshapen|adj|بدشکل؛ ناهنجار
+#size|Old French sise 'assize, fixed amount'|noun|اندازه؛ سایز|A1|Description
+~What size shoes do you wear?|چه سایزی کفش می‌پوشی؟
+size|n|اندازه
+sizeable|adj|قابل‌توجه؛ بزرگ
+sized|adj|اندازه‌دار
+resize|v|تغییر اندازه دادن
+oversize|adj|بزرگ‌تر از حد معمول
+downsize|v|کوچک کردن
+upsize|v|بزرگ کردن
+#weigh|Old English wegan 'to carry, lift'|verb|وزن کردن؛ سنجیدن|A2|Measures
+~Please weigh the apples on the scale.|لطفاً سیب‌ها را روی ترازو وزن کنید.
+weigh|v|وزن کردن
+weight|n|وزن
+weighty|adj|سنگین؛ مهم
+weightless|adj|بی‌وزن
+weightlessness|n|بی‌وزنی
+overweight|adj|اضافه‌وزن
+underweight|adj|کم‌وزن
+heavyweight|n|سنگین‌وزن
+#speed|Old English sped 'success'|noun|سرعت|A2|Movement
+~The car was travelling at high speed.|ماشین با سرعت زیاد حرکت می‌کرد.
+speed|n|سرعت
+speedy|adj|سریع؛ تند
+speedily|adv|با شتاب
+speedometer|n|سرعت‌سنج
+speeding|n|سرعت غیرمجاز
+speedboat|n|قایق تندرو
+speedway|n|پیست سرعت
+#noise|Latin nausea 'seasickness'|noun|سروصدا؛ نویز|A2|Senses
+~The noise from the street woke me up.|سروصدای خیابان مرا از خواب بیدار کرد.
+noise|n|سروصدا
+noisy|adj|پرسروصدا
+noisily|adv|با سروصدا
+noiseless|adj|بی‌صدا
+noiselessly|adv|بی‌سروصدا
+noisiness|n|پرسروصدایی
+#fight|Old English feohtan|verb|جنگیدن؛ مبارزه کردن|A2|Conflict
+~The two boys were fighting in the playground.|دو پسر در حیاط مدرسه دعوا می‌کردند.
+fight|v|جنگیدن
+fighter|n|جنگجو؛ مبارز
+fighting|n|درگیری؛ جنگ
+firefighter|n|آتش‌نشان
+fistfight|n|دعوای مشت‌زنی
+#attack|Italian attaccare 'to join battle'|verb|حمله کردن|B1|Conflict
+~The dog attacked the postman.|سگ به پستچی حمله کرد.
+attack|v|حمله کردن
+attacker|n|مهاجم
+attacking|adj|تهاجمی
+counterattack|n|ضدحمله
+unattacked|adj|حمله‌نشده
+#drive|Old English drifan|verb|رانندگی کردن|A1|Transport
+~My father drives to work every day.|پدرم هر روز با ماشین سر کار می‌رود.
+drive|v|رانندگی کردن
+driver|n|راننده
+driving|n|رانندگی
+driveway|n|مسیر ورودی خانه
+drive-in|adj|درایو‌این
+overdrive|n|حالت پرقدرت
+screwdriver|n|پیچ‌گوشتی
+#walk|Old English wealcan 'to roll, toss'|verb|راه رفتن|A1|Movement
+~We walk to school every morning.|ما هر صبح پیاده به مدرسه می‌رویم.
+walk|v|راه رفتن
+walker|n|عابر پیاده؛ واکر
+walking|n|پیاده‌روی
+walkout|n|اعتصاب؛ ترک جلسه
+walkway|n|راهروی عابر
+sidewalk|n|پیاده‌رو
+#run|Old English rinnan|verb|دویدن؛ اداره کردن|A1|Movement
+~He runs five kilometres every morning.|او هر صبح پنج کیلومتر می‌دود.
+run|v|دویدن
+runner|n|دونده
+running|n|دویدن
+runway|n|باند فرودگاه
+runaway|adj|فراری
+outrun|v|پیشی گرفتن
+rerun|n|پخش مجدد
+#fly|Old English fleogan|verb|پرواز کردن|A1|Transport
+~Birds fly south in the winter.|پرندگان در زمستان به سمت جنوب پرواز می‌کنند.
+fly|v|پرواز کردن
+flight|n|پرواز
+flyer|n|پروازکننده؛ تراکت
+flying|adj|پرنده
+flyover|n|بالگذر
+flightless|adj|ناپرنده
