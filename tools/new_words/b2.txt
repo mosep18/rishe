@@ -1,0 +1,341 @@
+#compete|Latin competere|verb|رقابت کردن|B1|Business
+~Small shops cannot compete with large supermarkets.|مغازه‌های کوچک نمی‌توانند با فروشگاه‌های بزرگ رقابت کنند.
+compete|v|رقابت کردن
+competition|n|رقابت؛ مسابقه
+competitor|n|رقیب
+competitive|adj|رقابتی
+competitively|adv|به‌طور رقابتی
+competitiveness|n|رقابت‌پذیری
+competent|adj|شایسته؛ توانمند
+competence|n|شایستگی
+incompetent|adj|بی‌کفایت
+incompetence|n|بی‌کفایتی
+#sell|Old English sellan|verb|فروختن|A1|Business
+~They sell fresh fruit at the market.|آنها در بازار میوهٔ تازه می‌فروشند.
+sell|v|فروختن
+seller|n|فروشنده
+selling|n|فروش
+sale|n|فروش؛ حراج
+sales|n|فروش‌ها
+salesman|n|فروشنده (مرد)
+saleswoman|n|فروشنده (زن)
+bestseller|n|پرفروش
+resell|v|دوباره فروختن
+unsold|adj|فروش‌نرفته
+#buy|Old English bycgan|verb|خریدن|A1|Business
+~I want to buy a new phone.|می‌خواهم یک گوشی جدید بخرم.
+buy|v|خریدن
+buyer|n|خریدار
+buying|n|خرید
+buyout|n|خرید سهام یک شرکت
+buyback|n|بازخرید
+unbought|adj|نخریده‌شده
+#pay|Latin pacare|verb|پرداخت کردن|A1|Business
+~You can pay by card or in cash.|می‌توانید با کارت یا نقد پرداخت کنید.
+pay|v|پرداخت کردن
+payment|n|پرداخت
+payer|n|پرداخت‌کننده
+payable|adj|قابل پرداخت
+payroll|n|فهرست حقوق
+payday|n|روز پرداخت حقوق
+repay|v|بازپرداخت کردن
+repayment|n|بازپرداخت
+overpay|v|بیش‌ازحد پرداختن
+underpay|v|کمتر از حد پرداختن
+prepay|v|پیش‌پرداخت کردن
+unpaid|adj|پرداخت‌نشده
+#trade|Old High German trata|noun|تجارت؛ داد و ستد|B1|Business
+~Trade between the two countries has increased.|تجارت میان دو کشور افزایش یافته است.
+trade|n|تجارت
+trader|n|تاجر؛ معامله‌گر
+trading|n|معامله
+tradesman|n|پیشه‌ور
+trademark|n|علامت تجاری
+tradeoff|n|مصالحه؛ بده‌بستان
+retrade|v|دوباره معامله کردن
+#business|Old English bisignes|noun|کسب‌وکار؛ تجارت|A2|Business
+~She started her own business last year.|او سال گذشته کسب‌وکار خودش را راه انداخت.
+business|n|کسب‌وکار
+businessman|n|تاجر؛ بازرگان
+businesswoman|n|بانوی تاجر
+businesslike|adj|حرفه‌ای؛ جدی
+busy|adj|مشغول؛ شلوغ
+busily|adv|با مشغله
+busyness|n|پرمشغله‌بودن
+#company|Old French compagnie|noun|شرکت؛ همراهی|A2|Business
+~The company employs over five hundred people.|این شرکت بیش از پانصد نفر را استخدام کرده است.
+company|n|شرکت
+companion|n|همدم؛ همراه
+companionship|n|همدمی
+accompany|v|همراهی کردن
+accompaniment|n|همراهی؛ همنوازی
+accompanied|adj|همراه‌شده
+unaccompanied|adj|بدون همراه
+#industry|Latin industria|noun|صنعت|B1|Business
+~The car industry employs thousands of workers.|صنعت خودرو هزاران کارگر را به کار گرفته است.
+industry|n|صنعت
+industrial|adj|صنعتی
+industrially|adv|به‌صورت صنعتی
+industrialize|v|صنعتی کردن
+industrialization|n|صنعتی‌شدن
+industrialist|n|صنعتگر
+industrious|adj|سخت‌کوش
+post-industrial|adj|پساصنعتی
+#economy|Greek oikonomia|noun|اقتصاد|B1|Business
+~The economy grew by three percent last year.|اقتصاد سال گذشته سه درصد رشد کرد.
+economy|n|اقتصاد
+economic|adj|اقتصادی
+economical|adj|مقرون‌به‌صرفه
+economically|adv|از نظر اقتصادی
+economics|n|علم اقتصاد
+economist|n|اقتصاددان
+economize|v|صرفه‌جویی کردن
+uneconomical|adj|غیراقتصادی
+#finance|Old French finance|noun|امور مالی|B1|Business
+~The company needs more finance to expand.|شرکت برای گسترش به منابع مالی بیشتری نیاز دارد.
+finance|n|امور مالی
+financial|adj|مالی
+financially|adv|از نظر مالی
+financier|n|سرمایه‌دار؛ تأمین‌کنندهٔ مالی
+financing|n|تأمین مالی
+refinance|v|بازتأمین مالی کردن
+finances|n|وضع مالی
+#invest|Latin investire|verb|سرمایه‌گذاری کردن|B1|Business
+~They invested their savings in a small business.|آنها پس‌اندازشان را در یک کسب‌وکار کوچک سرمایه‌گذاری کردند.
+invest|v|سرمایه‌گذاری کردن
+investment|n|سرمایه‌گذاری
+investor|n|سرمایه‌گذار
+investigate|v|بررسی کردن؛ تحقیق کردن
+investigation|n|تحقیق؛ بازرسی
+investigator|n|بازرس؛ محقق
+reinvest|v|دوباره سرمایه‌گذاری کردن
+disinvest|v|سرمایه‌کشی کردن
+#price|Latin pretium|noun|قیمت؛ بها|A1|Business
+~The price of petrol has gone up again.|قیمت بنزین دوباره بالا رفته است.
+price|n|قیمت
+priced|adj|قیمت‌گذاری‌شده
+pricey|adj|گران
+priceless|adj|بی‌بها؛ گران‌بها
+pricing|n|قیمت‌گذاری
+overprice|v|گران‌قیمت‌گذاری کردن
+overpriced|adj|گران‌تر از ارزش
+underpriced|adj|ارزان‌تر از ارزش
+reprice|v|قیمت‌گذاری مجدد کردن
+#value|Latin valere|noun|ارزش؛ ارزشمند شمردن|B1|Business
+~The value of the house has doubled.|ارزش خانه دو برابر شده است.
+value|n|ارزش
+valuable|adj|ارزشمند
+valuables|n|اشیای قیمتی
+valueless|adj|بی‌ارزش
+invaluable|adj|بسیار ارزشمند؛ بی‌بدیل
+evaluate|v|ارزیابی کردن
+evaluation|n|ارزیابی
+devalue|v|کاهش ارزش دادن
+devaluation|n|کاهش ارزش
+undervalue|v|دست‌کم گرفتن
+overvalue|v|بیش‌ازحد ارزش نهادن
+revalue|v|ارزش‌گذاری مجدد کردن
+#measure|Latin mensura|verb|اندازه گرفتن؛ سنجیدن|B1|Science
+~Scientists measure the temperature every hour.|دانشمندان هر ساعت دما را اندازه می‌گیرند.
+measure|v|اندازه گرفتن
+measurement|n|اندازه‌گیری
+measurable|adj|قابل اندازه‌گیری
+measured|adj|سنجیده؛ حساب‌شده
+immeasurable|adj|بی‌اندازه
+immeasurably|adv|بی‌اندازه
+measures|n|اقدامات
+unmeasured|adj|اندازه‌گیری‌نشده
+#count|Latin computare|verb|شمردن|A1|Math
+~Can you count from one to twenty?|می‌توانی از یک تا بیست بشماری؟
+count|v|شمردن
+counter|n|پیشخوان؛ شمارنده
+countless|adj|بی‌شمار
+counting|n|شمارش
+recount|v|دوباره شمردن؛ بازگو کردن
+miscount|v|اشتباه شمردن
+account|n|حساب؛ گزارش
+accountable|adj|پاسخگو
+accountability|n|پاسخگویی
+accountant|n|حسابدار
+accounting|n|حسابداری
+discount|n|تخفیف
+#calculate|Latin calculare|verb|محاسبه کردن|B1|Math
+~Calculate the total cost before you buy.|پیش از خرید، هزینهٔ کل را محاسبه کنید.
+calculate|v|محاسبه کردن
+calculation|n|محاسبه
+calculator|n|ماشین‌حساب
+calculated|adj|حساب‌شده؛ سنجیده
+calculating|adj|حسابگر
+incalculable|adj|بی‌حساب؛ غیرقابل محاسبه
+miscalculate|v|اشتباه محاسبه کردن
+miscalculation|n|اشتباه محاسباتی
+recalculate|v|دوباره محاسبه کردن
+#energy|Greek energeia|noun|انرژی؛ نیرو|A2|Science
+~Solar energy is becoming cheaper every year.|انرژی خورشیدی هر سال ارزان‌تر می‌شود.
+energy|n|انرژی
+energetic|adj|پرانرژی
+energetically|adv|با انرژی
+energize|v|انرژی بخشیدن
+energizing|adj|انرژی‌بخش
+energy-saving|adj|کم‌مصرف
+#power|Latin potere|noun|قدرت؛ نیرو|A2|Science
+~The storm cut off the power for two days.|طوفان برق را برای دو روز قطع کرد.
+power|n|قدرت؛ برق
+powerful|adj|قدرتمند
+powerfully|adv|به‌طور قدرتمند
+powerless|adj|ناتوان
+powerlessness|n|ناتوانی
+empower|v|توانمند کردن
+empowerment|n|توانمندسازی
+overpower|v|مغلوب کردن
+overpowering|adj|طاقت‌فرسا
+superpower|n|ابرقدرت
+horsepower|n|اسب‌بخار
+#environment|Old French environner|noun|محیط زیست|B1|Science
+~We must protect the environment for future generations.|باید از محیط زیست برای نسل‌های آینده محافظت کنیم.
+environment|n|محیط
+environmental|adj|زیست‌محیطی
+environmentally|adv|از نظر زیست‌محیطی
+environmentalist|n|فعال محیط زیست
+environmentalism|n|محیط‌گرایی
+environs|n|پیرامون
+#pollute|Latin polluere|verb|آلوده کردن|B1|Science
+~Factories pollute the river with waste.|کارخانه‌ها رودخانه را با زباله آلوده می‌کنند.
+pollute|v|آلوده کردن
+pollution|n|آلودگی
+polluter|n|آلاینده
+polluted|adj|آلوده
+pollutant|n|آلاینده
+unpolluted|adj|پاک؛ غیرآلوده
+#nature|Latin natura|noun|طبیعت|A2|Science
+~I love walking in nature on weekends.|دوست دارم آخر هفته‌ها در طبیعت قدم بزنم.
+nature|n|طبیعت
+natural|adj|طبیعی
+naturally|adv|طبیعتاً
+naturalist|n|طبیعی‌دان
+naturalize|v|تابعیت دادن
+unnatural|adj|غیرطبیعی
+unnaturally|adv|به‌طرز غیرطبیعی
+supernatural|adj|ماورایی
+denature|v|از حالت طبیعی درآوردن
+#science|Latin scientia|noun|علم|A2|Science
+~Science helps us understand the world.|علم به ما کمک می‌کند جهان را بفهمیم.
+science|n|علم
+scientific|adj|علمی
+scientifically|adv|به‌صورت علمی
+scientist|n|دانشمند
+unscientific|adj|غیرعلمی
+pseudoscience|n|شبه‌علم
+conscience|n|وجدان
+conscious|adj|آگاه؛ هشیار
+consciousness|n|هشیاری؛ آگاهی
+unconscious|adj|ناخودآگاه؛ بی‌هوش
+subconscious|adj|نیمه‌هشیار
+#technology|Greek tekhnologia|noun|فناوری|B1|Science
+~New technology has changed how we communicate.|فناوری نو شیوهٔ ارتباط ما را تغییر داده است.
+technology|n|فناوری
+technological|adj|فناورانه
+technologically|adv|از نظر فناوری
+technologist|n|متخصص فناوری
+technical|adj|فنی
+technically|adv|از نظر فنی
+technician|n|تکنسین
+technique|n|روش؛ تکنیک
+technocrat|n|تکنوکرات
+high-tech|adj|پیشرفته‌فناوری
+#computer|Latin computare|noun|رایانه|A1|Technology
+~My computer is too slow to use.|رایانهٔ من برای استفاده خیلی کند است.
+computer|n|رایانه
+compute|v|محاسبه کردن
+computing|n|رایانش
+computation|n|محاسبات
+computational|adj|محاسباتی
+computerize|v|رایانه‌ای کردن
+computerized|adj|رایانه‌ای
+computerization|n|رایانه‌ای‌سازی
+#electric|Greek elektron|adjective|الکتریکی؛ برقی|A2|Technology
+~Electric cars are becoming popular.|خودروهای برقی دارند محبوب می‌شوند.
+electric|adj|برقی
+electrical|adj|مربوط به برق
+electrically|adv|به‌صورت برقی
+electricity|n|برق؛ الکتریسیته
+electrician|n|برقکار
+electrify|v|برقی کردن؛ به هیجان آوردن
+electrification|n|برق‌رسانی
+electronic|adj|الکترونیکی
+electronics|n|الکترونیک
+electron|n|الکترون
+electrocute|v|برق‌گرفته کردن
+#medicine|Latin medicina|noun|پزشکی؛ دارو|B1|Health
+~Modern medicine saves millions of lives.|پزشکی مدرن جان میلیون‌ها نفر را نجات می‌دهد.
+medicine|n|پزشکی؛ دارو
+medical|adj|پزشکی
+medically|adv|از نظر پزشکی
+medication|n|دارو؛ درمان دارویی
+medicinal|adj|دارویی
+medicate|v|دارو دادن
+paramedic|n|امدادگر پزشکی
+medic|n|پزشک؛ امدادگر
+#health|Old English hǣlþ|noun|سلامت|A1|Health
+~Regular exercise is good for your health.|ورزش منظم برای سلامتی مفید است.
+health|n|سلامت
+healthy|adj|سالم
+healthily|adv|به‌صورت سالم
+healthier|adj|سالم‌تر
+unhealthy|adj|ناسالم
+unhealthily|adv|به‌طور ناسالم
+healthcare|n|مراقبت‌های بهداشتی
+health-conscious|adj|حساس به سلامت
+heal|v|بهبود یافتن؛ شفا دادن
+healer|n|درمانگر
+healing|n|بهبودی
+#sick|Old English sēoc|adjective|بیمار؛ مریض|A1|Health
+~He stayed home because he felt sick.|او چون احساس بیماری می‌کرد در خانه ماند.
+sick|adj|بیمار
+sickness|n|بیماری
+sicken|v|بیمار کردن؛ منزجر کردن
+sickening|adj|تهوع‌آور
+sickly|adj|ناخوش‌احوال؛ رنگ‌پریده
+seasick|adj|دچار دریازدگی
+carsick|adj|ماشین‌زده
+homesick|adj|دلتنگ وطن
+#pain|Latin poena|noun|درد؛ رنج|A2|Health
+~I have a sharp pain in my back.|درد تیزی در کمرم دارم.
+pain|n|درد
+painful|adj|دردناک
+painfully|adv|به‌طرز دردناکی
+painless|adj|بی‌درد
+painlessly|adv|بدون درد
+painkiller|n|مسکن
+painstaking|adj|پرزحمت؛ بسیار دقیق
+pains|n|زحمت
+#danger|Old French dangier|noun|خطر|A2|Health
+~Smoking is a danger to your health.|سیگار کشیدن برای سلامتی شما خطر دارد.
+danger|n|خطر
+dangerous|adj|خطرناک
+dangerously|adv|به‌طرز خطرناکی
+endanger|v|به خطر انداختن
+endangered|adj|در معرض انقراض؛ در خطر
+undangerous|adj|بی‌خطر
+#safe|Latin salvus|adjective|ایمن؛ امن|A2|Health
+~Keep your passport in a safe place.|گذرنامه‌ات را در جای امنی نگه دار.
+safe|adj|امن
+safely|adv|با ایمنی
+safety|n|ایمنی
+safeguard|v|محافظت کردن
+safeguard|n|محافظت؛ تدبیر ایمنی
+unsafe|adj|ناامن
+save|v|نجات دادن؛ پس‌انداز کردن
+saving|n|پس‌انداز
+savings|n|پس‌اندازها
+saver|n|پس‌اندازکننده
+savior|n|نجات‌دهنده
+#secure|Latin securus|adjective|مطمئن؛ ایمن|B1|Health
+~Make sure the door is secure before you leave.|پیش از رفتن مطمئن شو که در محکم قفل است.
+secure|adj|ایمن؛ مطمئن
+securely|adv|به‌طور مطمئن
+security|n|امنیت
+insecure|adj|ناامن؛ بی‌اعتماد به‌نفس
+insecurity|n|ناامنی
+securities|n|اوراق بهادار
+secured|adj|تضمین‌شده

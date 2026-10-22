@@ -1,0 +1,330 @@
+quick|adj|سریع؛ تند|A2|Description
+heavy|adj|سنگین|A2|Description
+silent|adj|ساکت؛ بی‌صدا|B1|Description
+rough|adj|زبر؛ خشن؛ ناهموار|B1|Description
+already|adv|قبلاً؛ از پیش|A2|Time
+quite|adv|کاملاً؛ نسبتاً|A2|Degree
+jump|v|پریدن|A2|Movement
+throw|v|پرتاب کردن؛ انداختن|A2|Movement
+wear|v|پوشیدن؛ به تن داشتن|A2|Clothes
+wait|v|منتظر ماندن؛ صبر کردن|A1|Daily Life
+during|prep|در طول؛ طی|A2|Time
+until|conj|تا زمانی که؛ تا|A2|Time
+although|conj|اگرچه؛ با این‌که|B1|Grammar
+unless|conj|مگر این‌که؛ اگر ... نباشد|B1|Grammar
+whether|conj|آیا؛ چه ... چه|B1|Grammar
+while|conj|در حالی که؛ هنگامی که|A2|Grammar
+since|prep|از؛ از زمانی که|A2|Time
+beside|prep|کنار؛ پهلوی|A2|Position
+beneath|prep|زیر؛ پایین|B2|Position
+behind|prep|پشت؛ عقب|A2|Position
+beyond|prep|آن‌سوی؛ فراتر از|B1|Position
+toward|prep|به سمت؛ به طرف|B1|Direction
+across|prep|آن‌سوی؛ عرض؛ از میان|A2|Direction
+through|prep|از میان؛ از طریق|A2|Direction
+among|prep|در میان؛ بین|B1|Position
+against|prep|در برابر؛ علیه|A2|Position
+without|prep|بدون|A1|Grammar
+within|prep|درون؛ در عرض|B1|Position
+inside|prep|داخل؛ درون|A2|Position
+outside|prep|بیرون؛ خارج از|A2|Position
+above|prep|بالای؛ بالاتر از|A2|Position
+below|prep|زیر؛ پایین‌تر از|A2|Position
+around|prep|دور؛ اطراف؛ حدود|A2|Position
+along|prep|در امتداد؛ کنار|B1|Direction
+upon|prep|بر روی؛ به محض|B2|Position
+despite|prep|با وجود|B1|Grammar
+instead|adv|به جای آن؛ در عوض|A2|Grammar
+however|adv|با این حال؛ اما|B1|Grammar
+therefore|adv|بنابراین؛ از این رو|B1|Grammar
+otherwise|adv|وگرنه؛ در غیر این صورت|B1|Grammar
+meanwhile|adv|در این میان؛ در همین حال|B2|Time
+besides|adv|علاوه بر این؛ گذشته از این|B1|Grammar
+moreover|adv|افزون بر این؛ علاوه بر این|B2|Grammar
+yet|adv|هنوز؛ با این حال|A2|Time
+still|adv|هنوز؛ باز هم|A2|Time
+ever|adv|تا به حال؛ هرگاه|A2|Time
+never|adv|هرگز؛ هیچ‌وقت|A1|Time
+always|adv|همیشه|A1|Time
+often|adv|اغلب؛ بارها|A1|Time
+sometimes|adv|گاهی؛ بعضی وقت‌ها|A1|Time
+seldom|adv|به ندرت؛ کم‌تر|B1|Time
+soon|adv|به زودی؛ زود|A1|Time
+later|adv|بعداً؛ دیرتر|A1|Time
+early|adv|زود؛ اوایل|A1|Time
+late|adv|دیر|A1|Time
+once|adv|یک بار؛ زمانی|A2|Time
+twice|adv|دو بار|A2|Time
+again|adv|دوباره؛ باز|A1|Time
+forever|adv|برای همیشه؛ تا ابد|B1|Time
+nowadays|adv|این روزها؛ امروزه|B1|Time
+almost|adv|تقریباً؛ نزدیک|A2|Degree
+barely|adv|به زحمت؛ به سختی|B2|Degree
+enough|adv|به اندازه کافی؛ کافی|A2|Degree
+too|adv|هم؛ بیش از حد|A1|Degree
+rather|adv|نسبتاً؛ ترجیحاً|B1|Degree
+fairly|adv|نسبتاً؛ تا حدی|B1|Degree
+perhaps|adv|شاید؛ احتمالاً|A2|Grammar
+maybe|adv|شاید|A1|Grammar
+indeed|adv|در واقع؛ به راستی|B1|Grammar
+merely|adv|فقط؛ صرفاً|B2|Degree
+nearby|adv|نزدیک؛ در همان نزدیکی|B1|Position
+abroad|adv|خارج از کشور؛ در خارج|A2|Place
+somewhere|adv|جایی؛ یک جا|A2|Place
+anywhere|adv|هرجا؛ هیچ‌جا|A2|Place
+everywhere|adv|همه‌جا|A2|Place
+nowhere|adv|هیچ‌جا|A2|Place
+upstairs|adv|طبقه بالا؛ بالا|A2|Place
+downstairs|adv|طبقه پایین؛ پایین|A2|Place
+ahead|adv|جلو؛ پیش‌رو|B1|Direction
+aside|adv|کنار؛ به یک سو|B2|Direction
+backward|adv|به عقب؛ رو به عقب|B2|Direction
+forward|adv|به جلو؛ رو به جلو|B1|Direction
+apart|adv|جدا؛ از هم|B1|Position
+alone|adj|تنها؛ به تنهایی|A2|Feelings
+lonely|adj|تنها؛ منزوی|B1|Feelings
+afraid|adj|ترسیده؛ نگران|A2|Feelings
+scared|adj|ترسیده؛ وحشت‌زده|A2|Feelings
+nervous|adj|عصبی؛ مضطرب|B1|Feelings
+jealous|adj|حسود؛ رشک‌برنده|B1|Feelings
+proud|adj|مغرور؛ سربلند؛ مفتخر|B1|Feelings
+ashamed|adj|شرمنده؛ خجالت‌زده|B2|Feelings
+embarrassed|adj|خجالت‌زده؛ شرمسار|B1|Feelings
+glad|adj|خوشحال؛ راضی|A2|Feelings
+calm|adj|آرام؛ ساکت|B1|Feelings
+relaxed|adj|آسوده؛ راحت|B1|Feelings
+curious|adj|کنجکاو|B1|Feelings
+brave|adj|شجاع؛ دلیر|B1|Feelings
+shy|adj|خجالتی؛ کم‌رو|A2|Feelings
+lazy|adj|تنبل؛ کاهل|A2|Personality
+polite|adj|مؤدب|A2|Personality
+rude|adj|بی‌ادب؛ گستاخ|A2|Personality
+selfish|adj|خودخواه|B1|Personality
+clever|adj|زرنگ؛ باهوش|A2|Personality
+smart|adj|باهوش؛ شیک|A2|Personality
+silly|adj|احمقانه؛ بی‌خیال|B1|Personality
+wise|adj|عاقل؛ دانا|B1|Personality
+fair|adj|منصفانه؛ عادلانه|B1|Personality
+loud|adj|بلند؛ پر سر و صدا|A2|Description
+quiet|adj|آرام؛ ساکت|A1|Description
+dull|adj|کسل‌کننده؛ کدر؛ کند|B1|Description
+sharp|adj|تیز؛ برنده|B1|Description
+smooth|adj|صاف؛ هموار|B1|Description
+soft|adj|نرم|A2|Description
+thick|adj|ضخیم؛ غلیظ|A2|Description
+thin|adj|نازک؛ لاغر|A2|Description
+narrow|adj|باریک؛ تنگ|B1|Description
+wide|adj|پهن؛ عریض|A2|Description
+deep|adj|عمیق؛ ژرف|A2|Description
+flat|adj|تخت؛ صاف|A2|Description
+round|adj|گرد؛ دایره‌ای|A2|Description
+straight|adj|مستقیم؛ راست|A2|Description
+tight|adj|تنگ؛ سفت|B1|Description
+loose|adj|گشاد؛ شل|B1|Description
+empty|adj|خالی|A2|Description
+full|adj|پر؛ سیر|A1|Description
+dry|adj|خشک|A2|Description
+wet|adj|خیس؛ مرطوب|A2|Description
+fresh|adj|تازه|A2|Description
+sour|adj|ترش|B1|Taste
+sweet|adj|شیرین|A1|Taste
+bitter|adj|تلخ|B1|Taste
+hungry|adj|گرسنه|A1|Feelings
+thirsty|adj|تشنه|A1|Feelings
+dirty|adj|کثیف؛ آلوده|A1|Description
+clean|adj|تمیز|A1|Description
+tidy|adj|مرتب؛ منظم|B1|Description
+messy|adj|نامرتب؛ به‌هم‌ریخته|B1|Description
+cheap|adj|ارزان|A1|Money
+rich|adj|ثروتمند؛ غنی|A2|Money
+poor|adj|فقیر؛ بیچاره|A2|Money
+strange|adj|عجیب؛ غریب|A2|Description
+odd|adj|عجیب؛ فرد|B1|Description
+rare|adj|کمیاب؛ نادر|B1|Description
+main|adj|اصلی؛ عمده|A2|Description
+whole|adj|تمام؛ کل؛ سالم|A2|Description
+several|det|چند؛ چندین|A2|Quantity
+every|det|هر؛ همه|A1|Quantity
+each|det|هر یک؛ هر|A1|Quantity
+either|det|هر یک از دو؛ یا|B1|Quantity
+neither|det|هیچ‌کدام (از دو)|B1|Quantity
+both|det|هر دو|A1|Quantity
+another|det|یکی دیگر؛ دیگری|A1|Quantity
+other|det|دیگر؛ سایر|A1|Quantity
+plenty|n|فراوانی؛ مقدار زیاد|B1|Quantity
+half|n|نیم؛ نصف|A1|Number
+pair|n|جفت؛ زوج|A2|Number
+couple|n|زوج؛ دو سه تا|A2|Number
+dozen|n|دوازده تایی؛ دوجین|B1|Number
+hundred|n|صد|A1|Number
+thousand|n|هزار|A1|Number
+million|n|میلیون|A2|Number
+first|adj|اول؛ نخست|A1|Number
+third|adj|سوم|A1|Number
+last|adj|آخر؛ گذشته|A1|Time
+next|adj|بعدی؛ آینده|A1|Time
+brief|adj|کوتاه؛ مختصر|B2|Time
+moment|n|لحظه|A2|Time
+north|n|شمال|A1|Direction
+south|n|جنوب|A1|Direction
+east|n|شرق|A1|Direction
+west|n|غرب|A1|Direction
+left|adj|چپ|A1|Direction
+edge|n|لبه؛ کناره|B1|Place
+middle|n|وسط؛ میانه|A2|Position
+front|n|جلو؛ پیش|A2|Position
+back|n|پشت؛ عقب|A1|Position
+side|n|سو؛ کنار؛ پهلو|A2|Position
+top|n|بالا؛ قله|A2|Position
+bottom|n|ته؛ پایین|A2|Position
+climb|v|بالا رفتن؛ صعود کردن|A2|Movement
+slide|v|سر خوردن؛ لغزیدن|B1|Movement
+slip|v|لیز خوردن؛ سر خوردن|B1|Movement
+fall|v|افتادن؛ سقوط کردن|A1|Movement
+drop|v|انداختن؛ رها کردن؛ افتادن|A2|Movement
+lift|v|بلند کردن؛ بالا بردن|A2|Movement
+raise|v|بالا بردن؛ افزایش دادن|B1|Movement
+pull|v|کشیدن|A2|Movement
+carry|v|حمل کردن؛ بردن|A2|Movement
+hold|v|نگه داشتن؛ در دست گرفتن|A2|Movement
+grab|v|چنگ زدن؛ قاپیدن|B1|Movement
+catch|v|گرفتن؛ به دام انداختن|A2|Movement
+kick|v|لگد زدن|A2|Movement
+hit|v|زدن؛ ضربه زدن|A2|Movement
+shake|v|تکان دادن؛ لرزیدن|B1|Movement
+bend|v|خم کردن؛ خم شدن|B1|Movement
+stretch|v|کشیدن؛ کش آمدن|B1|Movement
+turn|v|چرخیدن؛ برگشتن؛ چرخاندن|A1|Movement
+roll|v|غلتیدن؛ غلتاندن|B1|Movement
+wave|v|دست تکان دادن؛ موج زدن|B1|Movement
+chase|v|دنبال کردن؛ تعقیب کردن|B1|Movement
+hide|v|پنهان کردن؛ پنهان شدن|A2|Movement
+wander|v|پرسه زدن؛ ول گشتن|B2|Movement
+rush|v|عجله کردن؛ شتافتن|B1|Movement
+hurry|v|عجله کردن|A2|Movement
+reach|v|رسیدن به؛ دست یافتن|A2|Movement
+pour|v|ریختن|B1|Action
+spill|v|ریختن؛ سرریز کردن|B2|Action
+fill|v|پر کردن|A2|Action
+cut|v|بریدن؛ قطع کردن|A1|Action
+tear|v|پاره کردن؛ پاره شدن|B1|Action
+fold|v|تا کردن؛ تا زدن|B1|Action
+wrap|v|بسته‌بندی کردن؛ پیچیدن|B1|Action
+tie|v|بستن؛ گره زدن|B1|Action
+mix|v|مخلوط کردن؛ قاطی کردن|A2|Action
+stir|v|هم زدن|B1|Action
+bake|v|پختن (در فر)|A2|Cooking
+boil|v|جوشیدن؛ جوشاندن|A2|Cooking
+fry|v|سرخ کردن|A2|Cooking
+roast|v|کباب کردن؛ بو دادن|B1|Cooking
+melt|v|ذوب شدن؛ آب شدن|B1|Action
+freeze|v|یخ زدن؛ منجمد کردن|B1|Action
+burn|v|سوختن؛ سوزاندن|A2|Action
+shine|v|درخشیدن؛ تابیدن|B1|Action
+float|v|شناور بودن؛ روی آب ماندن|B1|Action
+sink|v|غرق شدن؛ فرو رفتن|B1|Action
+dig|v|کندن؛ حفر کردن|B1|Action
+knock|v|در زدن؛ کوبیدن|B1|Action
+ring|v|زنگ زدن؛ به صدا درآمدن|A2|Action
+rub|v|مالیدن؛ ساییدن|B1|Action
+sweep|v|جارو کردن|B1|Action
+wash|v|شستن|A1|Action
+paint|v|رنگ کردن؛ نقاشی کردن|A1|Action
+draw|v|کشیدن؛ طراحی کردن|A1|Action
+pick|v|چیدن؛ انتخاب کردن|A2|Action
+chew|v|جویدن|B1|Body
+bite|v|گاز گرفتن|B1|Body
+blow|v|وزیدن؛ فوت کردن|B1|Body
+breathe|v|نفس کشیدن|B1|Body
+cough|v|سرفه کردن|B1|Body
+stare|v|خیره شدن|B2|Body
+glance|v|نگاه کوتاه کردن|B2|Body
+whisper|v|نجوا کردن؛ زمزمه کردن|B1|Communication
+shout|v|فریاد زدن؛ داد زدن|A2|Communication
+scream|v|جیغ زدن؛ فریاد کشیدن|B1|Communication
+cry|v|گریه کردن؛ فریاد زدن|A2|Feelings
+laugh|v|خندیدن|A1|Feelings
+smile|v|لبخند زدن|A1|Feelings
+hug|v|در آغوش گرفتن|B1|Feelings
+kiss|v|بوسیدن|A2|Feelings
+hate|v|متنفر بودن از|A2|Feelings
+miss|v|دلتنگ بودن؛ از دست دادن|A2|Feelings
+doubt|v|شک داشتن|B1|Feelings
+wish|v|آرزو کردن؛ خواستن|A2|Feelings
+guess|v|حدس زدن|A2|Thinking
+suppose|v|فرض کردن؛ گمان کردن|B1|Thinking
+imagine|v|تصور کردن|B1|Thinking
+forget|v|فراموش کردن|A1|Thinking
+notice|v|متوجه شدن؛ دیدن|B1|Thinking
+realize|v|پی بردن؛ درک کردن|B1|Thinking
+lend|v|قرض دادن|B1|Money
+borrow|v|قرض گرفتن|A2|Money
+owe|v|بدهکار بودن|B2|Money
+earn|v|درآمد کسب کردن؛ به دست آوردن|B1|Money
+waste|v|هدر دادن؛ تلف کردن|B1|Money
+cost|v|هزینه داشتن؛ ارزیدن|A2|Money
+bloom|v|شکوفا شدن؛ گل دادن|B2|Nature
+rise|v|بالا آمدن؛ طلوع کردن|B1|Nature
+flow|v|جاری شدن؛ روان بودن|B2|Nature
+belong|v|تعلق داشتن|B1|Abstract
+remain|v|ماندن؛ باقی ماندن|B1|Abstract
+seem|v|به نظر رسیدن|A2|Abstract
+happen|v|اتفاق افتادن|A2|Abstract
+matter|v|مهم بودن|B1|Abstract
+fit|v|اندازه بودن؛ جا شدن|B1|Abstract
+suit|v|مناسب بودن؛ برازنده بودن|B1|Abstract
+deserve|v|سزاوار بودن|B2|Abstract
+afford|v|توانایی مالی داشتن|B1|Abstract
+fail|v|شکست خوردن؛ مردود شدن|A2|Abstract
+succeed|v|موفق شدن|B1|Abstract
+try|v|تلاش کردن؛ امتحان کردن|A1|Abstract
+dream|n|رویا؛ خواب|A2|Abstract
+chance|n|شانس؛ فرصت|A2|Abstract
+luck|n|بخت؛ شانس|A2|Abstract
+risk|n|خطر؛ ریسک|B1|Abstract
+habit|n|عادت|B1|Abstract
+kind|n|نوع؛ گونه|A2|Abstract
+sort|n|نوع؛ جور|A2|Abstract
+type|n|نوع؛ گونه|A2|Abstract
+reason|n|دلیل؛ علت|A2|Abstract
+purpose|n|هدف؛ منظور|B1|Abstract
+mistake|n|اشتباه|A2|Abstract
+courage|n|شجاعت؛ دلیری|B1|Feelings
+smell|v|بو کردن؛ بو دادن|A2|Senses
+taste|v|مزه کردن؛ مزه دادن|A2|Senses
+touch|v|لمس کردن؛ دست زدن|A2|Senses
+whatever|det|هر چه؛ هر چیزی که|B1|Grammar
+whenever|conj|هر وقت که؛ هرگاه|B1|Grammar
+wherever|conj|هر جا که|B1|Grammar
+whereas|conj|در حالی که؛ حال آن‌که|B2|Grammar
+though|conj|اگرچه؛ با این حال|A2|Grammar
+because|conj|زیرا؛ چون|A1|Grammar
+so|conj|پس؛ بنابراین؛ خیلی|A1|Grammar
+onto|prep|روی؛ بر روی|B1|Position
+opposite|prep|مقابل؛ روبه‌رو|A2|Position
+near|prep|نزدیک|A1|Position
+past|prep|گذشته از؛ پس از|A2|Position
+anyway|adv|به هر حال؛ در هر صورت|B1|Grammar
+somewhat|adv|تا حدی؛ تاحدودی|B2|Degree
+delicious|adj|لذیذ؛ خوشمزه|A2|Taste
+spicy|adj|تند؛ پرادویه|B1|Taste
+difficult|adj|دشوار؛ سخت|A1|Description
+tomorrow|adv|فردا|A1|Time
+yesterday|adv|دیروز|A1|Time
+midnight|n|نیمه‌شب|B1|Time
+noon|n|ظهر|B1|Time
+dawn|n|سپیده‌دم؛ سحر|B2|Time
+dusk|n|غروب؛ گرگ و میش|B2|Time
+decade|n|دهه|B1|Time
+century|n|قرن|A2|Time
+corner|n|گوشه؛ کنج|A2|Place
+surface|n|سطح؛ رویه|B1|Position
+crawl|v|خزیدن؛ چهار دست و پا رفتن|B2|Movement
+creep|v|آهسته خزیدن؛ دزدانه رفتن|B2|Movement
+swing|v|تاب خوردن؛ تاب دادن|B2|Movement
+lick|v|لیسیدن|B2|Body
+swallow|v|قورت دادن؛ بلعیدن|B2|Body
+stale|adj|بیات؛ کهنه|B2|Description
+damp|adj|نمناک؛ مرطوب|B2|Description
+raw|adj|خام؛ نپخته|B2|Description
+shallow|adj|کم‌عمق؛ سطحی|B2|Description

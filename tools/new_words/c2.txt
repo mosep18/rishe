@@ -1,0 +1,530 @@
+#music|Greek mousike|noun|موسیقی|A1|Media
+~I listen to music every morning.|هر روز صبح به موسیقی گوش می‌دهم.
+music|n|موسیقی
+musical|adj|موسیقایی؛ مربوط به موسیقی
+musically|adv|از نظر موسیقی
+musician|n|نوازنده؛ موسیقی‌دان
+musicianship|n|مهارت نوازندگی
+musicality|n|استعداد موسیقایی
+unmusical|adj|بی‌استعداد در موسیقی؛ ناهماهنگ
+#luck|Middle Dutch|noun|شانس؛ اقبال|A2|Feelings
+~Good luck with your exam!|در امتحانت موفق باشی!
+luck|n|شانس؛ اقبال
+lucky|adj|خوش‌شانس
+unlucky|adj|بدشانس؛ بداقبال
+luckily|adv|خوشبختانه
+unluckily|adv|از بدشانسی؛ متأسفانه
+luckless|adj|بداقبال؛ بدبخت
+potluck|n|غذای مشارکتی
+#fun|English|noun|سرگرمی؛ خوشی|A1|Feelings
+~We had a lot of fun at the party.|در مهمانی خیلی خوش گذشت.
+fun|n|سرگرمی؛ خوشی
+funny|adj|خنده‌دار؛ بامزه
+funnily|adv|به‌طرز خنده‌داری
+funfair|n|شهربازی
+unfunny|adj|بی‌مزه؛ غیرخنده‌دار
+fun-loving|adj|شاد و اهل تفریح
+funnyman|n|کمدین؛ آدم بامزه
+#sleep|Old English slaep|noun|خواب؛ خوابیدن|A1|Health
+~I need eight hours of sleep.|به هشت ساعت خواب نیاز دارم.
+sleep|n|خواب؛ خوابیدن
+sleepy|adj|خواب‌آلود
+sleepily|adv|با خواب‌آلودگی
+sleepiness|n|خواب‌آلودگی
+sleepless|adj|بی‌خواب
+sleeplessness|n|بی‌خوابی
+oversleep|v|بیش از حد خوابیدن؛ دیر بیدار شدن
+sleepwalk|v|خوابگردی کردن
+sleepwalker|n|خوابگرد
+sleepover|n|مهمانی شبانه
+asleep|adj|خواب؛ در خواب
+#taste|Old French taster|noun|مزه؛ سلیقه|A2|Food
+~This soup has a strange taste.|این سوپ مزهٔ عجیبی دارد.
+taste|n|مزه؛ سلیقه
+tasty|adj|خوشمزه
+tasteful|adj|باسلیقه؛ شیک
+tastefully|adv|با سلیقه
+tasteless|adj|بی‌مزه؛ بی‌سلیقه
+distaste|n|بیزاری؛ نفرت
+distasteful|adj|ناخوشایند؛ نفرت‌انگیز
+aftertaste|n|مزهٔ ته دهان
+taste-bud|n|جوانهٔ چشایی
+#color|Latin color|noun|رنگ|A1|Nature
+~What is your favorite color?|رنگ مورد علاقه‌ات چیست؟
+color|n|رنگ
+colorful|adj|رنگارنگ
+colorless|adj|بی‌رنگ
+colored|adj|رنگی؛ رنگ‌شده
+discolor|v|تغییر رنگ دادن
+multicolored|adj|چندرنگ
+watercolor|n|آبرنگ
+colorfully|adv|به‌صورت رنگارنگ
+colorblind|adj|کوررنگ
+coloring|n|رنگ‌آمیزی
+#wind|Old English wind|noun|باد|A1|Nature
+~A cold wind is blowing from the north.|باد سردی از شمال می‌وزد.
+wind|n|باد
+windy|adj|بادی
+windmill|n|آسیاب بادی
+windshield|n|شیشهٔ جلوی خودرو
+windscreen|n|شیشهٔ جلوی خودرو
+windsurfing|n|بادبان‌سواری
+windbreaker|n|بادگیر
+windpipe|n|نای
+upwind|adv|در خلاف جهت باد
+downwind|adv|در جهت باد
+#rain|Old English regn|noun|باران|A1|Nature
+~We stayed inside because of the rain.|به خاطر باران داخل ماندیم.
+rain|n|باران
+rainy|adj|بارانی
+rainbow|n|رنگین‌کمان
+raincoat|n|بارانی
+rainfall|n|بارش
+raindrop|n|قطرهٔ باران
+rainforest|n|جنگل بارانی
+rainstorm|n|طوفان بارانی
+rainwater|n|آب باران
+rainproof|adj|ضدباران
+#sun|Old English sunne|noun|خورشید؛ آفتاب|A1|Nature
+~The sun rises in the east.|خورشید از شرق طلوع می‌کند.
+sun|n|خورشید؛ آفتاب
+sunny|adj|آفتابی
+sunshine|n|نور آفتاب
+sunrise|n|طلوع آفتاب
+sunset|n|غروب آفتاب
+sunlight|n|نور خورشید
+sunburn|n|آفتاب‌سوختگی
+sunglasses|n|عینک آفتابی
+sunscreen|n|کرم ضدآفتاب
+suntan|n|برنزگی پوست
+sunbathe|v|حمام آفتاب گرفتن
+#snow|Old English snaw|noun|برف|A1|Nature
+~Children love playing in the snow.|بچه‌ها بازی در برف را دوست دارند.
+snow|n|برف
+snowy|adj|برفی
+snowman|n|آدم‌برفی
+snowflake|n|دانهٔ برف
+snowball|n|گلولهٔ برفی
+snowfall|n|بارش برف
+snowstorm|n|کولاک
+snowboard|n|اسنوبورد
+snowboarding|n|اسنوبورد‌سواری
+snowplow|n|برف‌روب
+#water|Old English waeter|noun|آب|A1|Nature
+~Please drink more water.|لطفاً آب بیشتری بنوش.
+water|n|آب
+watery|adj|آبکی
+waterfall|n|آبشار
+waterproof|adj|ضدآب
+watermelon|n|هندوانه
+underwater|adj|زیر آب
+waterfront|n|ساحل شهر؛ حاشیهٔ آب
+waterway|n|آبراه
+watertight|adj|نفوذناپذیر در برابر آب
+waterlogged|adj|آب‌گرفته
+waterside|n|کنار آب
+#fire|Old English fyr|noun|آتش؛ حریق|A1|Nature
+~Be careful, the fire is very hot.|مراقب باش، آتش خیلی داغ است.
+fire|n|آتش؛ حریق
+fireman|n|آتش‌نشان
+firefighter|n|آتش‌نشان
+fireplace|n|شومینه
+firework|n|آتش‌بازی
+fireproof|adj|نسوز؛ ضدآتش
+firewood|n|هیزم
+firefly|n|کرم شب‌تاب
+campfire|n|آتش اردو
+bonfire|n|آتش بزرگ؛ آتش جشن
+wildfire|n|آتش‌سوزی گستردهٔ جنگل
+#farm|Old French ferme|noun|مزرعه|A2|Nature
+~My uncle works on a farm.|عمویم در مزرعه کار می‌کند.
+farm|n|مزرعه
+farmer|n|کشاورز
+farming|n|کشاورزی
+farmland|n|زمین کشاورزی
+farmhouse|n|خانهٔ روستایی؛ خانهٔ مزرعه
+farmyard|n|حیاط مزرعه
+farmhand|n|کارگر مزرعه
+farm-fresh|adj|تازه از مزرعه
+#house|Old English hus|noun|خانه|A1|Home
+~They bought a big house near the sea.|آنها خانهٔ بزرگی نزدیک دریا خریدند.
+house|n|خانه
+household|n|خانوار؛ اهل خانه
+housework|n|کارهای خانه
+housewife|n|زن خانه‌دار
+housekeeper|n|مدیر امور خانه؛ خدمتکار خانه
+housing|n|مسکن
+houseplant|n|گیاه آپارتمانی
+greenhouse|n|گلخانه
+lighthouse|n|فانوس دریایی
+warehouse|n|انبار
+housemate|n|هم‌خانه
+#home|Old English ham|noun|خانه؛ وطن|A1|Home
+~I want to go home now.|می‌خواهم الان به خانه بروم.
+home|n|خانه؛ وطن
+homeless|adj|بی‌خانمان
+homelessness|n|بی‌خانمانی
+homesick|adj|دلتنگ خانه
+homesickness|n|دلتنگی برای خانه
+homework|n|تکلیف خانه
+homemade|adj|خانگی
+homeland|n|میهن
+hometown|n|زادگاه
+homeowner|n|صاحب‌خانه
+homepage|n|صفحهٔ اصلی
+homeward|adv|به‌سوی خانه
+#joy|Latin gaudium|noun|شادی؛ لذت|B1|Feelings
+~Her face was full of joy.|صورتش پر از شادی بود.
+joy|n|شادی؛ لذت
+joyful|adj|شاد؛ شادمان
+joyfully|adv|با شادی
+joyous|adj|شادمانه
+joyless|adj|بی‌شادی؛ غم‌انگیز
+enjoy|v|لذت بردن
+enjoyable|adj|لذت‌بخش
+enjoyment|n|لذت
+overjoyed|adj|بسیار خوشحال
+#shame|Old English scamu|noun|شرم؛ حیف|B1|Feelings
+~It is a shame that you cannot come.|حیف است که نمی‌توانی بیایی.
+shame|n|شرم؛ حیف
+shameful|adj|شرم‌آور
+shamefully|adv|به‌طرز شرم‌آوری
+shameless|adj|بی‌شرم
+shamelessly|adv|بی‌شرمانه
+ashamed|adj|شرمنده
+unashamed|adj|بی‌پروا؛ بدون شرمندگی
+shamefaced|adj|سرافکنده؛ شرمنده
+#shop|Old English sceoppa|noun|مغازه؛ فروشگاه|A1|Shopping
+~There is a small shop on our street.|در خیابان ما یک مغازهٔ کوچک هست.
+shop|n|مغازه؛ فروشگاه
+shopper|n|خریدار؛ مشتری
+shopping|n|خرید
+shopkeeper|n|مغازه‌دار
+shoplifter|n|دزد مغازه
+shoplifting|n|دزدی از مغازه
+shopaholic|n|معتاد به خرید
+workshop|n|کارگاه
+shop-window|n|ویترین
+#bank|Italian banca|noun|بانک؛ ساحل رودخانه|A2|Money
+~I need to go to the bank today.|امروز باید به بانک بروم.
+bank|n|بانک؛ ساحل رودخانه
+banker|n|بانکدار
+banking|n|بانکداری
+banknote|n|اسکناس
+bankrupt|adj|ورشکسته
+bankruptcy|n|ورشکستگی
+bankroll|v|تأمین مالی کردن
+riverbank|n|ساحل رودخانه
+#sport|Old French desport|noun|ورزش|A1|Sport
+~Football is my favorite sport.|فوتبال ورزش مورد علاقهٔ من است.
+sport|n|ورزش
+sporty|adj|ورزشی؛ اهل ورزش
+sporting|adj|ورزشی
+unsporting|adj|غیرجوانمردانه
+sportsman|n|ورزشکار
+sportswoman|n|ورزشکار زن
+sportsmanship|n|جوانمردی ورزشی
+sportswear|n|لباس ورزشی
+sportscar|n|خودروی اسپرت
+#foot|Old English fot|noun|پا؛ کف پا|A1|Health
+~He hurt his foot while running.|هنگام دویدن پایش آسیب دید.
+foot|n|پا؛ کف پا
+footstep|n|گام؛ صدای پا
+footprint|n|ردپا
+footpath|n|پیاده‌رو؛ مسیر پیاده
+footwear|n|کفش و پاپوش
+footnote|n|پاورقی
+barefoot|adj|پابرهنه
+footbridge|n|پل عابر پیاده
+foothold|n|جای پا
+foothill|n|دامنهٔ کوه
+#heat|Old English haetu|noun|گرما؛ حرارت|A2|Home
+~The heat in the room was unbearable.|گرمای اتاق غیرقابل تحمل بود.
+heat|n|گرما؛ حرارت
+heater|n|بخاری؛ گرمکن
+heating|n|گرمایش
+heated|adj|گرم‌شده؛ تند
+unheated|adj|گرم‌نشده
+overheat|v|بیش از حد داغ شدن
+preheat|v|از پیش گرم کردن
+reheat|v|دوباره گرم کردن
+heatwave|n|موج گرما
+heatstroke|n|گرمازدگی
+#clean|Old English claene|adjective|تمیز؛ پاک|A1|Home
+~Please keep your room clean.|لطفاً اتاقت را تمیز نگه دار.
+clean|adj|تمیز؛ پاک
+cleaner|n|نظافتچی؛ پاک‌کننده
+cleaning|n|نظافت؛ تمیزکاری
+cleanliness|n|پاکیزگی
+cleanse|v|پاک کردن؛ ضدعفونی کردن
+cleanser|n|پاک‌کننده
+unclean|adj|ناپاک؛ کثیف
+cleanly|adv|به‌طور تمیز
+cleanup|n|پاکسازی
+dry-clean|v|خشک‌شویی کردن
+#fish|Old English fisc|noun|ماهی|A1|Food
+~We had fish for dinner.|برای شام ماهی خوردیم.
+fish|n|ماهی
+fishy|adj|مشکوک؛ بوی ماهی‌دار
+fisherman|n|ماهیگیر
+fishing|n|ماهیگیری
+fishmonger|n|ماهی‌فروش
+fishhook|n|قلاب ماهیگیری
+fishbowl|n|تنگ ماهی
+goldfish|n|ماهی قرمز
+shellfish|n|صدف‌داران
+starfish|n|ستارهٔ دریایی
+jellyfish|n|عروس دریایی
+#flower|Old French flour|noun|گل|A1|Nature
+~She gave me a flower.|او به من یک گل داد.
+flower|n|گل
+flowery|adj|گل‌دار؛ پرگل
+flowerbed|n|باغچهٔ گل
+flowerpot|n|گلدان
+flowering|adj|گل‌دهنده؛ شکوفا
+wildflower|n|گل وحشی
+cornflower|n|گل گندم
+sunflower|n|آفتابگردان
+flower-shop|n|گل‌فروشی
+#stone|Old English stan|noun|سنگ|A2|Nature
+~He threw a stone into the river.|او سنگی به رودخانه انداخت.
+stone|n|سنگ
+stony|adj|سنگی؛ پرسنگ
+gravestone|n|سنگ قبر
+milestone|n|نقطهٔ عطف؛ سنگ میل
+limestone|n|سنگ آهک
+sandstone|n|ماسه‌سنگ
+gemstone|n|سنگ قیمتی
+cornerstone|n|سنگ بنا
+stonemason|n|سنگ‌تراش
+stoneware|n|ظروف سفالی سنگی
+stone-cold|adj|یخ‌کرده؛ بسیار سرد
+#sea|Old English sae|noun|دریا|A1|Nature
+~The sea is calm today.|دریا امروز آرام است.
+sea|n|دریا
+seaside|n|کنار دریا
+seafood|n|غذای دریایی
+seashell|n|صدف دریایی
+seagull|n|مرغ دریایی
+seaweed|n|جلبک دریایی
+seabed|n|بستر دریا
+seashore|n|ساحل
+seahorse|n|اسب دریایی
+seasick|adj|دچار دریازدگی
+overseas|adv|خارج از کشور؛ آن سوی دریا
+#bird|Old English brid|noun|پرنده|A1|Nature
+~A bird is singing in the tree.|پرنده‌ای روی درخت آواز می‌خواند.
+bird|n|پرنده
+birdcage|n|قفس پرنده
+birdsong|n|آواز پرندگان
+birdseed|n|دانهٔ پرندگان
+birdhouse|n|خانهٔ پرنده
+birdwatcher|n|پرنده‌نگر
+birdwatching|n|پرنده‌نگری
+songbird|n|پرندهٔ آوازخوان
+seabird|n|پرندهٔ دریایی
+lovebird|n|مرغ عشق
+#horse|Old English hors|noun|اسب|A1|Nature
+~She rides a horse every weekend.|او هر آخر هفته اسب‌سواری می‌کند.
+horse|n|اسب
+horseback|n|پشت اسب
+horseshoe|n|نعل اسب
+horsepower|n|اسب‌بخار
+horseman|n|اسب‌سوار
+horsewoman|n|زن اسب‌سوار
+racehorse|n|اسب مسابقه
+workhorse|n|کارگر پرکار؛ ماشین پرکار
+horseplay|n|شیطنت؛ بازی پرسروصدا
+horseradish|n|ترب کوهی
+#tea|Chinese|noun|چای|A1|Food
+~Would you like a cup of tea?|یک فنجان چای می‌خواهی؟
+tea|n|چای
+teapot|n|قوری
+teaspoon|n|قاشق چای‌خوری
+teacup|n|فنجان چای
+teabag|n|چای کیسه‌ای
+teatime|n|وقت چای
+tearoom|n|چای‌خانه
+tea-towel|n|دستمال ظرف‌خشک‌کن
+#bed|Old English bedd|noun|تخت؛ رختخواب|A1|Home
+~I go to bed at ten o'clock.|ساعت ده به رختخواب می‌روم.
+bed|n|تخت؛ رختخواب
+bedroom|n|اتاق خواب
+bedtime|n|وقت خواب
+bedside|n|کنار تخت
+bedding|n|لوازم تخت؛ رختخواب
+bedspread|n|روتختی
+bedsheet|n|ملافه
+bedridden|adj|بستری؛ زمین‌گیر
+bedbug|n|ساس
+riverbed|n|بستر رودخانه
+#door|Old English duru|noun|در|A1|Home
+~Please close the door.|لطفاً در را ببند.
+door|n|در
+doorbell|n|زنگ در
+doorway|n|درگاه
+doorstep|n|آستانهٔ در
+doorknob|n|دستگیرهٔ در
+doorman|n|دربان
+doormat|n|پادری
+indoor|adj|داخلی؛ سرپوشیده
+outdoor|adj|بیرونی؛ فضای باز
+indoors|adv|داخل ساختمان
+outdoors|adv|بیرون؛ در فضای باز
+#book|Old English boc|noun|کتاب|A1|Media
+~I am reading a good book.|دارم کتاب خوبی می‌خوانم.
+book|n|کتاب
+booklet|n|کتابچه
+bookcase|n|کتابخانهٔ دیواری
+bookmark|n|نشانهٔ کتاب
+bookworm|n|کتاب‌خوان
+bookstore|n|کتاب‌فروشی
+bookshop|n|کتاب‌فروشی
+bookkeeper|n|حسابدار؛ دفتردار
+booking|n|رزرو
+notebook|n|دفترچهٔ یادداشت
+textbook|n|کتاب درسی
+#night|Old English niht|noun|شب|A1|Home
+~We watched a film last night.|دیشب یک فیلم تماشا کردیم.
+night|n|شب
+nightly|adj|شبانه؛ هر شب
+nighttime|n|هنگام شب
+nightmare|n|کابوس
+nightclub|n|کلوپ شبانه
+nightgown|n|لباس خواب
+nightlife|n|زندگی شبانه
+nightfall|n|شامگاه
+midnight|n|نیمه‌شب
+overnight|adv|طی شب؛ یک‌شبه
+tonight|adv|امشب
+#hair|Old English haer|noun|مو|A1|Health
+~She has long black hair.|او موهای بلند و مشکی دارد.
+hair|n|مو
+hairy|adj|پرمو
+hairless|adj|بی‌مو
+haircut|n|اصلاح مو؛ کوتاهی مو
+hairdresser|n|آرایشگر
+hairstyle|n|مدل مو
+hairbrush|n|برس مو
+hairdryer|n|سشوار
+hairspray|n|اسپری مو
+hairpin|n|سنجاق سر
+hairnet|n|تور مو
+#web|Old English webb|noun|تار؛ وب|A2|Technology
+~I found the answer on the web.|پاسخ را در وب پیدا کردم.
+web|n|تار؛ وب
+website|n|وب‌سایت
+webpage|n|صفحهٔ وب
+webcam|n|وب‌کم
+webcast|n|پخش زندهٔ اینترنتی
+webinar|n|وبینار
+webmaster|n|مدیر وب‌سایت
+weblog|n|وبلاگ
+cobweb|n|تار عنکبوت
+webbed|adj|پرده‌دار
+#code|Latin codex|noun|رمز؛ کد|B1|Technology
+~Enter the code to open the door.|برای باز کردن در کد را وارد کن.
+code|n|رمز؛ کد
+coder|n|برنامه‌نویس
+coding|n|کدنویسی
+decode|v|رمزگشایی کردن
+encode|v|رمزگذاری کردن
+decoder|n|رمزگشا
+barcode|n|بارکد
+postcode|n|کد پستی
+passcode|n|رمز عبور
+codename|n|نام رمز
+codebreaker|n|رمزشکن
+#print|Latin premere|noun|چاپ؛ ردّ|B1|Technology
+~Please print this document.|لطفاً این سند را چاپ کنید.
+print|n|چاپ؛ ردّ
+printer|n|چاپگر؛ پرینتر
+printing|n|چاپ
+printout|n|خروجی چاپی
+printable|adj|قابل چاپ
+misprint|n|غلط چاپی
+reprint|v|دوباره چاپ کردن
+fingerprint|n|اثر انگشت
+blueprint|n|طرح اولیه؛ نقشهٔ فنی
+#heart|Old English heorte|noun|قلب؛ دل|A1|Health
+~Her heart was beating fast.|قلبش تند می‌زد.
+heart|n|قلب؛ دل
+hearty|adj|صمیمانه؛ مفصل
+heartily|adv|صمیمانه؛ با اشتیاق
+heartless|adj|بی‌رحم؛ سنگدل
+heartbeat|n|ضربان قلب
+heartbreak|n|دل‌شکستگی
+heartbroken|adj|دل‌شکسته
+heartfelt|adj|از ته دل
+heartburn|n|سوزش معده
+sweetheart|n|عزیزم؛ دلبر
+heartwarming|adj|دل‌گرم‌کننده
+#blood|Old English blod|noun|خون|A2|Health
+~The nurse took a sample of my blood.|پرستار از من نمونهٔ خون گرفت.
+blood|n|خون
+bloody|adj|خونین؛ خون‌آلود
+bloodshed|n|خونریزی
+bloodstream|n|جریان خون
+bloodless|adj|بدون خونریزی؛ رنگ‌پریده
+bloodthirsty|adj|خون‌خوار
+bloodhound|n|سگ ردیاب
+bloodshot|adj|خون‌گرفته؛ سرخ
+bloodline|n|نَسَب
+blood-pressure|n|فشار خون
+#skin|Old Norse skinn|noun|پوست|A2|Health
+~Use cream if your skin is dry.|اگر پوستت خشک است کرم بزن.
+skin|n|پوست
+skinny|adj|لاغر؛ بسیار تنگ
+skinless|adj|بدون پوست
+skincare|n|مراقبت از پوست
+skin-deep|adj|سطحی
+skin-tight|adj|چسبان
+thick-skinned|adj|کلفت‌پوست؛ بی‌اعتنا به انتقاد
+sheepskin|n|پوست گوسفند
+snakeskin|n|پوست مار
+#shoe|Old English scoh|noun|کفش|A1|Shopping
+~I need a new pair of shoes.|به یک جفت کفش نو نیاز دارم.
+shoe|n|کفش
+shoelace|n|بند کفش
+shoebox|n|جعبهٔ کفش
+shoemaker|n|کفاش
+shoeshine|n|واکس کفش
+shoehorn|n|پاشنه‌کش
+shoestring|n|بند کفش؛ بودجهٔ ناچیز
+shoeless|adj|بی‌کفش
+overshoe|n|کفش رویی؛ گالش
+#coat|Old French cote|noun|کت؛ پالتو|A1|Shopping
+~Take your coat, it is cold outside.|پالتویت را بردار، بیرون سرد است.
+coat|n|کت؛ پالتو
+coating|n|پوشش؛ لایه
+overcoat|n|پالتو
+undercoat|n|لایهٔ زیرین رنگ
+topcoat|n|لایهٔ رویی
+waistcoat|n|جلیقه
+turncoat|n|خائن؛ فرصت‌طلب
+coat-hanger|n|چوب‌لباسی
+trench-coat|n|بارانی بلند
+lab-coat|n|روپوش آزمایشگاه
+#glass|Old English glaes|noun|شیشه؛ لیوان|A1|Home
+~Can I have a glass of water?|می‌توانم یک لیوان آب بخورم؟
+glass|n|شیشه؛ لیوان
+glasses|n|عینک
+glassy|adj|شیشه‌ای؛ براق
+glassful|n|یک لیوان پر
+glassware|n|ظروف شیشه‌ای
+glasshouse|n|گلخانه
+fiberglass|n|فایبرگلاس
+hourglass|n|ساعت شنی
+wineglass|n|جام شراب
+eyeglasses|n|عینک
+#market|Latin mercatus|noun|بازار|A2|Shopping
+~We buy fresh fruit at the market.|میوهٔ تازه را از بازار می‌خریم.
+market|n|بازار
+marketing|n|بازاریابی
+marketer|n|بازاریاب
+marketplace|n|بازار؛ میدان تجارت
+marketable|adj|قابل فروش؛ بازارپسند
+supermarket|n|سوپرمارکت
+hypermarket|n|هایپرمارکت
+black-market|n|بازار سیاه
+flea-market|n|بازارچهٔ کالای دست‌دوم
