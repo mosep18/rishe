@@ -1,0 +1,895 @@
+{
+  "input": "data.json",
+  "generated_at": "deterministic-content-report; timestamp intentionally omitted for reproducible diffs",
+  "counts": {
+    "family_records_including_standalone": 4399,
+    "non_solo_family_candidates": 564,
+    "reviewed_genuine_derivational_families": 0,
+    "standalone_words": 3835,
+    "word_records": 11629,
+    "unique_lexical_forms_case_insensitive": 11625,
+    "duplicate_word_records_excess": 4,
+    "family_member_links_non_solo": 5681,
+    "standalone_word_records": 5948,
+    "standalone_single_token_records": 2657,
+    "standalone_multiword_term_records": 1178,
+    "unique_standalone_single_token_forms": 2657,
+    "affixes": 38,
+    "draft_families": 4350,
+    "draft_word_records": 11216,
+    "draft_unique_lexical_forms": 11216,
+    "reviewed_family_records": 0,
+    "reviewed_word_records": 0,
+    "source_curated_families": 49,
+    "source_curated_word_records": 413,
+    "families_missing_example_pair": 116,
+    "families_with_no_etymology_text": 231,
+    "families_with_fewer_than_3_members": 88,
+    "families_with_more_than_25_members": 10,
+    "word_records_missing_cefr": 886,
+    "family_records_missing_cefr": 626
+  },
+  "distributions": {
+    "families_by_cefr_including_solo": {
+      "A1": 302,
+      "A2": 354,
+      "B1": 443,
+      "B2": 2306,
+      "C1": 368
+    },
+    "words_by_cefr": {
+      "A1": 1467,
+      "A2": 1644,
+      "B1": 2154,
+      "B2": 4536,
+      "C1": 942
+    },
+    "family_records_by_review_status": {
+      "draft": 4350,
+      "source-curated": 49
+    },
+    "word_records_by_review_status": {
+      "draft": 11216,
+      "source-curated": 413
+    },
+    "families_by_topic": {
+      "Aviation / source text": 626,
+      "Technology": 279,
+      "Health": 192,
+      "Engineering": 189,
+      "Environment": 133,
+      "Science": 130,
+      "Home": 124,
+      "Finance": 120,
+      "Work": 105,
+      "Law": 92,
+      "Aviation": 88,
+      "Communication": 88,
+      "Mathematics & Statistics": 83,
+      "Food & Home": 82,
+      "Materials & Chemistry": 80,
+      "General Academic": 74,
+      "Advanced Vocabulary": 71,
+      "Psychology": 67,
+      "Business & Law": 63,
+      "Travel & Society": 63,
+      "Language & Arts": 57,
+      "Business": 56,
+      "Food": 56,
+      "Education": 55,
+      "General": 55,
+      "Travel & Aviation": 51,
+      "Economics & Society": 48,
+      "Psychology & Society": 47,
+      "Transport & Engineering": 46,
+      "Sport": 43,
+      "Food & Hospitality": 41,
+      "Description": 40,
+      "Research & Methods": 39,
+      "Society": 39,
+      "Environment & Geography": 38,
+      "Roots": 38,
+      "Movement": 36,
+      "Body": 35,
+      "Professional Adjectives": 33,
+      "Time": 33,
+      "Public Services": 32,
+      "Emotions": 31,
+      "Feelings": 31,
+      "Nature": 29,
+      "Personality": 29,
+      "Transport": 28,
+      "Animals": 27,
+      "Position": 25,
+      "Action": 23,
+      "Grammar": 23,
+      "Abstract": 21,
+      "Daily life": 20,
+      "Town": 20,
+      "Safety": 19,
+      "Travel": 19,
+      "Clothes": 18,
+      "Politics": 16,
+      "Economy": 15,
+      "Media": 15,
+      "Family": 14,
+      "Culture": 13,
+      "Direction": 13,
+      "Hobby": 13,
+      "Kitchen": 13,
+      "School": 13,
+      "Colours": 12,
+      "Study": 12,
+      "Thinking": 12,
+      "Money": 10,
+      "Weather": 10,
+      "Degree": 9,
+      "Number": 9,
+      "Place": 9,
+      "Quantity": 9,
+      "Economics": 8,
+      "Plants": 8,
+      "Energy": 5,
+      "Language": 5,
+      "Math": 5,
+      "Relationships": 5,
+      "Research": 5,
+      "Senses": 5,
+      "Taste": 5,
+      "Arts": 4,
+      "Cooking": 4,
+      "Job": 4,
+      "Shopping": 4,
+      "Geography": 3,
+      "Government": 3,
+      "Rules": 3,
+      "Security": 3,
+      "Social": 3,
+      "Abstract / Social": 2,
+      "Art": 2,
+      "Cognition": 2,
+      "Conflict": 2,
+      "Drink": 2,
+      "Logic": 2,
+      "Mathematics": 2,
+      "Planning": 2,
+      "Abstract / Philosophy": 1,
+      "Academic / General": 1,
+      "Agriculture": 1,
+      "Arts / Abstract": 1,
+      "Basic Needs": 1,
+      "Beauty": 1,
+      "Building / Education": 1,
+      "Business / Biology": 1,
+      "Business / Work": 1,
+      "Communication / Emotion": 1,
+      "Communication / Media": 1,
+      "Communication / Work": 1,
+      "Daily / Science": 1,
+      "Daily Life": 1,
+      "Design": 1,
+      "Desire": 1,
+      "Emotion": 1,
+      "Events": 1,
+      "General / Abstract": 1,
+      "General / Academic": 1,
+      "General / Communication": 1,
+      "General / Physical": 1,
+      "General / Science": 1,
+      "Growth / Economics": 1,
+      "Industry": 1,
+      "Language / Authority": 1,
+      "Leisure / Sports": 1,
+      "Life": 1,
+      "Lifestyle": 1,
+      "Measures": 1,
+      "Media / Opinion": 1,
+      "Numbers": 1,
+      "People": 1,
+      "Perception": 1,
+      "Perception / Abstract": 1,
+      "Perception / Work": 1,
+      "Philosophy": 1,
+      "Physical / Psychology / Media": 1,
+      "Politics / Society": 1,
+      "Preference": 1,
+      "Progress": 1,
+      "Services": 1,
+      "Social / Abstract": 1,
+      "Social / Arts": 1,
+      "Social / Observation": 1,
+      "Technology / Social": 1,
+      "Thinking / Decision": 1,
+      "Thinking / Religion": 1,
+      "Thinking / Social": 1,
+      "Travel / Business / Communication": 1,
+      "Work / Daily Life": 1,
+      "Work / Planning": 1,
+      "World": 1,
+      "Writing / Medicine": 1
+    }
+  },
+  "source_audit": {
+    "family_source_rows": 3587,
+    "solo_source_rows": 3406,
+    "duplicate_source_forms": 199,
+    "duplicate_source_row_excess": 205,
+    "family_solo_overlap_forms": 53,
+    "family_solo_overlap_examples": [
+      "ashamed",
+      "bank",
+      "bed",
+      "bicycle",
+      "bird",
+      "blood",
+      "book",
+      "clean",
+      "coat",
+      "courage",
+      "curiosity",
+      "curious",
+      "door",
+      "exam",
+      "farm",
+      "fish",
+      "flower",
+      "foot",
+      "fragile",
+      "freeze",
+      "glass",
+      "graduate",
+      "hair",
+      "heart",
+      "homeless",
+      "horse",
+      "inequality",
+      "inspire",
+      "judge",
+      "literacy",
+      "luck",
+      "market",
+      "mention",
+      "midnight",
+      "minority",
+      "monarchy",
+      "prejudice",
+      "procedure",
+      "promote",
+      "rain",
+      "sea",
+      "shoe",
+      "shop",
+      "skin",
+      "snow",
+      "sun",
+      "sympathy",
+      "taste",
+      "tea",
+      "water",
+      "watermelon",
+      "website",
+      "wind"
+    ],
+    "source_format_errors": [],
+    "duplicate_source_examples": {
+      "advocate": [
+        "tools/new_words/b4.txt:416",
+        "tools/new_words/b4.txt:417"
+      ],
+      "afford": [
+        "tools/solo_words/s2.txt:277",
+        "tools/solo_words/s3.txt:220"
+      ],
+      "appeal": [
+        "tools/new_words/b4.txt:701",
+        "tools/new_words/b4.txt:702"
+      ],
+      "ashamed": [
+        "tools/new_words/c2.txt:194",
+        "tools/solo_words/s2.txt:91"
+      ],
+      "autobiography": [
+        "tools/new_words/b4.txt:120",
+        "tools/new_words/b4.txt:176"
+      ],
+      "autograph": [
+        "tools/new_words/b4.txt:118",
+        "tools/new_words/b4.txt:175"
+      ],
+      "back": [
+        "tools/solo_words/s1.txt:139",
+        "tools/solo_words/s2.txt:176"
+      ],
+      "bank": [
+        "tools/new_words/c2.txt:210",
+        "tools/solo_words/s1.txt:256"
+      ],
+      "bankrupt": [
+        "tools/new_words/b4.txt:337",
+        "tools/new_words/c2.txt:214"
+      ],
+      "bankruptcy": [
+        "tools/new_words/b4.txt:338",
+        "tools/new_words/c2.txt:215"
+      ],
+      "bed": [
+        "tools/new_words/c2.txt:351",
+        "tools/solo_words/s1.txt:160"
+      ],
+      "bicycle": [
+        "tools/new_words/c3.txt:16",
+        "tools/solo_words/s1.txt:287"
+      ],
+      "biography": [
+        "tools/new_words/b4.txt:119",
+        "tools/new_words/b4.txt:189"
+      ],
+      "biology": [
+        "tools/new_words/b4.txt:79",
+        "tools/new_words/b4.txt:188"
+      ],
+      "bird": [
+        "tools/new_words/c2.txt:317",
+        "tools/solo_words/s1.txt:15"
+      ],
+      "blood": [
+        "tools/new_words/c2.txt:464",
+        "tools/solo_words/s1.txt:146"
+      ],
+      "book": [
+        "tools/new_words/c2.txt:376",
+        "tools/solo_words/s1.txt:298"
+      ],
+      "break": [
+        "tools/new_words/b3.txt:390",
+        "tools/new_words/b3.txt:391"
+      ],
+      "brief": [
+        "tools/solo_words/s2.txt:166",
+        "tools/solo_words/s3.txt:283"
+      ],
+      "captive": [
+        "tools/new_words/b4.txt:527",
+        "tools/new_words/b4.txt:528"
+      ],
+      "capture": [
+        "tools/new_words/b4.txt:525",
+        "tools/new_words/b4.txt:526"
+      ],
+      "claim": [
+        "tools/new_words/c3.txt:403",
+        "tools/new_words/c3.txt:404"
+      ],
+      "clean": [
+        "tools/new_words/c2.txt:255",
+        "tools/solo_words/s2.txt:135"
+      ],
+      "close": [
+        "tools/new_words/b3.txt:415",
+        "tools/new_words/b3.txt:416"
+      ],
+      "coat": [
+        "tools/new_words/c2.txt:498",
+        "tools/solo_words/s1.txt:108"
+      ],
+      "collect": [
+        "tools/new_words/b3.txt:234",
+        "tools/new_words/b4.txt:481"
+      ],
+      "collection": [
+        "tools/new_words/b3.txt:235",
+        "tools/new_words/b4.txt:482"
+      ],
+      "collective": [
+        "tools/new_words/b3.txt:237",
+        "tools/new_words/b4.txt:483"
+      ],
+      "comfort": [
+        "tools/new_words/c3.txt:445",
+        "tools/new_words/c3.txt:446"
+      ],
+      "complete": [
+        "tools/new_words/b3.txt:317",
+        "tools/new_words/b3.txt:318"
+      ],
+      "conscience": [
+        "tools/new_words/b2.txt:229",
+        "tools/new_words/b4.txt:757"
+      ],
+      "conscious": [
+        "tools/new_words/b2.txt:230",
+        "tools/new_words/b4.txt:758"
+      ],
+      "consciousness": [
+        "tools/new_words/b2.txt:231",
+        "tools/new_words/b4.txt:760"
+      ],
+      "consent": [
+        "tools/new_words/b4.txt:249",
+        "tools/new_words/b4.txt:250"
+      ],
+      "content": [
+        "tools/new_words/b4.txt:833",
+        "tools/new_words/b4.txt:834"
+      ],
+      "continue": [
+        "tools/new_words/b3.txt:287",
+        "tools/new_words/b4.txt:839"
+      ],
+      "contract": [
+        "tools/new_words/b4.txt:352",
+        "tools/new_words/b4.txt:353"
+      ],
+      "convert": [
+        "tools/new_words/b4.txt:373",
+        "tools/new_words/b4.txt:376"
+      ],
+      "correct": [
+        "tools/new_words/b3.txt:258",
+        "tools/new_words/b3.txt:259"
+      ],
+      "corrupt": [
+        "tools/new_words/b4.txt:333",
+        "tools/new_words/b4.txt:334"
+      ],
+      "cough": [
+        "tools/solo_words/s1.txt:155",
+        "tools/solo_words/s2.txt:239"
+      ],
+      "courage": [
+        "tools/new_words/c4.txt:245",
+        "tools/solo_words/s2.txt:292"
+      ],
+      "criminal": [
+        "tools/new_words/b3.txt:62",
+        "tools/new_words/b3.txt:63"
+      ],
+      "curiosity": [
+        "tools/new_words/c3.txt:92",
+        "tools/solo_words/s3.txt:184"
+      ],
+      "curious": [
+        "tools/new_words/c3.txt:91",
+        "tools/solo_words/s2.txt:96"
+      ],
+      "current": [
+        "tools/new_words/b4.txt:495",
+        "tools/new_words/b4.txt:496"
+      ],
+      "cycle": [
+        "tools/new_words/c3.txt:12",
+        "tools/new_words/c3.txt:13"
+      ],
+      "definite": [
+        "tools/new_words/b3.txt:312",
+        "tools/new_words/b4.txt:584"
+      ],
+      "desert": [
+        "tools/solo_words/s1.txt:224",
+        "tools/solo_words/s3.txt:104"
+      ],
+      "deserve": [
+        "tools/solo_words/s2.txt:276",
+        "tools/solo_words/s3.txt:232"
+      ],
+      "design": [
+        "tools/new_words/b3.txt:356",
+        "tools/new_words/b3.txt:357"
+      ],
+      "direct": [
+        "tools/new_words/b3.txt:244",
+        "tools/new_words/b3.txt:245"
+      ],
+      "display": [
+        "tools/new_words/b4.txt:736",
+        "tools/new_words/b4.txt:737"
+      ],
+      "door": [
+        "tools/new_words/c2.txt:363",
+        "tools/solo_words/s1.txt:184"
+      ],
+      "doubt": [
+        "tools/solo_words/s2.txt:252",
+        "tools/solo_words/s3.txt:234"
+      ],
+      "dull": [
+        "tools/solo_words/s2.txt:110",
+        "tools/solo_words/s3.txt:286"
+      ],
+      "duplicate": [
+        "tools/new_words/b4.txt:749",
+        "tools/new_words/b4.txt:750"
+      ],
+      "elect": [
+        "tools/new_words/b3.txt:148",
+        "tools/new_words/b4.txt:489"
+      ],
+      "embarrassed": [
+        "tools/solo_words/s2.txt:92",
+        "tools/solo_words/s3.txt:173"
+      ],
+      "enjoy": [
+        "tools/new_words/b1.txt:246",
+        "tools/new_words/c2.txt:183"
+      ],
+      "enjoyable": [
+        "tools/new_words/b1.txt:248",
+        "tools/new_words/c2.txt:184"
+      ],
+      "enjoyment": [
+        "tools/new_words/b1.txt:247",
+        "tools/new_words/c2.txt:185"
+      ],
+      "equal": [
+        "tools/new_words/c3.txt:359",
+        "tools/new_words/c3.txt:360"
+      ],
+      "escape": [
+        "tools/new_words/b4.txt:538",
+        "tools/new_words/b4.txt:539"
+      ],
+      "exam": [
+        "tools/new_words/c4.txt:200",
+        "tools/solo_words/s1.txt:306"
+      ],
+      "farm": [
+        "tools/new_words/c2.txt:141",
+        "tools/solo_words/s1.txt:275"
+      ],
+      "final": [
+        "tools/new_words/b3.txt:307",
+        "tools/new_words/b4.txt:573"
+      ],
+      "finale": [
+        "tools/new_words/b3.txt:310",
+        "tools/new_words/b4.txt:577"
+      ],
+      "finalize": [
+        "tools/new_words/b3.txt:309",
+        "tools/new_words/b4.txt:576"
+      ],
+      "finally": [
+        "tools/new_words/b3.txt:308",
+        "tools/new_words/b4.txt:574"
+      ],
+      "financial": [
+        "tools/new_words/b2.txt:97",
+        "tools/new_words/b4.txt:594"
+      ],
+      "fine": [
+        "tools/new_words/b4.txt:592",
+        "tools/new_words/b4.txt:593"
+      ],
+      "finish": [
+        "tools/new_words/b3.txt:298",
+        "tools/new_words/b3.txt:299",
+        "tools/new_words/b4.txt:578"
+      ],
+      "finite": [
+        "tools/new_words/b3.txt:303",
+        "tools/new_words/b4.txt:579"
+      ],
+      "firefighter": [
+        "tools/new_words/c2.txt:130",
+        "tools/new_words/c4.txt:376"
+      ],
+      "firm": [
+        "tools/new_words/c3.txt:353",
+        "tools/new_words/c3.txt:354"
+      ],
+      "fish": [
+        "tools/new_words/c2.txt:267",
+        "tools/solo_words/s1.txt:16"
+      ],
+      "flower": [
+        "tools/new_words/c2.txt:280",
+        "tools/solo_words/s1.txt:209"
+      ],
+      "fluid": [
+        "tools/new_words/c3.txt:105",
+        "tools/new_words/c3.txt:106"
+      ],
+      "following": [
+        "tools/new_words/b3.txt:125",
+        "tools/new_words/b3.txt:126"
+      ],
+      "foot": [
+        "tools/new_words/c2.txt:231",
+        "tools/solo_words/s1.txt:142"
+      ],
+      "fracture": [
+        "tools/new_words/c3.txt:24",
+        "tools/new_words/c3.txt:25"
+      ],
+      "fragile": [
+        "tools/new_words/c3.txt:29",
+        "tools/solo_words/s3.txt:5"
+      ],
+      "freeze": [
+        "tools/new_words/b3.txt:87",
+        "tools/solo_words/s2.txt:221"
+      ],
+      "general": [
+        "tools/new_words/b4.txt:54",
+        "tools/new_words/b4.txt:55"
+      ],
+      "geography": [
+        "tools/new_words/b4.txt:121",
+        "tools/new_words/b4.txt:202"
+      ],
+      "geologist": [
+        "tools/new_words/b4.txt:86",
+        "tools/new_words/b4.txt:212"
+      ],
+      "geology": [
+        "tools/new_words/b4.txt:85",
+        "tools/new_words/b4.txt:203"
+      ],
+      "geopolitics": [
+        "tools/new_words/b3.txt:9",
+        "tools/new_words/b4.txt:207"
+      ],
+      "glass": [
+        "tools/new_words/c2.txt:510",
+        "tools/solo_words/s1.txt:95"
+      ],
+      "graduate": [
+        "tools/new_words/c3.txt:423",
+        "tools/new_words/c3.txt:424",
+        "tools/solo_words/s3.txt:45"
+      ],
+      "hair": [
+        "tools/new_words/c2.txt:402",
+        "tools/solo_words/s1.txt:123"
+      ],
+      "heart": [
+        "tools/new_words/c2.txt:451",
+        "tools/solo_words/s1.txt:147"
+      ],
+      "heartbreak": [
+        "tools/new_words/b3.txt:400",
+        "tools/new_words/c2.txt:456"
+      ],
+      "homeless": [
+        "tools/new_words/c2.txt:165",
+        "tools/solo_words/s3.txt:210"
+      ],
+      "homesick": [
+        "tools/new_words/b2.txt:301",
+        "tools/new_words/c2.txt:167"
+      ],
+      "horse": [
+        "tools/new_words/c2.txt:329",
+        "tools/solo_words/s1.txt:7"
+      ],
+      "horsepower": [
+        "tools/new_words/b2.txt:193",
+        "tools/new_words/c2.txt:332"
+      ],
+      "indefinite": [
+        "tools/new_words/b3.txt:314",
+        "tools/new_words/b4.txt:585"
+      ],
+      "individual": [
+        "tools/new_words/b3.txt:206",
+        "tools/new_words/b3.txt:207"
+      ]
+    }
+  },
+  "errors": [],
+  "warnings": [
+    "duplicate English form 'educate': 2 records; editorial decision required",
+    "duplicate English form 'express': 2 records; editorial decision required",
+    "duplicate English form 'produce': 2 records; editorial decision required",
+    "duplicate English form 'product': 2 records; editorial decision required",
+    "similar family bases 'compete' (ID 139) and 'complete' (ID 198); inspect for duplication",
+    "similar family bases 'simulation' (ID 433) and 'stimulation' (ID 435); inspect for duplication",
+    "family 'accelerate' has only 2 member(s)",
+    "family 'add' has only 2 member(s)",
+    "family 'aerodrome' has only 2 member(s)",
+    "family 'affect' has only 2 member(s)",
+    "family 'aid' has only 2 member(s)",
+    "family 'aileron' has only 2 member(s)",
+    "family 'airport' has only 2 member(s)",
+    "family 'airworthy' has only 2 member(s)",
+    "family 'alternate' has only 2 member(s)",
+    "family 'altitude' has only 2 member(s)",
+    "family 'amendment' has only 2 member(s)",
+    "family 'appropriate' has only 2 member(s)",
+    "family 'area' has only 2 member(s)",
+    "family 'assess' has only 2 member(s)",
+    "family 'attitude' has only 2 member(s)",
+    "family 'available' has only 2 member(s)",
+    "family 'axis' has only 2 member(s)",
+    "family 'become' has only 2 member(s)",
+    "family 'characteristic' has only 2 member(s)",
+    "family 'chemical' has only 2 member(s)",
+    "family 'clearance' has only 2 member(s)",
+    "family 'compartment' has only 2 member(s)",
+    "family 'condition' has only 2 member(s)",
+    "family 'crew' has only 2 member(s)",
+    "family 'damage' has only 2 member(s)",
+    "family 'defect' has only 2 member(s)",
+    "family 'deliberate' has only 2 member(s)",
+    "family 'departure' has only 2 member(s)",
+    "family 'deteriorate' has only 2 member(s)",
+    "family 'determine' has only 2 member(s)",
+    "family 'discipline' has only 2 member(s)",
+    "family 'distinguish' has only 2 member(s)",
+    "family 'efficient' has only 2 member(s)",
+    "family 'exceed' has only 2 member(s)",
+    "family 'factor' has only 2 member(s)",
+    "family 'force' has only 2 member(s)",
+    "family 'forecast' has only 2 member(s)",
+    "family 'framework' has only 2 member(s)",
+    "family 'gap' has only 2 member(s)",
+    "family 'gas' has only 2 member(s)",
+    "family 'headwind' has only 2 member(s)",
+    "family 'identify' has only 2 member(s)",
+    "family 'identity' has only 2 member(s)",
+    "family 'instrument' has only 2 member(s)",
+    "family 'intense' has only 2 member(s)",
+    "family 'it' has only 2 member(s)",
+    "family 'item' has only 2 member(s)",
+    "family 'light' has only 2 member(s)",
+    "family 'liquid' has only 2 member(s)",
+    "family 'look' has only 2 member(s)",
+    "family 'margin' has only 2 member(s)",
+    "family 'mark' has only 2 member(s)",
+    "family 'material' has only 2 member(s)",
+    "family 'metar' has only 1 member(s)",
+    "family 'microburst' has only 2 member(s)",
+    "family 'monitor' has only 2 member(s)",
+    "family 'normal' has only 2 member(s)",
+    "family 'notam' has only 2 member(s)",
+    "family 'oxidizer' has only 2 member(s)",
+    "family 'package' has only 2 member(s)",
+    "family 'panel' has only 2 member(s)",
+    "family 'passenger' has only 2 member(s)",
+    "family 'penetrate' has only 2 member(s)",
+    "family 'pilot' has only 2 member(s)",
+    "family 'point' has only 2 member(s)",
+    "family 'present' has only 2 member(s)",
+    "family 'problem' has only 2 member(s)",
+    "family 'readback' has only 2 member(s)",
+    "family 'release' has only 2 member(s)",
+    "family 'relevant' has only 2 member(s)",
+    "family 'route' has only 2 member(s)",
+    "family 'rudder' has only 2 member(s)",
+    "family 'seat' has only 2 member(s)",
+    "family 'shipment' has only 2 member(s)",
+    "family 'show' has only 2 member(s)",
+    "family 'sigmet' has only 2 member(s)",
+    "family 'stage' has only 2 member(s)",
+    "family 'stall' has only 2 member(s)",
+    "family 'store' has only 2 member(s)",
+    "family 'system' has only 2 member(s)",
+    "family 'taf' has only 1 member(s)",
+    "family 'task' has only 2 member(s)",
+    "family 'temperature' has only 2 member(s)",
+    "family 'thunderstorm' has only 2 member(s)",
+    "family 'track' has only 2 member(s)",
+    "family 'trend' has only 2 member(s)",
+    "family 'wing' has only 2 member(s)",
+    "family 'zone' has only 2 member(s)",
+    "family 'fer' has 32 members; inspect grouping",
+    "family 'gen' has 26 members; inspect grouping",
+    "family 'log' has 28 members; inspect grouping",
+    "family 'mit' has 35 members; inspect grouping",
+    "family 'vert' has 33 members; inspect grouping",
+    "family 'plic' has 46 members; inspect grouping",
+    "family 'sta' has 45 members; inspect grouping",
+    "family 'ten' has 31 members; inspect grouping",
+    "family 'ven' has 31 members; inspect grouping",
+    "family 'vid' has 29 members; inspect grouping",
+    "family 'accelerate' has no complete EN/FA example pair",
+    "family 'add' has no complete EN/FA example pair",
+    "family 'address' has no complete EN/FA example pair",
+    "family 'aerodrome' has no complete EN/FA example pair",
+    "family 'affect' has no complete EN/FA example pair",
+    "family 'aid' has no complete EN/FA example pair",
+    "family 'aileron' has no complete EN/FA example pair",
+    "family 'airport' has no complete EN/FA example pair",
+    "family 'airworthy' has no complete EN/FA example pair",
+    "family 'alternate' has no complete EN/FA example pair",
+    "family 'altitude' has no complete EN/FA example pair",
+    "family 'amendment' has no complete EN/FA example pair",
+    "family 'annunciate' has no complete EN/FA example pair",
+    "family 'appropriate' has no complete EN/FA example pair",
+    "family 'approve' has no complete EN/FA example pair",
+    "family 'area' has no complete EN/FA example pair",
+    "family 'assess' has no complete EN/FA example pair",
+    "family 'attempt' has no complete EN/FA example pair",
+    "family 'attitude' has no complete EN/FA example pair",
+    "family 'available' has no complete EN/FA example pair",
+    "family 'axis' has no complete EN/FA example pair",
+    "family 'balance' has no complete EN/FA example pair",
+    "family 'become' has no complete EN/FA example pair",
+    "family 'brake' has no complete EN/FA example pair",
+    "family 'characteristic' has no complete EN/FA example pair",
+    "family 'check' has no complete EN/FA example pair",
+    "family 'chemical' has no complete EN/FA example pair",
+    "family 'clearance' has no complete EN/FA example pair",
+    "family 'compartment' has no complete EN/FA example pair",
+    "family 'condition' has no complete EN/FA example pair",
+    "family 'control' has no complete EN/FA example pair",
+    "family 'crew' has no complete EN/FA example pair",
+    "family 'damage' has no complete EN/FA example pair",
+    "family 'defect' has no complete EN/FA example pair",
+    "family 'deliberate' has no complete EN/FA example pair",
+    "family 'departure' has no complete EN/FA example pair",
+    "family 'deteriorate' has no complete EN/FA example pair",
+    "family 'determine' has no complete EN/FA example pair",
+    "family 'discipline' has no complete EN/FA example pair",
+    "family 'dispatch' has no complete EN/FA example pair",
+    "family 'distinguish' has no complete EN/FA example pair",
+    "family 'document' has no complete EN/FA example pair",
+    "family 'effect' has no complete EN/FA example pair",
+    "family 'efficient' has no complete EN/FA example pair",
+    "family 'equip' has no complete EN/FA example pair",
+    "family 'exceed' has no complete EN/FA example pair",
+    "family 'execute' has no complete EN/FA example pair",
+    "family 'expect' has no complete EN/FA example pair",
+    "family 'factor' has no complete EN/FA example pair",
+    "family 'fix' has no complete EN/FA example pair",
+    "family 'force' has no complete EN/FA example pair",
+    "family 'forecast' has no complete EN/FA example pair",
+    "family 'framework' has no complete EN/FA example pair",
+    "family 'function' has no complete EN/FA example pair",
+    "family 'gap' has no complete EN/FA example pair",
+    "family 'gas' has no complete EN/FA example pair",
+    "family 'hazard' has no complete EN/FA example pair",
+    "family 'headwind' has no complete EN/FA example pair",
+    "family 'identify' has no complete EN/FA example pair",
+    "family 'identity' has no complete EN/FA example pair",
+    "family 'indicate' has no complete EN/FA example pair",
+    "family 'instrument' has no complete EN/FA example pair",
+    "family 'intense' has no complete EN/FA example pair",
+    "family 'it' has no complete EN/FA example pair",
+    "family 'item' has no complete EN/FA example pair",
+    "family 'layer' has no complete EN/FA example pair",
+    "family 'light' has no complete EN/FA example pair",
+    "family 'liquid' has no complete EN/FA example pair",
+    "family 'load' has no complete EN/FA example pair",
+    "family 'look' has no complete EN/FA example pair",
+    "family 'make' has no complete EN/FA example pair",
+    "family 'margin' has no complete EN/FA example pair",
+    "family 'mark' has no complete EN/FA example pair",
+    "family 'material' has no complete EN/FA example pair",
+    "family 'metar' has no complete EN/FA example pair",
+    "family 'microburst' has no complete EN/FA example pair",
+    "family 'monitor' has no complete EN/FA example pair",
+    "family 'name' has no complete EN/FA example pair",
+    "family 'normal' has no complete EN/FA example pair",
+    "family 'notam' has no complete EN/FA example pair",
+    "family 'oxidizer' has no complete EN/FA example pair",
+    "family 'package' has no complete EN/FA example pair",
+    "family 'panel' has no complete EN/FA example pair",
+    "family 'passenger' has no complete EN/FA example pair",
+    "family 'penetrate' has no complete EN/FA example pair",
+    "family 'pilot' has no complete EN/FA example pair",
+    "family 'point' has no complete EN/FA example pair",
+    "family 'present' has no complete EN/FA example pair",
+    "family 'problem' has no complete EN/FA example pair",
+    "family 'program' has no complete EN/FA example pair",
+    "family 'readback' has no complete EN/FA example pair",
+    "family 'release' has no complete EN/FA example pair",
+    "family 'relevant' has no complete EN/FA example pair",
+    "family 'respond' has no complete EN/FA example pair",
+    "family 'route' has no complete EN/FA example pair",
+    "family 'rudder' has no complete EN/FA example pair",
+    "family 'seat' has no complete EN/FA example pair",
+    "family 'shipment' has no complete EN/FA example pair",
+    "family 'show' has no complete EN/FA example pair",
+    "family 'sigmet' has no complete EN/FA example pair",
+    "53 forms appear in both family and standalone source batches"
+  ],
+  "structural_errors": 0,
+  "release_blocked": false,
+  "limitations": [
+    "The validator checks structure, references, duplicate forms, and metadata; it cannot prove semantic or etymological correctness.",
+    "Only records explicitly marked review_status='reviewed' count as editorially reviewed. 'source-curated' is not equivalent to independently verified.",
+    "A non-solo record is a family candidate, not proof that every relationship in that family is linguistically genuine.",
+    "Duplicate English forms may represent polysemy or distinct parts of speech and are reported for editorial decisions rather than automatically deleted."
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "name": "Rishe – English Roots Dictionary",
   "short_name": "Rishe",
-  "description": "English-to-Persian dictionary that finds the root of any English word and shows its word family.",
+  "description": "Rishe 1.6.2: an offline-capable English-to-Persian vocabulary dictionary with word-family learning.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -42,8 +42,8 @@
   ],
   "shortcuts": [
     {
-      "name": "Word families",
-      "url": "./#/families",
+      "name": "Daily learning",
+      "url": "./#/learn",
       "icons": [
         {
           "src": "icons/icon-192.png",

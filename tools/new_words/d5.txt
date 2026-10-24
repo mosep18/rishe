@@ -1,0 +1,720 @@
+#affordability||noun|مقرون‌به‌صرفه بودن|B2|Business
+~The report discusses affordability and its practical implications.|این گزارش دربارهٔ مقرون‌به‌صرفه بودن و پیامدهای عملی آن بحث می‌کند.
+affordability|n|مقرون‌به‌صرفه بودن
+affordable|adj|مقرون‌به‌صرفه
+unaffordable|adj|خارج از توان مالی
+affordably|adv|با هزینهٔ قابل‌پرداخت
+
+
+#ambiguity||noun|ابهام|B2|Communication
+~The report discusses ambiguity and its practical implications.|این گزارش دربارهٔ ابهام و پیامدهای عملی آن بحث می‌کند.
+ambiguity|n|ابهام
+ambiguous|adj|مبهم
+ambiguously|adv|به‌شکلی مبهم
+unambiguous|adj|بی‌ابهام؛ روشن
+unambiguously|adv|به‌روشنی؛ بدون ابهام
+disambiguate|v|رفع ابهام کردن
+disambiguation|n|رفع ابهام
+
+
+#anonymity||noun|ناشناس‌بودن|B2|Technology
+~The report discusses anonymity and its practical implications.|این گزارش دربارهٔ ناشناس‌بودن و پیامدهای عملی آن بحث می‌کند.
+anonymity|n|ناشناس‌بودن
+anonymous|adj|ناشناس
+anonymously|adv|به‌صورت ناشناس
+anonymize|v|ناشناس‌سازی کردن
+anonymization|n|ناشناس‌سازی
+deanonymize|v|هویت‌زدایی معکوس کردن
+
+
+#apprehension||noun|نگرانی؛ درک و دریافت|C1|Emotions
+~The report discusses apprehension and its practical implications.|این گزارش دربارهٔ نگرانی؛ درک و دریافت و پیامدهای عملی آن بحث می‌کند.
+apprehension|n|نگرانی؛ درک و دریافت
+apprehend|v|درک کردن؛ دستگیر کردن
+apprehensive|adj|نگران؛ بیمناک
+apprehensively|adv|با نگرانی
+apprehensiveness|n|نگرانی؛ بیمناکی
+
+
+#assertiveness||noun|قاطعیت|B2|Communication
+~The report discusses assertiveness and its practical implications.|این گزارش دربارهٔ قاطعیت و پیامدهای عملی آن بحث می‌کند.
+assertiveness|n|قاطعیت
+assert|v|قاطعانه بیان کردن؛ تأکید کردن
+assertion|n|ادعا؛ اظهار قاطعانه
+assertive|adj|قاطع؛ بااعتمادبه‌نفس
+assertively|adv|با قاطعیت
+
+
+#bureaucracy||noun|دیوان‌سالاری|C1|Government
+~The report discusses bureaucracy and its practical implications.|این گزارش دربارهٔ دیوان‌سالاری و پیامدهای عملی آن بحث می‌کند.
+bureaucracy|n|دیوان‌سالاری
+bureaucrat|n|کارمند دیوان‌سالار
+bureaucratic|adj|دیوان‌سالارانه
+bureaucratically|adv|به‌شکل دیوان‌سالارانه
+bureaucratize|v|دیوان‌سالار کردن
+bureaucratization|n|دیوان‌سالار شدن
+
+
+#cohesion||noun|انسجام؛ هم‌بستگی|C1|Society
+~The report discusses cohesion and its practical implications.|این گزارش دربارهٔ انسجام؛ هم‌بستگی و پیامدهای عملی آن بحث می‌کند.
+cohesion|n|انسجام؛ هم‌بستگی
+cohere|v|منسجم بودن؛ پیوستن
+cohesive|adj|منسجم
+cohesively|adv|به‌طور منسجم
+cohesiveness|n|انسجام
+incoherent|adj|نامنسجم
+incoherence|n|عدم انسجام
+
+
+#commodification||noun|کالایی‌سازی|C1|Economics
+~The report discusses commodification and its practical implications.|این گزارش دربارهٔ کالایی‌سازی و پیامدهای عملی آن بحث می‌کند.
+commodification|n|کالایی‌سازی
+commodify|v|به کالا تبدیل کردن
+commodified|adj|کالایی‌شده
+decommodify|v|از حالت کالا خارج کردن
+decommodification|n|کالایی‌زدایی
+commodity|n|کالا
+
+
+#conscientiousness||noun|وظیفه‌شناسی؛ وجدان‌کاری|C1|Personality
+~The report discusses conscientiousness and its practical implications.|این گزارش دربارهٔ وظیفه‌شناسی؛ وجدان‌کاری و پیامدهای عملی آن بحث می‌کند.
+conscientiousness|n|وظیفه‌شناسی؛ وجدان‌کاری
+conscientiously|adv|با وجدان کاری
+unconscientious|adj|بی‌وجدان کاری
+conscionable|adj|منصفانه؛ وجدانی
+
+
+#consensus||noun|اجماع؛ توافق عمومی|B2|Communication
+~The report discusses consensus and its practical implications.|این گزارش دربارهٔ اجماع؛ توافق عمومی و پیامدهای عملی آن بحث می‌کند.
+consensus|n|اجماع؛ توافق عمومی
+consensual|adj|با رضایت متقابل
+consensually|adv|با رضایت متقابل
+nonconsensual|adj|بدون رضایت متقابل
+
+
+#contemplation||noun|تفکر عمیق؛ تأمل|C1|Thinking
+~The report discusses contemplation and its practical implications.|این گزارش دربارهٔ تفکر عمیق؛ تأمل و پیامدهای عملی آن بحث می‌کند.
+contemplation|n|تفکر عمیق؛ تأمل
+contemplate|v|عمیقاً اندیشیدن
+contemplative|adj|اهل تأمل؛ متفکر
+contemplatively|adv|با تأمل
+contemplator|n|فرد متفکر
+
+
+#contingency||noun|احتمال؛ وضعیت پیش‌بینی‌نشده|C1|Planning
+~The report discusses contingency and its practical implications.|این گزارش دربارهٔ احتمال؛ وضعیت پیش‌بینی‌نشده و پیامدهای عملی آن بحث می‌کند.
+contingency|n|احتمال؛ وضعیت پیش‌بینی‌نشده
+contingent|adj|وابسته؛ احتمالی
+contingently|adv|به‌صورت مشروط
+contingencies|n|وضعیت‌های پیش‌بینی‌نشده
+
+
+#correlation||noun|هم‌بستگی؛ ارتباط آماری|B2|Science
+~The report discusses correlation and its practical implications.|این گزارش دربارهٔ هم‌بستگی؛ ارتباط آماری و پیامدهای عملی آن بحث می‌کند.
+correlation|n|هم‌بستگی؛ ارتباط آماری
+correlate|v|ارتباط داشتن؛ هم‌بسته بودن
+correlated|adj|هم‌بسته
+correlative|adj|دارای رابطهٔ متقابل
+correlational|adj|مربوط به هم‌بستگی
+uncorrelated|adj|بدون هم‌بستگی
+
+
+#cynicism||noun|بدبینی؛ شکاکیت نسبت به انگیزه‌ها|C1|Personality
+~The report discusses cynicism and its practical implications.|این گزارش دربارهٔ بدبینی؛ شکاکیت نسبت به انگیزه‌ها و پیامدهای عملی آن بحث می‌کند.
+cynicism|n|بدبینی؛ شکاکیت نسبت به انگیزه‌ها
+cynic|n|فرد بدبین
+cynical|adj|بدبین؛ شکاک
+cynically|adv|با بدبینی
+uncynical|adj|غیربدبین
+cynicalness|n|بدبینی
+
+
+#deficiency||noun|کمبود؛ نقص|B2|Health
+~The report discusses deficiency and its practical implications.|این گزارش دربارهٔ کمبود؛ نقص و پیامدهای عملی آن بحث می‌کند.
+deficiency|n|کمبود؛ نقص
+deficient|adj|دارای کمبود؛ ناقص
+deficiently|adv|به‌نحو ناکافی
+nondeficient|adj|فاقد کمبود
+deficit|n|کسری؛ کمبود
+
+
+#diplomacy||noun|دیپلماسی؛ مهارت تعامل|B2|Government
+~The report discusses diplomacy and its practical implications.|این گزارش دربارهٔ دیپلماسی؛ مهارت تعامل و پیامدهای عملی آن بحث می‌کند.
+diplomacy|n|دیپلماسی؛ مهارت تعامل
+diplomatic|adj|دیپلماتیک؛ سنجیده
+diplomatically|adv|با ملاحظه و مهارت
+undiplomatic|adj|ناسنحیده؛ غیردیپلماتیک
+diplomatical|adj|دیپلماتیک
+
+
+#discretion||noun|صلاحدید؛ احتیاط در رفتار|C1|Communication
+~The report discusses discretion and its practical implications.|این گزارش دربارهٔ صلاحدید؛ احتیاط در رفتار و پیامدهای عملی آن بحث می‌کند.
+discretion|n|صلاحدید؛ احتیاط در رفتار
+discreet|adj|محتاط؛ رازدار
+discreetly|adv|بااحتیاط؛ محرمانه
+indiscreet|adj|بی‌ملاحظه
+indiscreetly|adv|با بی‌ملاحظگی
+indiscretion|n|بی‌احتیاطی؛ بی‌ملاحظگی
+
+
+#disparity||noun|نابرابری؛ تفاوت چشمگیر|C1|Society
+~The report discusses disparity and its practical implications.|این گزارش دربارهٔ نابرابری؛ تفاوت چشمگیر و پیامدهای عملی آن بحث می‌کند.
+disparity|n|نابرابری؛ تفاوت چشمگیر
+disparate|adj|ناهمگون؛ بسیار متفاوت
+disparately|adv|به‌شکلی ناهمگون
+disparateness|n|ناهمگونی
+income-disparity|n|نابرابری درآمدی
+disparity-reduction|n|کاهش نابرابری
+
+
+#doctrine||noun|آموزه؛ دکترین|C1|Education
+~The report discusses doctrine and its practical implications.|این گزارش دربارهٔ آموزه؛ دکترین و پیامدهای عملی آن بحث می‌کند.
+doctrine|n|آموزه؛ دکترین
+doctrinal|adj|مربوط به آموزه
+doctrinally|adv|از نظر آموزه‌ای
+doctrinaire|adj|جزمی؛ خشک‌اندیش
+indoctrinate|v|تلقین عقیده کردن
+indoctrination|n|تلقین عقیده
+
+
+#efficacy||noun|کارآمدی؛ اثربخشی|C1|Science
+~The report discusses efficacy and its practical implications.|این گزارش دربارهٔ کارآمدی؛ اثربخشی و پیامدهای عملی آن بحث می‌کند.
+efficacy|n|کارآمدی؛ اثربخشی
+efficacious|adj|اثربخش
+efficaciously|adv|به‌شکل اثربخش
+inefficacy|n|بی‌اثری
+efficaciousness|n|اثربخشی
+
+
+#feasibility||noun|امکان‌پذیری|B2|Planning
+~The report discusses feasibility and its practical implications.|این گزارش دربارهٔ امکان‌پذیری و پیامدهای عملی آن بحث می‌کند.
+feasibility|n|امکان‌پذیری
+feasible|adj|امکان‌پذیر
+feasibly|adv|به‌طور امکان‌پذیر
+infeasible|adj|غیرقابل اجرا
+infeasibility|n|غیرعملی بودن
+
+
+#immunity||noun|ایمنی؛ مصونیت|B2|Health
+~The report discusses immunity and its practical implications.|این گزارش دربارهٔ ایمنی؛ مصونیت و پیامدهای عملی آن بحث می‌کند.
+immunity|n|ایمنی؛ مصونیت
+immune|adj|ایمن؛ مصون
+immunize|v|ایمن‌سازی کردن
+immunization|n|ایمن‌سازی
+immunological|adj|ایمنی‌شناختی
+immunologically|adv|از نظر ایمنی‌شناسی
+immunodeficiency|n|نقص ایمنی
+
+
+#incentive||noun|انگیزه؛ مشوق|B2|Business
+~The report discusses incentive and its practical implications.|این گزارش دربارهٔ انگیزه؛ مشوق و پیامدهای عملی آن بحث می‌کند.
+incentive|n|انگیزه؛ مشوق
+incentivize|v|ایجاد انگیزه کردن
+incentivization|n|انگیزه‌بخشی
+disincentive|n|عامل بازدارنده
+incentivized|adj|دارای انگیزهٔ تشویقی
+
+
+#initiative||noun|ابتکار؛ اقدام پیش‌گامانه|B2|Work
+~The report discusses initiative and its practical implications.|این گزارش دربارهٔ ابتکار؛ اقدام پیش‌گامانه و پیامدهای عملی آن بحث می‌کند.
+initiative|n|ابتکار؛ اقدام پیش‌گامانه
+initiate|v|آغاز کردن
+initiation|n|آغاز؛ شروع رسمی
+initiator|n|آغازگر
+initiatory|adj|مربوط به آغاز
+reinitiate|v|از نو آغاز کردن
+
+
+#integrity||noun|درستکاری؛ یکپارچگی|B2|Society
+~The report discusses integrity and its practical implications.|این گزارش دربارهٔ درستکاری؛ یکپارچگی و پیامدهای عملی آن بحث می‌کند.
+integrity|n|درستکاری؛ یکپارچگی
+integrate|v|یکپارچه کردن
+integration|n|یکپارچه‌سازی
+integrative|adj|یکپارچه‌کننده
+disintegrate|v|ازهم‌پاشیدن
+disintegration|n|ازهم‌پاشیدگی
+integrally|adv|به‌صورت جدایی‌ناپذیر
+
+
+#intuition||noun|شهود؛ دریافت درونی|B2|Thinking
+~The report discusses intuition and its practical implications.|این گزارش دربارهٔ شهود؛ دریافت درونی و پیامدهای عملی آن بحث می‌کند.
+intuition|n|شهود؛ دریافت درونی
+intuitive|adj|شهودی
+intuitively|adv|به‌صورت شهودی
+intuit|v|به‌طور شهودی دریافت کردن
+intuitiveness|n|شهودمندی
+unintuitive|adj|غیرشهودی
+
+
+#jurisdiction||noun|صلاحیت قضایی؛ حوزهٔ اختیار|C1|Law
+~The report discusses jurisdiction and its practical implications.|این گزارش دربارهٔ صلاحیت قضایی؛ حوزهٔ اختیار و پیامدهای عملی آن بحث می‌کند.
+jurisdiction|n|صلاحیت قضایی؛ حوزهٔ اختیار
+jurisdictional|adj|مربوط به صلاحیت قضایی
+jurisdictionally|adv|از نظر حوزهٔ صلاحیت
+extrajudicial|adj|فراقضایی
+cross-jurisdictional|adj|میان‌حوزه‌ای قضایی
+
+
+#liability||noun|مسئولیت حقوقی؛ بدهی|B2|Business
+~The report discusses liability and its practical implications.|این گزارش دربارهٔ مسئولیت حقوقی؛ بدهی و پیامدهای عملی آن بحث می‌کند.
+liability|n|مسئولیت حقوقی؛ بدهی
+liable|adj|مسئول؛ متعهد
+liably|adv|به‌صورت مسئولانه
+liabilities|n|بدهی‌ها؛ تعهدات
+
+
+#mobility||noun|تحرک؛ جابه‌جایی|B2|Transport
+~The report discusses mobility and its practical implications.|این گزارش دربارهٔ تحرک؛ جابه‌جایی و پیامدهای عملی آن بحث می‌کند.
+mobility|n|تحرک؛ جابه‌جایی
+mobile|adj|متحرک؛ قابل‌حمل
+mobilize|v|بسیج کردن؛ به حرکت درآوردن
+mobilization|n|بسیج؛ به‌حرکت‌درآوردن
+immobile|adj|بی‌حرکت
+immobility|n|بی‌حرکتی
+mobilizable|adj|قابل بسیج
+
+
+#monopoly||noun|انحصار|B2|Economics
+~The report discusses monopoly and its practical implications.|این گزارش دربارهٔ انحصار و پیامدهای عملی آن بحث می‌کند.
+monopoly|n|انحصار
+monopolize|v|در انحصار گرفتن
+monopolization|n|انحصاری‌سازی
+monopolist|n|انحصارگر
+monopolistic|adj|انحصارگرایانه
+antimonopoly|adj|ضدانحصار
+
+
+#morality||noun|اخلاق‌مداری؛ اصول اخلاقی|B2|Society
+~The report discusses morality and its practical implications.|این گزارش دربارهٔ اخلاق‌مداری؛ اصول اخلاقی و پیامدهای عملی آن بحث می‌کند.
+morality|n|اخلاق‌مداری؛ اصول اخلاقی
+moral|adj|اخلاقی
+morally|adv|از نظر اخلاقی
+immoral|adj|غیراخلاقی
+immorality|n|رفتار غیراخلاقی
+moralize|v|پند اخلاقی دادن
+moralization|n|اخلاقی‌سازی
+
+
+#neutrality||noun|بی‌طرفی|B2|Society
+~The report discusses neutrality and its practical implications.|این گزارش دربارهٔ بی‌طرفی و پیامدهای عملی آن بحث می‌کند.
+neutrality|n|بی‌طرفی
+neutral|adj|بی‌طرف
+neutrally|adv|بی‌طرفانه
+neutralize|v|خنثی کردن
+neutralization|n|خنثی‌سازی
+nonneutral|adj|غیربی‌طرف
+
+
+#obligation||noun|تعهد؛ الزام|B2|Law
+~The report discusses obligation and its practical implications.|این گزارش دربارهٔ تعهد؛ الزام و پیامدهای عملی آن بحث می‌کند.
+obligation|n|تعهد؛ الزام
+obligate|v|ملزم کردن
+obligatory|adj|الزامی
+obligatorily|adv|به‌طور الزامی
+obligational|adj|مربوط به تعهد
+unobligated|adj|فاقد تعهد
+
+
+#obstruction||noun|مانع‌تراشی؛ انسداد|B2|Health
+~The report discusses obstruction and its practical implications.|این گزارش دربارهٔ مانع‌تراشی؛ انسداد و پیامدهای عملی آن بحث می‌کند.
+obstruction|n|مانع‌تراشی؛ انسداد
+obstruct|v|مسدود کردن؛ مانع شدن
+obstructive|adj|انسدادی؛ مانع‌شونده
+obstructively|adv|به‌شکل مانع‌تراش
+unobstructed|adj|بدون مانع
+obstructionist|n|مانع‌تراش
+
+
+#orientation||noun|جهت‌یابی؛ آشنایی اولیه|B2|Education
+~The report discusses orientation and its practical implications.|این گزارش دربارهٔ جهت‌یابی؛ آشنایی اولیه و پیامدهای عملی آن بحث می‌کند.
+orientation|n|جهت‌یابی؛ آشنایی اولیه
+orient|v|جهت دادن؛ جهت‌یابی کردن
+orientate|v|جهت‌یابی کردن
+oriented|adj|جهت‌گیری‌شده
+disorient|v|سردرگم کردن
+disorientation|n|سردرگمی
+reorient|v|جهت‌گیری دوباره کردن
+
+
+#paradox||noun|تناقض‌نما؛ پارادوکس|C1|Logic
+~The report discusses paradox and its practical implications.|این گزارش دربارهٔ تناقض‌نما؛ پارادوکس و پیامدهای عملی آن بحث می‌کند.
+paradox|n|تناقض‌نما؛ پارادوکس
+paradoxical|adj|متناقض‌نما
+paradoxically|adv|به‌شکلی متناقض‌نما
+paradoxicality|n|خاصیت متناقض‌نما
+nonparadoxical|adj|فاقد تناقض‌نما
+paradoxicalness|n|متناقض‌نما بودن
+
+
+#parameterization||noun|پارامتردهی|C1|Science
+~The report discusses parameterization and its practical implications.|این گزارش دربارهٔ پارامتردهی و پیامدهای عملی آن بحث می‌کند.
+parameterization|n|پارامتردهی
+parameterize|v|پارامتردهی کردن
+parameterized|adj|پارامتردهی‌شده
+parametric|adj|پارامتری
+parametrically|adv|به‌صورت پارامتری
+deparameterize|v|پارامترزدایی کردن
+
+
+#phenomenology||noun|پدیدارشناسی|C1|Philosophy
+~The report discusses phenomenology and its practical implications.|این گزارش دربارهٔ پدیدارشناسی و پیامدهای عملی آن بحث می‌کند.
+phenomenology|n|پدیدارشناسی
+phenomenological|adj|پدیدارشناختی
+phenomenologically|adv|از دید پدیدارشناختی
+phenomenologist|n|پدیدارشناس
+phenomenal|adj|فوق‌العاده؛ پدیداری
+phenomenally|adv|به‌شکلی فوق‌العاده
+
+
+#polarization||noun|قطبی‌شدن؛ قطبی‌سازی|C1|Society
+~The report discusses polarization and its practical implications.|این گزارش دربارهٔ قطبی‌شدن؛ قطبی‌سازی و پیامدهای عملی آن بحث می‌کند.
+polarization|n|قطبی‌شدن؛ قطبی‌سازی
+polarize|v|قطبی کردن
+polarized|adj|قطبی‌شده
+polarizing|adj|قطبی‌کننده
+depolarize|v|قطبیت را کاهش دادن
+depolarization|n|کاهش قطبیت
+polarizer|n|قطبنده
+
+
+#prioritization||noun|اولویت‌بندی|B2|Work
+~The report discusses prioritization and its practical implications.|این گزارش دربارهٔ اولویت‌بندی و پیامدهای عملی آن بحث می‌کند.
+prioritization|n|اولویت‌بندی
+prioritize|v|اولویت دادن
+prioritized|adj|اولویت‌بندی‌شده
+prioritizer|n|سامانه یا فرد اولویت‌بندی‌کننده
+deprioritize|v|از اولویت خارج کردن
+deprioritization|n|کاهش اولویت
+
+
+#probability||noun|احتمال|B1|Science
+~The report discusses probability and its practical implications.|این گزارش دربارهٔ احتمال و پیامدهای عملی آن بحث می‌کند.
+probability|n|احتمال
+probable|adj|محتمل
+probably|adv|احتمالاً
+improbability|n|بعید بودن
+probabilistic|adj|احتمالاتی
+probabilistically|adv|بر پایهٔ احتمال
+
+
+#proximity||noun|نزدیکی؛ مجاورت|C1|Geography
+~The report discusses proximity and its practical implications.|این گزارش دربارهٔ نزدیکی؛ مجاورت و پیامدهای عملی آن بحث می‌کند.
+proximity|n|نزدیکی؛ مجاورت
+proximate|adj|نزدیک؛ مجاور
+proximately|adv|در نزدیکی
+proximal|adj|نزدیک به مبدأ
+proximally|adv|از سمت نزدیک
+
+
+#rationale||noun|دلیل منطقی؛ منطقِ پشت یک تصمیم|B2|Thinking
+~The report discusses rationale and its practical implications.|این گزارش دربارهٔ دلیل منطقی؛ منطقِ پشت یک تصمیم و پیامدهای عملی آن بحث می‌کند.
+rationale|n|دلیل منطقی؛ منطقِ پشت یک تصمیم
+rational|adj|منطقی
+rationally|adv|به‌طور منطقی
+rationalize|v|توجیه منطقی کردن
+rationalization|n|توجیه
+irrational|adj|غیرمنطقی
+irrationality|n|غیرمنطقی بودن
+
+
+#reciprocity||noun|عمل متقابل؛ دوسویگی|C1|Society
+~The report discusses reciprocity and its practical implications.|این گزارش دربارهٔ عمل متقابل؛ دوسویگی و پیامدهای عملی آن بحث می‌کند.
+reciprocity|n|عمل متقابل؛ دوسویگی
+reciprocal|adj|متقابل
+reciprocally|adv|به‌صورت متقابل
+reciprocate|v|عمل متقابل انجام دادن
+reciprocation|n|پاسخ متقابل
+nonreciprocal|adj|غیرمتقابل
+
+
+#remediation||noun|اصلاح؛ رفع مشکل|C1|Education
+~The report discusses remediation and its practical implications.|این گزارش دربارهٔ اصلاح؛ رفع مشکل و پیامدهای عملی آن بحث می‌کند.
+remediation|n|اصلاح؛ رفع مشکل
+remediate|v|اصلاح کردن؛ رفع مشکل کردن
+remedial|adj|اصلاحی؛ جبرانی
+remediable|adj|قابل اصلاح
+irremediable|adj|غیرقابل اصلاح
+remediator|n|اصلاح‌کننده
+
+
+#resilience||noun|تاب‌آوری|B2|Psychology
+~The report discusses resilience and its practical implications.|این گزارش دربارهٔ تاب‌آوری و پیامدهای عملی آن بحث می‌کند.
+resilience|n|تاب‌آوری
+resilient|adj|تاب‌آور
+resiliently|adv|با تاب‌آوری
+resiliency|n|تاب‌آوری
+nonresilient|adj|فاقد تاب‌آوری
+
+
+#restriction||noun|محدودیت|B2|Law
+~The report discusses restriction and its practical implications.|این گزارش دربارهٔ محدودیت و پیامدهای عملی آن بحث می‌کند.
+restriction|n|محدودیت
+restrict|v|محدود کردن
+restrictive|adj|محدودکننده
+restrictively|adv|به‌شکل محدودکننده
+unrestricted|adj|بدون محدودیت
+restrictionist|n|طرفدار محدودیت
+restrictiveness|n|محدودکنندگی
+
+
+#rhetoric||noun|فن بیان؛ گفتار اقناعی|C1|Communication
+~The report discusses rhetoric and its practical implications.|این گزارش دربارهٔ فن بیان؛ گفتار اقناعی و پیامدهای عملی آن بحث می‌کند.
+rhetoric|n|فن بیان؛ گفتار اقناعی
+rhetorical|adj|بلاغی؛ مربوط به فن بیان
+rhetorically|adv|از نظر بلاغی
+rhetorician|n|سخنور؛ متخصص بلاغت
+rhetoricize|v|به شکل خطابی بیان کردن
+rhetoricalness|n|ویژگی بلاغی
+
+
+#scrutiny||noun|موشکافی؛ بررسی دقیق|B2|Work
+~The report discusses scrutiny and its practical implications.|این گزارش دربارهٔ موشکافی؛ بررسی دقیق و پیامدهای عملی آن بحث می‌کند.
+scrutiny|n|موشکافی؛ بررسی دقیق
+scrutinize|v|موشکافی کردن
+scrutinized|adj|بررسی‌شده
+scrutinizing|adj|موشکافانه
+scrutinizer|n|بررسی‌کنندهٔ دقیق
+scrutinizable|adj|قابل بررسی دقیق
+
+
+#simulation||noun|شبیه‌سازی|B2|Technology
+~The report discusses simulation and its practical implications.|این گزارش دربارهٔ شبیه‌سازی و پیامدهای عملی آن بحث می‌کند.
+simulation|n|شبیه‌سازی
+simulate|v|شبیه‌سازی کردن
+simulated|adj|شبیه‌سازی‌شده
+simulator|n|شبیه‌ساز
+simulative|adj|شبیه‌سازانه
+resimulate|v|از نو شبیه‌سازی کردن
+
+
+#spectrum||noun|طیف|B2|Science
+~The report discusses spectrum and its practical implications.|این گزارش دربارهٔ طیف و پیامدهای عملی آن بحث می‌کند.
+spectrum|n|طیف
+spectral|adj|طیفی
+spectrally|adv|از نظر طیفی
+spectroscopy|n|طیف‌سنجی
+spectroscopic|adj|طیف‌سنجی‌محور
+spectroscopically|adv|با روش طیف‌سنجی
+
+
+#stimulation||noun|تحریک؛ برانگیزش|B2|Health
+~The report discusses stimulation and its practical implications.|این گزارش دربارهٔ تحریک؛ برانگیزش و پیامدهای عملی آن بحث می‌کند.
+stimulation|n|تحریک؛ برانگیزش
+stimulate|v|تحریک کردن؛ برانگیختن
+stimulated|adj|تحریک‌شده
+stimulating|adj|برانگیزاننده
+stimulatory|adj|تحریکی
+overstimulate|v|بیش‌ازحد تحریک کردن
+overstimulation|n|تحریک بیش‌ازحد
+
+
+#synthesis||noun|ترکیب؛ سنتز|C1|Science
+~The report discusses synthesis and its practical implications.|این گزارش دربارهٔ ترکیب؛ سنتز و پیامدهای عملی آن بحث می‌کند.
+synthesis|n|ترکیب؛ سنتز
+synthesize|v|ترکیب کردن؛ سنتز کردن
+synthesized|adj|سنتزشده
+synthesizer|n|ترکیب‌کننده؛ سینتی‌سایزر
+synthetic|adj|مصنوعی؛ سنتزی
+synthetically|adv|به‌صورت مصنوعی
+resynthesize|v|دوباره سنتز کردن
+
+
+#transparency||noun|شفافیت|B2|Business
+~The report discusses transparency and its practical implications.|این گزارش دربارهٔ شفافیت و پیامدهای عملی آن بحث می‌کند.
+transparency|n|شفافیت
+transparent|adj|شفاف؛ آشکار
+transparently|adv|به‌طور شفاف
+nontransparent|adj|غیرشفاف
+transparence|n|شفافیت
+
+
+#uncertainty||noun|عدم قطعیت؛ تردید|B2|Science
+~The report discusses uncertainty and its practical implications.|این گزارش دربارهٔ عدم قطعیت؛ تردید و پیامدهای عملی آن بحث می‌کند.
+uncertainty|n|عدم قطعیت؛ تردید
+uncertain|adj|نامطمئن
+uncertainly|adv|با تردید
+uncertainness|n|عدم اطمینان
+uncertainties|n|عدم قطعیت‌ها
+certainty|n|قطعیت
+
+
+#utilization||noun|بهره‌برداری؛ استفاده|B2|Business
+~The report discusses utilization and its practical implications.|این گزارش دربارهٔ بهره‌برداری؛ استفاده و پیامدهای عملی آن بحث می‌کند.
+utilization|n|بهره‌برداری؛ استفاده
+utilize|v|به‌کار گرفتن
+utilized|adj|به‌کارگرفته‌شده
+utilizable|adj|قابل استفاده
+underutilize|v|کمتر از ظرفیت استفاده کردن
+underutilization|n|استفادهٔ کمتر از ظرفیت
+overutilization|n|استفادهٔ بیش‌ازحد
+
+
+#validity||noun|اعتبار؛ روایی|B2|Science
+~The report discusses validity and its practical implications.|این گزارش دربارهٔ اعتبار؛ روایی و پیامدهای عملی آن بحث می‌کند.
+validity|n|اعتبار؛ روایی
+validate|v|اعتبارسنجی کردن
+validation|n|اعتبارسنجی
+invalid|adj|نامعتبر
+invalidity|n|بی‌اعتباری
+validly|adv|به‌طور معتبر
+
+
+#vulnerability||noun|آسیب‌پذیری|B2|Psychology
+~The report discusses vulnerability and its practical implications.|این گزارش دربارهٔ آسیب‌پذیری و پیامدهای عملی آن بحث می‌کند.
+vulnerability|n|آسیب‌پذیری
+vulnerably|adv|با آسیب‌پذیری
+invulnerable|adj|آسیب‌ناپذیر
+invulnerability|n|آسیب‌ناپذیری
+
+
+#contextualization||noun|زمینه‌مندکردن؛ قراردادن در بافت|C1|Education
+~The report discusses contextualization and its practical implications.|این گزارش دربارهٔ زمینه‌مندکردن؛ قراردادن در بافت و پیامدهای عملی آن بحث می‌کند.
+contextualization|n|زمینه‌مندکردن
+contextualize|v|در بافت قرار دادن
+contextualized|adj|زمینه‌مندشده
+contextually|adv|با توجه به بافت
+decontextualize|v|از بافت جدا کردن
+decontextualization|n|جداکردن از بافت
+
+
+#adaptability||noun|سازگاری‌پذیری|B2|Personality
+~The report discusses adaptability and its practical implications.|این گزارش دربارهٔ سازگاری‌پذیری و پیامدهای عملی آن بحث می‌کند.
+adaptability|n|سازگاری‌پذیری
+adaptable|adj|سازگارپذیر
+adaptably|adv|با قابلیت سازگاری
+unadaptable|adj|ناسازگارپذیر
+adaptiveness|n|سازگاری‌پذیری
+adaptation|n|سازگاری؛ اقتباس
+
+
+#administrability||noun|قابلیت اجرا و اداره|C1|Law
+~The report discusses administrability and its practical implications.|این گزارش دربارهٔ قابلیت اجرا و اداره و پیامدهای عملی آن بحث می‌کند.
+administrability|n|قابلیت اجرا و اداره
+administrable|adj|قابل اجرا؛ قابل اداره
+administer|v|اداره کردن
+administration|n|مدیریت؛ اداره
+administrative|adj|اداری
+administratively|adv|از نظر اداری
+unadministrable|adj|غیرقابل اجرا
+
+
+#admissibility||noun|قابلیت پذیرش؛ قابلیت استناد|C1|Law
+~The report discusses admissibility and its practical implications.|این گزارش دربارهٔ قابلیت پذیرش؛ قابلیت استناد و پیامدهای عملی آن بحث می‌کند.
+admissibility|n|قابلیت پذیرش؛ قابلیت استناد
+admissible|adj|قابل پذیرش
+admissibly|adv|به‌نحوی قابل پذیرش
+inadmissible|adj|غیرقابل پذیرش
+inadmissibility|n|عدم قابلیت پذیرش
+
+
+#confidentiality||noun|محرمانگی|B2|Technology
+~The report discusses confidentiality and its practical implications.|این گزارش دربارهٔ محرمانگی و پیامدهای عملی آن بحث می‌کند.
+confidentiality|n|محرمانگی
+confidentially|adv|به‌صورت محرمانه
+nonconfidential|adj|غیرمحرمانه
+confidentialize|v|محرمانه کردن
+
+
+#consecutiveness||noun|پیوستگی؛ متوالی‌بودن|C1|Logic
+~The report discusses consecutiveness and its practical implications.|این گزارش دربارهٔ پیوستگی؛ متوالی‌بودن و پیامدهای عملی آن بحث می‌کند.
+consecutiveness|n|پیوستگی؛ متوالی‌بودن
+consecutive|adj|متوالی
+consecutively|adv|به‌طور متوالی
+nonconsecutive|adj|غیرمتوالی
+consecutivity|n|توالی
+
+
+#cooperativeness||noun|روحیهٔ همکاری|B2|Work
+~The report discusses cooperativeness and its practical implications.|این گزارش دربارهٔ روحیهٔ همکاری و پیامدهای عملی آن بحث می‌کند.
+cooperativeness|n|روحیهٔ همکاری
+cooperative|adj|همکار؛ مشارکتی
+cooperatively|adv|با همکاری
+uncooperative|adj|همکارنبودن
+cooperation|n|همکاری
+cooperator|n|همکار
+
+
+#dependability||noun|قابل‌اعتمادبودن|B2|Work
+~The report discusses dependability and its practical implications.|این گزارش دربارهٔ قابل‌اعتمادبودن و پیامدهای عملی آن بحث می‌کند.
+dependability|n|قابل‌اعتمادبودن
+dependable|adj|قابل‌اعتماد
+dependably|adv|به‌شکل قابل اعتماد
+undependable|adj|غیرقابل اعتماد
+dependability-testing|n|آزمون قابلیت اطمینان
+
+
+#discriminability||noun|قابلیت تمایز|C1|Science
+~The report discusses discriminability and its practical implications.|این گزارش دربارهٔ قابلیت تمایز و پیامدهای عملی آن بحث می‌کند.
+discriminability|n|قابلیت تمایز
+discriminable|adj|قابل تشخیص
+discriminably|adv|به‌شکلی قابل تشخیص
+indiscriminable|adj|غیرقابل تمایز
+discriminate|v|تمایز قائل شدن
+discriminative|adj|تمایزبخش
+
+
+#interoperability||noun|تعامل‌پذیری؛ سازگاری بین سامانه‌ها|C1|Technology
+~The report discusses interoperability and its practical implications.|این گزارش دربارهٔ تعامل‌پذیری؛ سازگاری بین سامانه‌ها و پیامدهای عملی آن بحث می‌کند.
+interoperability|n|تعامل‌پذیری
+interoperable|adj|قابل تعامل
+interoperably|adv|به‌شکل تعامل‌پذیر
+interoperate|v|با سامانه‌ای دیگر تعامل داشتن
+interoperation|n|تعامل بین سامانه‌ها
+noninteroperable|adj|فاقد قابلیت تعامل
+
+
+#maintainability||noun|قابلیت نگه‌داری|C1|Technology
+~The report discusses maintainability and its practical implications.|این گزارش دربارهٔ قابلیت نگه‌داری و پیامدهای عملی آن بحث می‌کند.
+maintainability|n|قابلیت نگه‌داری
+maintainable|adj|قابل نگه‌داری
+maintainably|adv|به‌شکلی قابل نگه‌داری
+unmaintainable|adj|غیرقابل نگه‌داری
+maintainer|n|نگه‌دارنده
+
+
+#predictability||noun|پیش‌بینی‌پذیری|B2|Science
+~The report discusses predictability and its practical implications.|این گزارش دربارهٔ پیش‌بینی‌پذیری و پیامدهای عملی آن بحث می‌کند.
+predictability|n|پیش‌بینی‌پذیری
+predictable|adj|قابل پیش‌بینی
+predictably|adv|به‌طور قابل پیش‌بینی
+unpredictable|adj|غیرقابل پیش‌بینی
+unpredictability|n|پیش‌بینی‌ناپذیری
+
+
+#reproducibility||noun|تکرارپذیری|C1|Science
+~The report discusses reproducibility and its practical implications.|این گزارش دربارهٔ تکرارپذیری و پیامدهای عملی آن بحث می‌کند.
+reproducibility|n|تکرارپذیری
+reproducible|adj|تکرارپذیر
+reproducibly|adv|به‌شکلی تکرارپذیر
+irreproducible|adj|غیرقابل تکرار
+
+
+#scalability||noun|مقیاس‌پذیری|C1|Technology
+~The report discusses scalability and its practical implications.|این گزارش دربارهٔ مقیاس‌پذیری و پیامدهای عملی آن بحث می‌کند.
+scalability|n|مقیاس‌پذیری
+scalable|adj|مقیاس‌پذیر
+scalably|adv|به‌شکلی مقیاس‌پذیر
+unscalable|adj|غیرمقیاس‌پذیر
+scale|v|مقیاس دادن
+scaling|n|مقیاس‌بندی
+scalability-testing|n|آزمون مقیاس‌پذیری
+
+
+#traceability||noun|ردیابی‌پذیری|C1|Technology
+~The report discusses traceability and its practical implications.|این گزارش دربارهٔ ردیابی‌پذیری و پیامدهای عملی آن بحث می‌کند.
+traceability|n|ردیابی‌پذیری
+traceable|adj|قابل ردیابی
+traceably|adv|به‌صورت قابل ردیابی
+untraceable|adj|غیرقابل ردیابی
+tracing|n|ردیابی
+
+
+#verifiability||noun|قابلیت راستی‌آزمایی|C1|Science
+~The report discusses verifiability and its practical implications.|این گزارش دربارهٔ قابلیت راستی‌آزمایی و پیامدهای عملی آن بحث می‌کند.
+verifiability|n|قابلیت راستی‌آزمایی
+verifiable|adj|قابل راستی‌آزمایی
+verifiably|adv|به‌صورت قابل راستی‌آزمایی
+unverifiable|adj|غیرقابل راستی‌آزمایی
+verify|v|تأیید کردن
+verification|n|تأیید؛ راستی‌آزمایی
+verifier|n|تأییدکننده

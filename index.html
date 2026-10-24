@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Rishe – English Roots Dictionary</title>
+<title>Rishe 1.6.2 – English–Persian Dictionary</title>
+<meta name="application-version" content="1.6.2">
 <meta name="description" content="English-to-Persian dictionary that finds the root of any English word and shows its whole word family. فرهنگ لغت انگلیسی به فارسی با ریشه‌یابی واژه.">
 <meta name="theme-color" content="#0f6b63" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0b1f22" media="(prefers-color-scheme: dark)">
@@ -31,6 +32,7 @@
     <a href="#/families" data-tab="families"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21v-8M12 13c0-4-3-6-7-6 0 4 3 6 7 6zM12 11c0-3.500 2.500-5.500 7-5.500 0 3.500-2.500 5.500-7 5.500z"/></svg><span>Families<small lang="fa" dir="rtl">خانواده‌ها</small></span></a>
     <a href="#/affixes" data-tab="affixes"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h6M4 12h10M4 17h7M15 6l5 6-5 6"/></svg><span>Affixes<small lang="fa" dir="rtl">پیشوندها</small></span></a>
     <a href="#/saved" data-tab="saved"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v17l-6-4-6 4z"/></svg><span>Saved<small lang="fa" dir="rtl">ذخیره‌ها</small></span></a>
+    <a href="#/learn" data-tab="learn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5c3.3-1.7 6-1 8 1v13c-2-2-4.7-2.7-8-1zM20 5.5c-3.3-1.7-6-1-8 1v13c2-2 4.7-2.7 8-1z"/></svg><span>Learn<small lang="fa" dir="rtl">یادگیری</small></span></a>
     <a href="#/practice" data-tab="practice"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.500" y="6" width="14" height="12" rx="2"/><path d="M7 3.500h13.500V15"/></svg><span>Practice<small lang="fa" dir="rtl">تمرین</small></span></a>
   </nav>
   <button class="iconbtn" id="theme" type="button" aria-label="Change theme" title="Theme">◐</button>
@@ -40,10 +42,13 @@
 <main id="main" tabindex="-1"><p class="loading">Loading…</p></main>
 
 <footer class="foot">
-  <p>Loading dictionary…</p>
+  <p id="footer-stats">Loading dictionary…</p>
+  <p class="foot-links"><a href="#/about">About Rishe <small class="fa" lang="fa" dir="rtl">دربارهٔ ریشه</small></a><span aria-hidden="true"> · </span><a href="#/support">Support development <small class="fa" lang="fa" dir="rtl">حمایت از توسعه</small></a><span aria-hidden="true"> · </span><span>Version 1.6.2 · نسخهٔ ۱.۶.۲</span></p>
 </footer>
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="config.js" defer></script>
+<script src="learning.js" defer></script>
 <script src="app.js" defer></script>
 </body>
 </html>

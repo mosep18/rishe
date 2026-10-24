@@ -1,0 +1,10 @@
+{
+  "name": "rishe",
+  "version": "1.6.2",
+  "private": true,
+  "description": "Bilingual local-first English-Persian vocabulary learning PWA",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "check": "node --check app.js && node --check learning.js && node --check config.js && node --check sw.js"
+  }
+}

@@ -1,0 +1,386 @@
+#auditability||noun|قابلیت حسابرسی|C1|Business
+~The team evaluated auditability before the system was released.|تیم پیش از انتشار سامانه، قابلیت حسابرسی را ارزیابی کرد.
+auditability|n|قابلیت حسابرسی
+auditable|adj|قابل حسابرسی
+auditably|adv|به‌صورت قابل حسابرسی
+unauditable|adj|غیرقابل حسابرسی
+auditing|n|حسابرسی
+
+
+#biodegradability||noun|زیست‌تخریب‌پذیری|C1|Environment
+~The team evaluated biodegradability before the system was released.|تیم پیش از انتشار سامانه، زیست‌تخریب‌پذیری را ارزیابی کرد.
+biodegradability|n|زیست‌تخریب‌پذیری
+nonbiodegradable|adj|زیست‌تخریب‌ناپذیر
+biodegrade|v|زیست‌تخریب شدن
+biodegradation|n|زیست‌تخریب
+
+
+#biocompatibility||noun|زیست‌سازگاری|C1|Health
+~The team evaluated biocompatibility before the system was released.|تیم پیش از انتشار سامانه، زیست‌سازگاری را ارزیابی کرد.
+biocompatibility|n|زیست‌سازگاری
+biocompatible|adj|زیست‌سازگار
+biocompatibly|adv|به‌شکل زیست‌سازگار
+biocompatibility-testing|n|آزمون زیست‌سازگاری
+
+
+#composability||noun|ترکیب‌پذیری|C1|Technology
+~The team evaluated composability before the system was released.|تیم پیش از انتشار سامانه، ترکیب‌پذیری را ارزیابی کرد.
+composability|n|ترکیب‌پذیری
+composable|adj|ترکیب‌پذیر
+composably|adv|به‌شکل ترکیب‌پذیر
+uncomposable|adj|غیرقابل ترکیب
+compositional|adj|ترکیبی
+
+
+#configurability||noun|قابلیت پیکربندی|C1|Technology
+~The team evaluated configurability before the system was released.|تیم پیش از انتشار سامانه، قابلیت پیکربندی را ارزیابی کرد.
+configurability|n|قابلیت پیکربندی
+configurable|adj|قابل پیکربندی
+configurably|adv|به‌شکل قابل پیکربندی
+unconfigurable|adj|غیرقابل پیکربندی
+configure|v|پیکربندی کردن
+configuration|n|پیکربندی
+reconfigure|v|پیکربندی مجدد کردن
+
+
+#decomposability||noun|تجزیه‌پذیری|C1|Science
+~The team evaluated decomposability before the system was released.|تیم پیش از انتشار سامانه، تجزیه‌پذیری را ارزیابی کرد.
+decomposability|n|تجزیه‌پذیری
+decomposable|adj|تجزیه‌پذیر
+indecomposable|adj|تجزیه‌ناپذیر
+decompositional|adj|مربوط به تجزیه
+
+
+#deductibility||noun|قابلیت کسر از مالیات|C1|Finance
+~The team evaluated deductibility before the system was released.|تیم پیش از انتشار سامانه، قابلیت کسر از مالیات را ارزیابی کرد.
+deductibility|n|قابلیت کسر از مالیات
+deductible|adj|قابل کسر
+deductibly|adv|به‌صورت قابل کسر
+nondeductible|adj|غیرقابل کسر
+deduct|v|کسر کردن
+deduction|n|کسر؛ استنتاج
+deductively|adv|به روش قیاسی
+
+
+#disposability||noun|قابلیت دورریختن|C1|Environment
+~The team evaluated disposability before the system was released.|تیم پیش از انتشار سامانه، قابلیت دورریختن را ارزیابی کرد.
+disposability|n|قابلیت دورریختن
+disposable|adj|یک‌بارمصرف
+disposably|adv|به‌صورت یک‌بارمصرف
+nondisposable|adj|غیر یک‌بارمصرف
+dispose|v|دور انداختن؛ مرتب کردن
+disposal|n|دفع؛ دورریزی
+disposable-income|n|درآمد قابل تصرف
+
+
+#elasticity||noun|کشسانی؛ انعطاف‌پذیری|B2|Science
+~The team evaluated elasticity before the system was released.|تیم پیش از انتشار سامانه، کشسانی؛ انعطاف‌پذیری را ارزیابی کرد.
+elasticity|n|کشسانی؛ انعطاف‌پذیری
+elastic|adj|کشسان
+elastically|adv|به‌صورت کشسان
+inelastic|adj|ناکشسان
+inelasticity|n|ناکشسانی
+elasticize|v|کشسان کردن
+elasticized|adj|کشسان‌شده
+
+
+#extensibility||noun|گسترش‌پذیری|C1|Technology
+~The team evaluated extensibility before the system was released.|تیم پیش از انتشار سامانه، گسترش‌پذیری را ارزیابی کرد.
+extensibility|n|گسترش‌پذیری
+extensible|adj|قابل گسترش
+extensibly|adv|به‌شکل قابل گسترش
+inextensible|adj|غیرقابل گسترش
+
+
+#extractability||noun|قابلیت استخراج|C1|Science
+~The team evaluated extractability before the system was released.|تیم پیش از انتشار سامانه، قابلیت استخراج را ارزیابی کرد.
+extractability|n|قابلیت استخراج
+extractable|adj|قابل استخراج
+unextractable|adj|غیرقابل استخراج
+extractor|n|استخراج‌کننده
+extractive|adj|استخراجی
+
+
+#falsifiability||noun|ابطال‌پذیری|C1|Science
+~The team evaluated falsifiability before the system was released.|تیم پیش از انتشار سامانه، ابطال‌پذیری را ارزیابی کرد.
+falsifiability|n|ابطال‌پذیری
+falsifiable|adj|ابطال‌پذیر
+unfalsifiable|adj|ابطال‌ناپذیر
+falsify|v|ابطال کردن؛ جعل کردن
+falsification|n|ابطال؛ جعل
+falsifier|n|عامل ابطال یا جعل
+falsifiably|adv|به‌شکل ابطال‌پذیر
+
+
+#fungibility||noun|قابلیت معاوضه‌پذیری|C1|Economics
+~The team evaluated fungibility before the system was released.|تیم پیش از انتشار سامانه، قابلیت معاوضه‌پذیری را ارزیابی کرد.
+fungibility|n|قابلیت معاوضه‌پذیری
+fungible|adj|قابل‌معاوضه
+fungibly|adv|به‌صورت قابل معاوضه
+nonfungible|adj|غیرقابل‌معاوضه
+nonfungibility|n|غیرقابل‌معاوضه‌بودن
+
+
+#legibility||noun|خوانایی|B2|Communication
+~The team evaluated legibility before the system was released.|تیم پیش از انتشار سامانه، خوانایی را ارزیابی کرد.
+legibility|n|خوانایی
+legibly|adv|به‌شکل خوانا
+illegibly|adv|به‌شکلی ناخوانا
+illegibility|n|ناخوانایی
+
+
+#navigability||noun|قابلیت ناوبری|C1|Transport
+~The team evaluated navigability before the system was released.|تیم پیش از انتشار سامانه، قابلیت ناوبری را ارزیابی کرد.
+navigability|n|قابلیت ناوبری
+navigable|adj|قابل ناوبری
+navigably|adv|به‌شکل قابل ناوبری
+unnavigable|adj|غیرقابل ناوبری
+navigate|v|ناوبری کردن
+navigation|n|ناوبری
+navigator|n|ناوبر
+
+
+#possessiveness||noun|مالکیت‌طلبی؛ تملک‌گرایی|C1|Psychology
+~The team evaluated possessiveness before the system was released.|تیم پیش از انتشار سامانه، مالکیت‌طلبی؛ تملک‌گرایی را ارزیابی کرد.
+possessiveness|n|مالکیت‌طلبی؛ تملک‌گرایی
+possessive|adj|تملک‌گرا
+possessively|adv|با تملک‌گرایی
+nonpossessive|adj|غیرتملک‌گرا
+possess|v|مالک بودن؛ در اختیار داشتن
+possession|n|مالکیت؛ دارایی
+
+
+#recoverability||noun|بازیابی‌پذیری|C1|Technology
+~The team evaluated recoverability before the system was released.|تیم پیش از انتشار سامانه، بازیابی‌پذیری را ارزیابی کرد.
+recoverability|n|بازیابی‌پذیری
+recoverable|adj|قابل بازیابی
+recoverably|adv|به‌شکل قابل بازیابی
+irrecoverable|adj|غیرقابل بازیابی
+recoverability-testing|n|آزمون بازیابی‌پذیری
+
+
+#relocatability||noun|قابلیت جابه‌جایی|C1|Technology
+~The team evaluated relocatability before the system was released.|تیم پیش از انتشار سامانه، قابلیت جابه‌جایی را ارزیابی کرد.
+relocatability|n|قابلیت جابه‌جایی
+relocatable|adj|قابل جابه‌جایی
+relocator|n|عامل جابه‌جایی
+nonrelocatable|adj|غیرقابل جابه‌جایی
+
+
+#retrievability||noun|بازیابی‌پذیری داده|C1|Technology
+~The team evaluated retrievability before the system was released.|تیم پیش از انتشار سامانه، بازیابی‌پذیری داده را ارزیابی کرد.
+retrievability|n|بازیابی‌پذیری
+retrievable|adj|قابل بازیابی
+retrievably|adv|به‌شکل قابل بازیابی
+unretrievable|adj|غیرقابل بازیابی
+retrieve|v|بازیابی کردن
+retrieval|n|بازیابی
+retriever|n|بازیابنده
+
+
+#testability||noun|آزمون‌پذیری|C1|Technology
+~The team evaluated testability before the system was released.|تیم پیش از انتشار سامانه، آزمون‌پذیری را ارزیابی کرد.
+testability|n|آزمون‌پذیری
+testable|adj|قابل آزمون
+testably|adv|به‌شکل قابل آزمون
+untestable|adj|غیرقابل آزمون
+testing|n|آزمایش
+tester|n|آزمون‌کننده
+
+
+#usability||noun|کاربرپسندی؛ کاربردپذیری|B2|Technology
+~The team evaluated usability before the system was released.|تیم پیش از انتشار سامانه، کاربرپسندی؛ کاربردپذیری را ارزیابی کرد.
+usability|n|کاربرپسندی؛ کاربردپذیری
+usable|adj|قابل استفاده
+usably|adv|به‌نحو قابل استفاده
+unusable|adj|غیرقابل استفاده
+usability-testing|n|آزمون کاربردپذیری
+
+
+#writability||noun|قابلیت نوشتن؛ نوشتنی‌بودن|C1|Technology
+~The team evaluated writability before the system was released.|تیم پیش از انتشار سامانه، قابلیت نوشتن؛ نوشتنی‌بودن را ارزیابی کرد.
+writability|n|قابلیت نوشتن
+writable|adj|قابل نوشتن
+writably|adv|به‌صورت قابل نوشتن
+unwritable|adj|غیرقابل نوشتن
+
+
+#editability||noun|ویرایش‌پذیری|C1|Technology
+~The team evaluated editability before the system was released.|تیم پیش از انتشار سامانه، ویرایش‌پذیری را ارزیابی کرد.
+editability|n|ویرایش‌پذیری
+editable|adj|قابل ویرایش
+editably|adv|به‌صورت قابل ویرایش
+uneditable|adj|غیرقابل ویرایش
+edit|v|ویرایش کردن
+editor|n|ویراستار
+editing|n|ویرایش
+
+
+#exportability||noun|قابلیت صادرات یا برون‌بری|C1|Technology
+~The team evaluated exportability before the system was released.|تیم پیش از انتشار سامانه، قابلیت صادرات یا برون‌بری را ارزیابی کرد.
+exportability|n|قابلیت برون‌بری
+exportable|adj|قابل برون‌بری
+exportably|adv|به‌شکل قابل برون‌بری
+nonexportable|adj|غیرقابل برون‌بری
+exportation|n|صادرات
+exporter|n|صادرکننده
+
+
+#installability||noun|قابلیت نصب|C1|Technology
+~The team evaluated installability before the system was released.|تیم پیش از انتشار سامانه، قابلیت نصب را ارزیابی کرد.
+installability|n|قابلیت نصب
+installable|adj|قابل نصب
+uninstallable|adj|قابل حذف
+install|v|نصب کردن
+installation|n|نصب
+installer|n|نصاب
+reinstall|v|نصب مجدد کردن
+
+
+#inspectability||noun|قابلیت بازرسی|C1|Engineering
+~The team evaluated inspectability before the system was released.|تیم پیش از انتشار سامانه، قابلیت بازرسی را ارزیابی کرد.
+inspectability|n|قابلیت بازرسی
+inspectable|adj|قابل بازرسی
+inspective|adj|بازرسی‌محور
+uninspectable|adj|غیرقابل بازرسی
+
+
+#localizability||noun|قابلیت بومی‌سازی|C1|Technology
+~The team evaluated localizability before the system was released.|تیم پیش از انتشار سامانه، قابلیت بومی‌سازی را ارزیابی کرد.
+localizability|n|قابلیت بومی‌سازی
+localizable|adj|قابل بومی‌سازی
+localizably|adv|به‌شکل قابل بومی‌سازی
+localize|v|بومی‌سازی کردن
+localization|n|بومی‌سازی
+localizer|n|ابزار بومی‌سازی
+nonlocalizable|adj|غیرقابل بومی‌سازی
+
+
+#modularity||noun|ماژولار بودن|C1|Technology
+~The team evaluated modularity before the system was released.|تیم پیش از انتشار سامانه، ماژولار بودن را ارزیابی کرد.
+modularity|n|ماژولار بودن
+modular|adj|ماژولار
+modularly|adv|به‌شکل ماژولار
+modularize|v|ماژولار کردن
+modularization|n|ماژولارسازی
+nonmodular|adj|غیرماژولار
+
+
+#observability||noun|مشاهده‌پذیری سامانه|C1|Technology
+~The team evaluated observability before the system was released.|تیم پیش از انتشار سامانه، مشاهده‌پذیری سامانه را ارزیابی کرد.
+observability|n|مشاهده‌پذیری سامانه
+observable|adj|قابل مشاهده
+observably|adv|به‌طور قابل مشاهده
+unobservable|adj|غیرقابل مشاهده
+observational|adj|مشاهده‌ای
+
+
+#operability||noun|قابلیت کارکرد|C1|Engineering
+~The team evaluated operability before the system was released.|تیم پیش از انتشار سامانه، قابلیت کارکرد را ارزیابی کرد.
+operability|n|قابلیت کارکرد
+operable|adj|قابل استفاده
+operably|adv|به‌شکل قابل استفاده
+inoperable|adj|غیرقابل استفاده
+operate|v|کار کردن؛ راه‌اندازی کردن
+operation|n|عملیات
+operational|adj|عملیاتی
+
+
+#processability||noun|قابلیت پردازش|C1|Technology
+~The team evaluated processability before the system was released.|تیم پیش از انتشار سامانه، قابلیت پردازش را ارزیابی کرد.
+processability|n|قابلیت پردازش
+processable|adj|قابل پردازش
+unprocessable|adj|غیرقابل پردازش
+processing|n|پردازش
+
+
+#recognizability||noun|قابل‌شناسایی‌بودن|C1|Technology
+~The team evaluated recognizability before the system was released.|تیم پیش از انتشار سامانه، قابل‌شناسایی‌بودن را ارزیابی کرد.
+recognizability|n|قابل‌شناسایی‌بودن
+recognizable|adj|قابل تشخیص
+recognizably|adv|به‌صورت قابل تشخیص
+unrecognizable|adj|غیرقابل تشخیص
+recognize|v|شناختن
+recognition|n|شناخت
+recognizer|n|تشخیص‌دهنده
+
+
+#recyclability||noun|بازیافت‌پذیری|B2|Environment
+~The team evaluated recyclability before the system was released.|تیم پیش از انتشار سامانه، بازیافت‌پذیری را ارزیابی کرد.
+recyclability|n|بازیافت‌پذیری
+recyclable|adj|قابل بازیافت
+recyclably|adv|به‌شکل قابل بازیافت
+unrecyclable|adj|غیرقابل بازیافت
+recycling|n|بازیافت
+recycler|n|بازیافت‌کننده
+
+
+#replaceability||noun|جایگزین‌پذیری|C1|Technology
+~The team evaluated replaceability before the system was released.|تیم پیش از انتشار سامانه، جایگزین‌پذیری را ارزیابی کرد.
+replaceability|n|جایگزین‌پذیری
+replaceable|adj|قابل جایگزینی
+irreplaceable|adj|غیرقابل جایگزینی
+replace|v|جایگزین کردن
+replacement|n|جایگزینی
+replaceably|adv|به‌طور قابل جایگزینی
+
+
+#searchability||noun|قابلیت جست‌وجو|C1|Technology
+~The team evaluated searchability before the system was released.|تیم پیش از انتشار سامانه، قابلیت جست‌وجو را ارزیابی کرد.
+searchability|n|قابلیت جست‌وجو
+searchable|adj|قابل جست‌وجو
+unsearchable|adj|غیرقابل جست‌وجو
+search|v|جست‌وجو کردن
+searcher|n|جست‌وجوگر
+
+
+#serviceability||noun|قابلیت سرویس‌دهی|C1|Engineering
+~The team evaluated serviceability before the system was released.|تیم پیش از انتشار سامانه، قابلیت سرویس‌دهی را ارزیابی کرد.
+serviceability|n|قابلیت سرویس‌دهی
+serviceable|adj|قابل تعمیر یا سرویس
+serviceably|adv|به‌شکل قابل سرویس
+unserviceable|adj|غیرقابل تعمیر
+servicing|n|سرویس و نگه‌داری
+
+
+#suitability||noun|تناسب؛ مناسب‌بودن|B2|Work
+~The team evaluated suitability before the system was released.|تیم پیش از انتشار سامانه، تناسب؛ مناسب‌بودن را ارزیابی کرد.
+suitability|n|تناسب؛ مناسب‌بودن
+suitable|adj|مناسب
+suitably|adv|به‌طور مناسب
+unsuitable|adj|نامناسب
+unsuitability|n|نامناسب‌بودن
+
+
+#survivability||noun|بقاپذیری|C1|Safety
+~The team evaluated survivability before the system was released.|تیم پیش از انتشار سامانه، بقاپذیری را ارزیابی کرد.
+survivability|n|بقاپذیری
+survivable|adj|قابل بقا
+unsurvivable|adj|غیرقابل بقا
+survive|v|زنده ماندن؛ دوام آوردن
+survival|n|بقا
+survivor|n|بازمانده
+
+
+#transferability||noun|انتقال‌پذیری|C1|Work
+~The team evaluated transferability before the system was released.|تیم پیش از انتشار سامانه، انتقال‌پذیری را ارزیابی کرد.
+transferability|n|انتقال‌پذیری
+nontransferable|adj|غیرقابل انتقال
+transferal|n|انتقال
+transferrable|adj|قابل انتقال
+
+
+#viewability||noun|قابلیت مشاهده|C1|Technology
+~The team evaluated viewability before the system was released.|تیم پیش از انتشار سامانه، قابلیت مشاهده را ارزیابی کرد.
+viewability|n|قابلیت مشاهده
+viewable|adj|قابل مشاهده
+unviewable|adj|غیرقابل مشاهده
+viewing|n|تماشا
+
+
+#washability||noun|قابلیت شست‌وشو|B2|Home
+~The team evaluated washability before the system was released.|تیم پیش از انتشار سامانه، قابلیت شست‌وشو را ارزیابی کرد.
+washability|n|قابلیت شست‌وشو
+washable|adj|قابل شست‌وشو
+unwashable|adj|غیرقابل شست‌وشو
+washable-fabric|n|پارچهٔ قابل شست‌وشو

@@ -1,0 +1,1339 @@
+# Rishe 1.5 standalone source rows reconstructed from the generated database; all remain Draft.
+alcove|n|فرورفتگی دیوار|B1|Home
+architrave|n|قاب افقی بالای ستون|B1|Home
+attic|n|زیرشیروانی|B1|Home
+awning|n|سایبان|B1|Home
+balustrade|n|نردهٔ کوتاه|B1|Home
+banister|n|دست‌انداز راه‌پله|B1|Home
+basin|n|کاسهٔ روشویی|B1|Home
+bidet|n|بیده|B1|Home
+boiler|n|دیگ آب‌گرم|B1|Home
+butler's pantry|n|آبدارخانهٔ کوچک|B1|Home
+cabinetry|n|مجموعهٔ کابینت‌ها|B1|Home
+canopy|n|سایبان|B1|Home
+carport|n|سایبان خودرو|B1|Home
+casement|n|قاب لولایی پنجره|B1|Home
+casement window|n|پنجرهٔ لولایی|B1|Home
+caulking|n|درزگیری|B1|Home
+chimney cap|n|کلاهک دودکش|B1|Home
+cistern|n|مخزن آب|B1|Home
+closet rod|n|میلهٔ کمد|B1|Home
+countertop|n|سطح روی کابینت|B1|Home
+crawlspace|n|فضای کم‌ارتفاع زیر ساختمان|B1|Home
+damper|n|دریچهٔ تنظیم جریان هوا|B1|Home
+doorjamb|n|چارچوب در|B1|Home
+doorstop|n|نگهدارندهٔ در|B1|Home
+downspout|n|لولهٔ ناودان|B1|Home
+drainpipe|n|لولهٔ تخلیه|B1|Home
+dryer vent|n|خروجی هوای خشک‌کن|B1|Home
+ductwork|n|مجموعهٔ کانال‌های هوا|B1|Home
+eaves|n|لبهٔ پیش‌آمدهٔ بام|B1|Home
+faucet aerator|n|سرشیر کاهندهٔ مصرف|B1|Home
+floorboard|n|تختهٔ کف|B1|Home
+flush valve|n|شیر تخلیه|B1|Home
+footstool|n|زیرپایی|B1|Home
+fuse box|n|جعبه‌فیوز|B1|Home
+garbage disposal|n|آسیاب زبالهٔ سینک|B1|Home
+grout|n|ملات بندکشی|B1|Home
+gutter guard|n|توری محافظ ناودان|B1|Home
+heat pump|n|پمپ حرارتی|B1|Home
+hinge|n|لولای در|B1|Home
+joist|n|تیرک کف یا سقف|B1|Home
+kickboard|n|قرنیز پای کابینت|B1|Home
+light fixture|n|چراغ ثابت|B1|Home
+lint trap|n|فیلتر پرز|B1|Home
+mantelpiece|n|طاقچهٔ بالای شومینه|B1|Home
+mudroom|n|ورودی مخصوص کفش و لباس بیرون|B1|Home
+pantry|n|انباری مواد غذایی|B1|Home
+parapet|n|جان‌پناه بام|B1|Home
+plasterboard|n|صفحهٔ گچی|B1|Home
+plumbing|n|لوله‌کشی|B1|Home
+porcelain tile|n|کاشی چینی|B1|Home
+recessed lighting|n|نورپردازی توکار|B1|Home
+roof flashing|n|ورق آب‌بند بام|B1|Home
+skirting board|n|قرنیز|B1|Home
+soffit|n|زیرلبهٔ بام|B1|Home
+storm door|n|درِ محافظ بیرونی|B1|Home
+sump pump|n|پمپ تخلیهٔ آب زیرزمین|B1|Home
+switchboard|n|تابلو برق|B1|Home
+threshold strip|n|نوار آستانهٔ در|B1|Home
+tile spacer|n|فاصله‌گذار کاشی|B1|Home
+trapdoor|n|دریچهٔ کف یا سقف|B1|Home
+wall stud|n|عضو عمودی دیوار|B1|Home
+water softener|n|دستگاه سختی‌گیر آب|B1|Home
+weather stripping|n|نوار درزبند|B1|Home
+window sill|n|طاقچهٔ پنجره|B1|Home
+workbench|n|میز کار|B1|Home
+yardstick|n|خط‌کش بلند|B1|Home
+action item|n|مورد نیازمند اقدام|B2|Work
+agenda item|n|بند دستور جلسه|B2|Work
+apprenticeship|n|دورهٔ کارآموزی|B2|Work
+arbitration|n|داوری|B2|Work
+backlog|n|کارهای انباشته|B2|Work
+benchmark|n|معیار سنجش|B2|Work
+billable hour|n|ساعت قابل‌صورتحساب|B2|Work
+boardroom|n|اتاق هیئت‌مدیره|B2|Work
+boilerplate|n|متن استاندارد تکرارشونده|B2|Work
+briefing note|n|یادداشت توجیهی|B2|Work
+business case|n|توجیه اقتصادی طرح|B2|Work
+buy-in|n|پذیرش و همراهی|B2|Work
+capacity planning|n|برنامه‌ریزی ظرفیت|B2|Work
+career ladder|n|مسیر پیشرفت شغلی|B2|Work
+change request|n|درخواست تغییر|B2|Work
+client brief|n|شرح نیاز مشتری|B2|Work
+code of conduct|n|آیین رفتار حرفه‌ای|B2|Work
+collective agreement|n|توافق‌نامهٔ جمعی|B2|Work
+competency framework|n|چارچوب شایستگی|B2|Work
+conflict of interest|n|تعارض منافع|B2|Work
+contingency budget|n|بودجهٔ احتیاطی|B2|Work
+corporate governance|n|حاکمیت شرکتی|B2|Work
+cost overrun|n|اضافه‌هزینه|B2|Work
+cross-training|n|آموزش چندمهارتی|B2|Work
+disbursement|n|پرداخت وجه|B2|Work
+due diligence|n|بررسی موشکافانه|B2|Work
+escalation path|n|مسیر ارجاع مشکل|B2|Work
+exit interview|n|مصاحبهٔ خروج|B2|Work
+expense claim|n|درخواست بازپرداخت هزینه|B2|Work
+feasibility study|n|مطالعهٔ امکان‌سنجی|B2|Work
+fixed-term contract|n|قرارداد مدت‌دار|B2|Work
+governance board|n|هیئت راهبری|B2|Work
+handover|n|تحویل کار|B2|Work
+headcount|n|تعداد کارکنان|B2|Work
+job rotation|n|چرخش شغلی|B2|Work
+knowledge transfer|n|انتقال دانش|B2|Work
+labor arbitration|n|داوری کار|B2|Work
+leave entitlement|n|استحقاق مرخصی|B2|Work
+meeting minutes|n|صورت‌جلسه|B2|Work
+mentoring scheme|n|برنامهٔ راهنمایی شغلی|B2|Work
+noncompete clause|n|بند منع رقابت|B2|Work
+offboarding|n|فرایند خروج کارمند|B2|Work
+on-call duty|n|نوبت آماده‌باش|B2|Work
+operating model|n|مدل عملیاتی|B2|Work
+organizational chart|n|نمودار سازمانی|B2|Work
+performance review|n|ارزیابی عملکرد|B2|Work
+procurement|n|تدارکات|B2|Work
+project charter|n|منشور پروژه|B2|Work
+project scope|n|دامنهٔ پروژه|B2|Work
+quality gate|n|مرحلهٔ کنترل کیفیت|B2|Work
+redundancy pay|n|حق‌وحقوق تعدیل نیرو|B2|Work
+resource allocation|n|تخصیص منابع|B2|Work
+retainer|n|حق‌الزحمهٔ ثابت|B2|Work
+return on investment|n|بازده سرمایه‌گذاری|B2|Work
+role clarity|n|شفافیت نقش|B2|Work
+service-level agreement|n|توافق‌نامهٔ سطح خدمات|B2|Work
+shift pattern|n|الگوی شیفت|B2|Work
+succession plan|n|برنامهٔ جانشین‌پروری|B2|Work
+time sheet|n|برگهٔ ثبت ساعات|B2|Work
+vendor assessment|n|ارزیابی فروشنده|B2|Work
+workstream|n|جریان کاری|B2|Work
+workplace grievance|n|شکایت محیط کار|B2|Work
+amortization|n|استهلاک تدریجی بدهی یا دارایی|B2|Finance
+annuity|n|مستمری؛ پرداخت دوره‌ای|B2|Finance
+arrears|n|معوقات|B2|Finance
+asset allocation|n|تخصیص دارایی|B2|Finance
+bank reconciliation|n|مغایرت‌گیری بانکی|B2|Finance
+beneficial owner|n|مالک ذی‌نفع|B2|Finance
+bond yield|n|بازده اوراق قرضه|B2|Finance
+break-even point|n|نقطهٔ سربه‌سر|B2|Finance
+capital expenditure|n|هزینهٔ سرمایه‌ای|B2|Finance
+cash flow statement|n|صورت جریان وجوه نقد|B2|Finance
+collateral|n|وثیقه|B2|Finance
+compound interest|n|بهرهٔ مرکب|B2|Finance
+credit facility|n|تسهیلات اعتباری|B2|Finance
+credit limit|n|سقف اعتبار|B2|Finance
+credit spread|n|فاصلهٔ بازده اعتباری|B2|Finance
+debt covenant|n|تعهد قراردادی بدهی|B2|Finance
+debt ceiling|n|سقف بدهی|B2|Finance
+debt service|n|خدمت بدهی|B2|Finance
+deferred payment|n|پرداخت به‌تعویق‌افتاده|B2|Finance
+depreciation schedule|n|جدول استهلاک|B2|Finance
+dividend yield|n|بازده سود تقسیمی|B2|Finance
+escrow|n|حساب امانی|B2|Finance
+exchange-traded fund|n|صندوق قابل معامله در بورس|B2|Finance
+expense ratio|n|نسبت هزینه|B2|Finance
+fiscal deficit|n|کسری بودجه|B2|Finance
+foreign exchange reserve|n|ذخیرهٔ ارزی|B2|Finance
+forensic accounting|n|حسابداری قضایی|B2|Finance
+gross margin|n|حاشیهٔ سود ناخالص|B2|Finance
+hedge fund|n|صندوق پوشش ریسک|B2|Finance
+impairment|n|کاهش ارزش دارایی|B2|Finance
+income statement|n|صورت سود و زیان|B2|Finance
+index fund|n|صندوق شاخصی|B2|Finance
+interest coverage|n|پوشش بهره|B2|Finance
+invoice factoring|n|واگذاری مطالبات فاکتورها|B2|Finance
+liquidation|n|تصفیه؛ نقدکردن دارایی|B2|Finance
+liquidity crunch|n|بحران نقدینگی|B2|Finance
+loan-to-value ratio|n|نسبت وام به ارزش دارایی|B2|Finance
+market capitalization|n|ارزش بازار|B2|Finance
+mark-to-market|n|ارزش‌گذاری بر مبنای قیمت روز|B2|Finance
+monetary tightening|n|سیاست پولی انقباضی|B2|Finance
+net present value|n|ارزش فعلی خالص|B2|Finance
+operating cash flow|n|جریان نقد عملیاتی|B2|Finance
+overcollateralization|n|وثیقه‌گذاری مازاد|B2|Finance
+payment default|n|نکول پرداخت|B2|Finance
+portfolio turnover|n|گردش پرتفوی|B2|Finance
+preferred share|n|سهام ممتاز|B2|Finance
+price-to-earnings ratio|n|نسبت قیمت به سود|B2|Finance
+profit margin|n|حاشیهٔ سود|B2|Finance
+receivables|n|مطالبات|B2|Finance
+retained earnings|n|سود انباشته|B2|Finance
+revolving credit|n|اعتبار گردان|B2|Finance
+securities lending|n|امانت‌دهی اوراق بهادار|B2|Finance
+settlement date|n|تاریخ تسویه|B2|Finance
+share buyback|n|بازخرید سهام|B2|Finance
+short selling|n|فروش استقراضی|B2|Finance
+solvency|n|توانگری مالی|B2|Finance
+sovereign bond|n|اوراق قرضهٔ دولتی|B2|Finance
+stock split|n|تجزیهٔ سهام|B2|Finance
+tax domicile|n|اقامتگاه مالیاتی|B2|Finance
+tax withholding|n|کسر مالیات از منبع|B2|Finance
+transaction cost|n|هزینهٔ معامله|B2|Finance
+underwriting|n|تعهد پذیره‌نویسی|B2|Finance
+valuation model|n|مدل ارزش‌گذاری|B2|Finance
+working capital|n|سرمایهٔ در گردش|B2|Finance
+affidavit|n|سوگندنامه|B2|Law
+appeal court|n|دادگاه تجدیدنظر|B2|Law
+arbitrator|n|داور|B2|Law
+arraignment|n|تفهیم رسمی اتهام|B2|Law
+attorney-client privilege|n|امتیاز محرمانگی وکیل و موکل|B2|Law
+burden of proof|n|بار اثبات|B2|Law
+case law|n|رویهٔ قضایی|B2|Law
+cease-and-desist order|n|دستور توقف فعالیت|B2|Law
+class action|n|دعوی گروهی|B2|Law
+closing argument|n|دفاع نهایی|B2|Law
+confession of judgment|n|اقرار به محکومیت|B2|Law
+consent decree|n|حکم توافقی|B2|Law
+contempt of court|n|توهین به دادگاه|B2|Law
+court injunction|n|دستور منع قضایی|B2|Law
+cross-examination|n|بازپرسی متقابل|B2|Law
+damages|n|غرامت؛ خسارت|B2|Law
+deposition|n|اظهارات سوگندخورده|B2|Law
+discovery process|n|فرایند کشف ادله|B2|Law
+due process|n|دادرسی منصفانه|B2|Law
+eminent domain|n|تملک اجباری برای منفعت عمومی|B2|Law
+exculpatory evidence|n|مدرک تبرئه‌کننده|B2|Law
+fiduciary duty|n|وظیفهٔ امانی|B2|Law
+force majeure|n|قوهٔ قاهره|B2|Law
+grand jury|n|هیئت منصفهٔ مقدماتی|B2|Law
+habeas corpus|n|دستور بررسی قانونی بازداشت|B2|Law
+hearsay|n|اظهارات غیرمستقیم|B2|Law
+indictment|n|کیفرخواست|B2|Law
+injunctive relief|n|دستور حمایتی قضایی|B2|Law
+jury deliberation|n|مشورت هیئت منصفه|B2|Law
+legal precedent|n|سابقهٔ قضایی|B2|Law
+limitation period|n|مهلت قانونی اقامهٔ دعوا|B2|Law
+litigation hold|n|دستور حفظ اسناد دعوی|B2|Law
+mens rea|n|عنصر روانی جرم|B2|Law
+mitigating circumstance|n|عامل تخفیف‌دهنده|B2|Law
+motion to dismiss|n|درخواست رد دعوی|B2|Law
+notary public|n|سردفتر اسناد رسمی|B2|Law
+perjury|n|شهادت دروغ|B2|Law
+plea bargain|n|توافق بر سر اتهام|B2|Law
+probate|n|رسیدگی به وصیت‌نامه|B2|Law
+pro bono|n|خدمات حقوقی رایگان|B2|Law
+procedural law|n|حقوق شکلی|B2|Law
+qualified immunity|n|مصونیت مشروط|B2|Law
+reasonable doubt|n|تردید معقول|B2|Law
+recusal|n|کناره‌گیری قاضی از رسیدگی|B2|Law
+remand|n|اعادهٔ پرونده|B2|Law
+restraining order|n|دستور منع نزدیک‌شدن|B2|Law
+separation of powers|n|تفکیک قوا|B2|Law
+statute of limitations|n|مرور زمان قانونی|B2|Law
+subpoena|n|احضاریهٔ الزام‌آور|B2|Law
+summary judgment|n|حکم اجمالی|B2|Law
+testimony|n|شهادت|B2|Law
+third-party liability|n|مسئولیت شخص ثالث|B2|Law
+voir dire|n|گزینش اولیهٔ هیئت منصفه|B2|Law
+writ|n|دستور کتبی قضایی|B2|Law
+access token|n|توکن دسترسی|B2|Technology
+API endpoint|n|نقطهٔ پایانی رابط برنامه‌نویسی|B2|Technology
+application binary interface|n|رابط دودویی برنامه|B2|Technology
+attack surface|n|سطح حمله|B2|Technology
+authentication token|n|توکن احراز هویت|B2|Technology
+authorization rule|n|قاعدهٔ مجوزدهی|B2|Technology
+bandwidth throttling|n|محدودسازی پهنای باند|B2|Technology
+binary format|n|قالب دودویی|B2|Technology
+bootloader|n|بارگذار آغازین|B2|Technology
+branch protection|n|محافظت از شاخهٔ کد|B2|Technology
+cache invalidation|n|نامعتبرسازی حافظهٔ نهان|B2|Technology
+certificate authority|n|مرجع صدور گواهی|B2|Technology
+checksum|n|جمع کنترلی|B2|Technology
+container image|n|تصویر کانتینر|B2|Technology
+content delivery network|n|شبکهٔ توزیع محتوا|B2|Technology
+continuous integration|n|یکپارچه‌سازی مداوم|B2|Technology
+cryptographic key|n|کلید رمزنگاری|B2|Technology
+data lineage|n|تبار داده|B2|Technology
+data pipeline|n|خط لولهٔ داده|B2|Technology
+data provenance|n|منشأ داده|B2|Technology
+dependency graph|n|گراف وابستگی|B2|Technology
+distributed ledger|n|دفترکل توزیع‌شده|B2|Technology
+DNS resolver|n|حل‌کنندهٔ نام دامنه|B2|Technology
+edge computing|n|رایانش لبه‌ای|B2|Technology
+endpoint detection|n|تشخیص نقطهٔ پایانی|B2|Technology
+event loop|n|حلقهٔ رویداد|B2|Technology
+feature flag|n|پرچم قابلیت|B2|Technology
+firmware update|n|به‌روزرسانی میان‌افزار|B2|Technology
+garbage collection|n|گردآوری زبالهٔ حافظه|B2|Technology
+hash collision|n|برخورد تابع درهم‌سازی|B2|Technology
+immutable infrastructure|n|زیرساخت تغییرناپذیر|B2|Technology
+input validation|n|اعتبارسنجی ورودی|B2|Technology
+integrity check|n|بررسی یکپارچگی|B2|Technology
+intrusion detection|n|تشخیص نفوذ|B2|Technology
+key rotation|n|چرخش کلید رمزنگاری|B2|Technology
+load balancer|n|متعادل‌کنندهٔ بار|B2|Technology
+machine-readable format|n|قالب قابل‌خواندن برای ماشین|B2|Technology
+memory leak|n|نشت حافظه|B2|Technology
+message broker|n|واسط پیام|B2|Technology
+metadata schema|n|طرح‌وارهٔ فراداده|B2|Technology
+model drift|n|رانش مدل|B2|Technology
+network partition|n|تقسیم شبکه|B2|Technology
+object storage|n|ذخیره‌سازی شیءمحور|B2|Technology
+package manager|n|مدیر بسته|B2|Technology
+payload|n|محمولهٔ داده|B2|Technology
+permission boundary|n|مرز مجوز|B2|Technology
+query planner|n|برنامه‌ریز پرس‌وجو|B2|Technology
+rate limiting|n|محدودسازی نرخ درخواست|B2|Technology
+recovery point objective|n|هدف نقطهٔ بازیابی|B2|Technology
+regression test|n|آزمون رگرسیون|B2|Technology
+replica lag|n|تأخیر همگام‌سازی نسخهٔ تکثیرشده|B2|Technology
+request header|n|سرآیند درخواست|B2|Technology
+rollback plan|n|برنامهٔ بازگشت به نسخهٔ قبلی|B2|Technology
+runtime environment|n|محیط زمان اجرا|B2|Technology
+sandboxing|n|اجرای ایزوله|B2|Technology
+schema migration|n|مهاجرت طرح‌واره|B2|Technology
+secret rotation|n|چرخش اسرار|B2|Technology
+session fixation|n|تثبیت نشست|B2|Technology
+software bill of materials|n|فهرست اجزای نرم‌افزار|B2|Technology
+source map|n|نقشهٔ منبع|B2|Technology
+state machine|n|ماشین حالت|B2|Technology
+static analysis|n|تحلیل ایستا|B2|Technology
+threat model|n|مدل تهدید|B2|Technology
+tokenization|n|توکن‌سازی|B2|Technology
+version pinning|n|ثابت‌کردن نسخهٔ وابستگی|B2|Technology
+zero-day vulnerability|n|آسیب‌پذیری روز صفر|B2|Technology
+acceleration due to gravity|n|شتاب گرانشی|B2|Science
+activation energy|n|انرژی فعال‌سازی|B2|Science
+alloy composition|n|ترکیب آلیاژ|B2|Science
+ambient temperature|n|دمای محیط|B2|Science
+anisotropy|n|ناهمسانگردی|B2|Science
+aqueous solution|n|محلول آبی|B2|Science
+atomic mass|n|جرم اتمی|B2|Science
+boundary condition|n|شرط مرزی|B2|Science
+calibration curve|n|منحنی کالیبراسیون|B2|Science
+capillary action|n|خاصیت مویینگی|B2|Science
+chemical equilibrium|n|تعادل شیمیایی|B2|Science
+chromatogram|n|کروماتوگرام|B2|Science
+coefficient of friction|n|ضریب اصطکاک|B2|Science
+conservation law|n|قانون پایستگی|B2|Science
+critical angle|n|زاویهٔ بحرانی|B2|Science
+crystal lattice|n|شبکهٔ بلوری|B2|Science
+diffusion coefficient|n|ضریب انتشار|B2|Science
+electrolysis|n|الکترولیز|B2|Science
+emission spectrum|n|طیف گسیلی|B2|Science
+enthalpy|n|آنتالپی|B2|Science
+entropy|n|آنتروپی|B2|Science
+equilibrium constant|n|ثابت تعادل|B2|Science
+experimental control|n|کنترل آزمایش|B2|Science
+fluid dynamics|n|دینامیک سیالات|B2|Science
+half-life|n|نیمه‌عمر|B2|Science
+heat capacity|n|ظرفیت گرمایی|B2|Science
+hydraulic pressure|n|فشار هیدرولیک|B2|Science
+isotope ratio|n|نسبت ایزوتوپی|B2|Science
+kinetic energy|n|انرژی جنبشی|B2|Science
+latent heat|n|گرمای نهان|B2|Science
+magnetic flux|n|شار مغناطیسی|B2|Science
+mass spectrometry|n|طیف‌سنجی جرمی|B2|Science
+measurement uncertainty|n|عدم‌قطعیت اندازه‌گیری|B2|Science
+molar concentration|n|غلظت مولی|B2|Science
+moment of inertia|n|گشتاور لختی|B2|Science
+neutron flux|n|شار نوترونی|B2|Science
+oxidation state|n|عدد اکسایش|B2|Science
+phase transition|n|گذار فاز|B2|Science
+photocatalysis|n|فوتوکاتالیز|B2|Science
+plasma frequency|n|فرکانس پلاسما|B2|Science
+quantum state|n|حالت کوانتومی|B2|Science
+reaction kinetics|n|سینتیک واکنش|B2|Science
+refractive index|n|ضریب شکست|B2|Science
+resonance frequency|n|فرکانس تشدید|B2|Science
+rotational inertia|n|لختی دورانی|B2|Science
+shear stress|n|تنش برشی|B2|Science
+solubility product|n|حاصل‌ضرب حلالیت|B2|Science
+thermal conductivity|n|رسانندگی گرمایی|B2|Science
+thermal expansion|n|انبساط گرمایی|B2|Science
+thermodynamic cycle|n|چرخهٔ ترمودینامیکی|B2|Science
+titration endpoint|n|نقطهٔ پایانی تیتراسیون|B2|Science
+vapor pressure|n|فشار بخار|B2|Science
+viscosity|n|گرانروی|B2|Science
+wavelength shift|n|تغییر طول موج|B2|Science
+yield strength|n|تنش تسلیم|B2|Science
+aquifer|n|آبخوان|B2|Environment
+arable land|n|زمین زراعی|B2|Environment
+biocapacity|n|ظرفیت زیستی|B2|Environment
+carbon sink|n|چاهک کربن|B2|Environment
+climate attribution|n|انتساب رویداد به تغییر اقلیم|B2|Environment
+coastal erosion|n|فرسایش ساحلی|B2|Environment
+coral bleaching|n|سفیدشدگی مرجان|B2|Environment
+dead zone|n|منطقهٔ کم‌اکسیژن|B2|Environment
+decarbonization|n|کربن‌زدایی|B2|Environment
+desalination|n|نمک‌زدایی|B2|Environment
+ecological footprint|n|ردپای بوم‌شناختی|B2|Environment
+environmental impact assessment|n|ارزیابی اثرات زیست‌محیطی|B2|Environment
+estuary|n|خور؛ مصب رودخانه|B2|Environment
+evapotranspiration|n|تبخیر و تعرق|B2|Environment
+firebreak|n|آتش‌بُر|B2|Environment
+fishery|n|منابع و صنعت صید ماهی|B2|Environment
+food web|n|شبکهٔ غذایی|B2|Environment
+forest canopy|n|تاج‌پوشش جنگل|B2|Environment
+groundwater recharge|n|تغذیهٔ آب زیرزمینی|B2|Environment
+heat island|n|جزیرهٔ گرمایی|B2|Environment
+invasive species|n|گونهٔ مهاجم|B2|Environment
+land degradation|n|تخریب زمین|B2|Environment
+land reclamation|n|احیای زمین|B2|Environment
+marine reserve|n|منطقهٔ حفاظت‌شدهٔ دریایی|B2|Environment
+microplastic|n|ریزپلاستیک|B2|Environment
+monoculture|n|تک‌کشتی|B2|Environment
+nitrogen runoff|n|رواناب نیتروژنی|B2|Environment
+overfishing|n|صید بی‌رویه|B2|Environment
+ozone depletion|n|تخریب لایهٔ اوزون|B2|Environment
+peatland|n|زمین توربی|B2|Environment
+permaculture|n|کشاورزی پایدار طراحی‌شده|B2|Environment
+pollinator|n|گرده‌افشان|B2|Environment
+pollution plume|n|تودهٔ آلاینده|B2|Environment
+rain shadow|n|سایهٔ باران|B2|Environment
+riparian zone|n|حاشیهٔ رودخانه|B2|Environment
+salinization|n|شورشدن خاک|B2|Environment
+sediment load|n|بار رسوبی|B2|Environment
+soil amendment|n|اصلاح‌کنندهٔ خاک|B2|Environment
+storm surge|n|بالاآمدگی آب دریا هنگام توفان|B2|Environment
+surface runoff|n|رواناب سطحی|B2|Environment
+thermal pollution|n|آلودگی گرمایی|B2|Environment
+urban sprawl|n|گسترش پراکندهٔ شهر|B2|Environment
+water table|n|سطح ایستابی|B2|Environment
+watershed management|n|مدیریت حوزهٔ آبخیز|B2|Environment
+wetland restoration|n|احیای تالاب|B2|Environment
+wildlife corridor|n|گذرگاه حیات‌وحش|B2|Environment
+wind shear|n|برش باد|B2|Environment
+woodland|n|زمین جنگلی|B2|Environment
+xeriscaping|n|محوطه‌سازی کم‌آب‌بر|B2|Environment
+alternate airport|n|فرودگاه جایگزین|B2|Travel & Aviation
+approach clearance|n|مجوز تقرب|B2|Travel & Aviation
+arrival slot|n|نوبت ورود|B2|Travel & Aviation
+aviation weather|n|هواشناسی هوانوردی|B2|Travel & Aviation
+baggage tag|n|برچسب بار|B2|Travel & Aviation
+block time|n|زمان بلوکی پرواز|B2|Travel & Aviation
+boarding group|n|گروه سوارشدن|B2|Travel & Aviation
+cargo manifest|n|مانیفست بار|B2|Travel & Aviation
+check-in counter|n|پیشخوان پذیرش|B2|Travel & Aviation
+clearance limit|n|حد مجاز مجوز|B2|Travel & Aviation
+crew rostering|n|تنظیم برنامهٔ خدمه|B2|Travel & Aviation
+customs declaration|n|اظهارنامهٔ گمرکی|B2|Travel & Aviation
+departure slot|n|نوبت خروج|B2|Travel & Aviation
+diversion airport|n|فرودگاه انحراف مسیر|B2|Travel & Aviation
+flight envelope|n|پوش پروازی|B2|Travel & Aviation
+flight following|n|پایش پرواز|B2|Travel & Aviation
+flight plan amendment|n|اصلاح طرح پرواز|B2|Travel & Aviation
+ground handling|n|خدمات زمینی|B2|Travel & Aviation
+ground speed|n|سرعت زمینی|B2|Travel & Aviation
+holding pattern|n|الگوی انتظار|B2|Travel & Aviation
+instrument approach|n|تقرب با دستگاه|B2|Travel & Aviation
+landing distance|n|مسافت فرود|B2|Travel & Aviation
+load sheet|n|برگهٔ بارگذاری|B2|Travel & Aviation
+minimum equipment list|n|فهرست حداقل تجهیزات|B2|Travel & Aviation
+navigation fix|n|نقطهٔ ناوبری|B2|Travel & Aviation
+overflight permit|n|مجوز عبور هوایی|B2|Travel & Aviation
+passenger manifest|n|فهرست مسافران|B2|Travel & Aviation
+pushback tug|n|یدک‌کش عقب‌برنده|B2|Travel & Aviation
+runway incursion|n|ورود غیرمجاز به باند|B2|Travel & Aviation
+runway occupancy|n|اشغال باند|B2|Travel & Aviation
+seat assignment|n|تخصیص صندلی|B2|Travel & Aviation
+security checkpoint|n|ایست بازرسی امنیتی|B2|Travel & Aviation
+slot coordination|n|هماهنگی نوبت پرواز|B2|Travel & Aviation
+standby passenger|n|مسافر آماده‌باش|B2|Travel & Aviation
+standby crew|n|خدمهٔ آماده‌باش|B2|Travel & Aviation
+taxi clearance|n|مجوز تاکسی|B2|Travel & Aviation
+terminal airspace|n|فضای هوایی پایانه|B2|Travel & Aviation
+time of arrival|n|زمان رسیدن|B2|Travel & Aviation
+traffic flow management|n|مدیریت جریان ترافیک|B2|Travel & Aviation
+transit visa|n|روادید ترانزیت|B2|Travel & Aviation
+turnaround time|n|زمان آماده‌سازی مجدد|B2|Travel & Aviation
+wake turbulence|n|تلاطم دنباله|B2|Travel & Aviation
+weather radar|n|رادار هواشناسی|B2|Travel & Aviation
+weight and balance|n|وزن و تعادل|B2|Travel & Aviation
+wind component|n|مؤلفهٔ باد|B2|Travel & Aviation
+departure briefing|n|توجیه پیش از حرکت|B2|Travel & Aviation
+flight dispatcher|n|دیسپچر پرواز|B2|Travel & Aviation
+flight release|n|تأییدیهٔ عملیاتی پرواز|B2|Travel & Aviation
+operational control|n|کنترل عملیاتی|B2|Travel & Aviation
+route clearance|n|مجوز مسیر|B2|Travel & Aviation
+surface movement|n|حرکت روی سطح فرودگاه|B2|Travel & Aviation
+adverse reaction|n|واکنش نامطلوب|B2|Health
+aftercare|n|مراقبت پس از درمان|B2|Health
+ambulatory care|n|مراقبت سرپایی|B2|Health
+antibody titer|n|تیتر پادتن|B2|Health
+baseline measurement|n|اندازه‌گیری پایه|B2|Health
+blood pressure cuff|n|کاف فشارسنج|B2|Health
+body composition|n|ترکیب بدن|B2|Health
+breathing exercise|n|تمرین تنفسی|B2|Health
+clinical pathway|n|مسیر درمان بالینی|B2|Health
+cohort study|n|مطالعهٔ هم‌گروهی|B2|Health
+contraindication|n|منع مصرف یا اقدام درمانی|B2|Health
+coping strategy|n|راهبرد مقابله|B2|Health
+cross-infection|n|عفونت متقاطع|B2|Health
+differential diagnosis|n|تشخیص افتراقی|B2|Health
+discharge summary|n|خلاصهٔ ترخیص|B2|Health
+dosage form|n|شکل دارویی|B2|Health
+drug interaction|n|تداخل دارویی|B2|Health
+early intervention|n|مداخلهٔ زودهنگام|B2|Health
+electrolyte imbalance|n|عدم تعادل الکترولیت|B2|Health
+emergency contact|n|تماس اضطراری|B2|Health
+exercise tolerance|n|تحمل فعالیت|B2|Health
+family history|n|سابقهٔ خانوادگی|B2|Health
+follow-up visit|n|ویزیت پیگیری|B2|Health
+functional assessment|n|ارزیابی عملکردی|B2|Health
+health literacy|n|سواد سلامت|B2|Health
+homeostasis|n|هم‌ایستایی|B2|Health
+incubation period|n|دورهٔ نهفتگی|B2|Health
+infection control|n|کنترل عفونت|B2|Health
+informed consent|n|رضایت آگاهانه|B2|Health
+intensive care|n|مراقبت ویژه|B2|Health
+intervention group|n|گروه مداخله|B2|Health
+medical adherence|n|پایبندی درمانی|B2|Health
+medication reconciliation|n|تطبیق فهرست داروها|B2|Health
+mobility aid|n|وسیلهٔ کمک‌حرکتی|B2|Health
+occupational exposure|n|مواجههٔ شغلی|B2|Health
+outpatient clinic|n|درمانگاه سرپایی|B2|Health
+pain threshold|n|آستانهٔ درد|B2|Health
+patient registry|n|سامانهٔ ثبت بیماران|B2|Health
+postoperative care|n|مراقبت پس از جراحی|B2|Health
+preventive screening|n|غربالگری پیشگیرانه|B2|Health
+quality of life|n|کیفیت زندگی|B2|Health
+rehabilitation plan|n|برنامهٔ توان‌بخشی|B2|Health
+respiratory rate|n|تعداد تنفس|B2|Health
+risk factor|n|عامل خطر|B2|Health
+screening interval|n|فاصلهٔ غربالگری|B2|Health
+side-effect profile|n|الگوی عوارض جانبی|B2|Health
+sleep hygiene|n|بهداشت خواب|B2|Health
+supportive care|n|مراقبت حمایتی|B2|Health
+therapeutic window|n|پنجرهٔ درمانی|B2|Health
+triage nurse|n|پرستار تریاژ|B2|Health
+vital signs|n|علائم حیاتی|B2|Health
+work capacity|n|توان کاری|B2|Health
+abstract submission|n|ارسال چکیده|B2|Communication
+academic poster|n|پوستر علمی|B2|Communication
+annotated bibliography|n|کتاب‌نامهٔ حاشیه‌نویسی‌شده|B2|Communication
+author attribution|n|انتساب نویسندگی|B2|Communication
+citation style|n|شیوهٔ ارجاع‌دهی|B2|Communication
+clarification request|n|درخواست شفاف‌سازی|B2|Communication
+closing statement|n|بیانیهٔ پایانی|B2|Communication
+content warning|n|هشدار محتوایی|B2|Communication
+counterargument|n|استدلال مخالف|B2|Communication
+editorial board|n|هیئت تحریریه|B2|Communication
+fact-checking|n|راستی‌آزمایی خبر|B2|Communication
+figure caption|n|شرح شکل|B2|Communication
+footnote marker|n|نشان پانوشت|B2|Communication
+grant proposal|n|پیشنهاد درخواست کمک‌هزینه|B2|Communication
+information overload|n|اضافه‌بار اطلاعاتی|B2|Communication
+interlinear gloss|n|معادل‌نویسی بین‌خطی|B2|Communication
+key message|n|پیام اصلی|B2|Communication
+language register|n|سبک زبانی|B2|Communication
+literature review|n|مرور منابع|B2|Communication
+media literacy|n|سواد رسانه‌ای|B2|Communication
+message framing|n|چارچوب‌بندی پیام|B2|Communication
+misquotation|n|نقل‌قول نادرست|B2|Communication
+narrative arc|n|قوس روایی|B2|Communication
+op-ed|n|مقالهٔ دیدگاهی|B2|Communication
+oral defense|n|دفاع شفاهی|B2|Communication
+paraphrase|n|بازگویی با بیان دیگر|B2|Communication
+peer commentary|n|اظهارنظر همتا|B2|Communication
+press briefing|n|جلسهٔ توجیهی رسانه‌ای|B2|Communication
+primary source|n|منبع دست‌اول|B2|Communication
+publication bias|n|سوگیری انتشار|B2|Communication
+quotation mark|n|علامت نقل‌قول|B2|Communication
+reading list|n|فهرست مطالعه|B2|Communication
+research abstract|n|چکیدهٔ پژوهشی|B2|Communication
+response rate|n|نرخ پاسخ‌گویی|B2|Communication
+review article|n|مقالهٔ مروری|B2|Communication
+round-table discussion|n|گفت‌وگوی میزگرد|B2|Communication
+signposting phrase|n|عبارت راهنما|B2|Communication
+source attribution|n|ذکر منبع|B2|Communication
+structured interview|n|مصاحبهٔ ساختاریافته|B2|Communication
+submission deadline|n|مهلت ارسال|B2|Communication
+talking point|n|نکتهٔ کلیدی برای گفت‌وگو|B2|Communication
+technical writing|n|نگارش فنی|B2|Communication
+term paper|n|مقالهٔ پایان‌ترم|B2|Communication
+transcription error|n|خطای پیاده‌سازی گفتار|B2|Communication
+verbal cue|n|نشانهٔ کلامی|B2|Communication
+visual aid|n|وسیلهٔ کمک‌بصری|B2|Communication
+white paper|n|گزارش سیاستی|B2|Communication
+word count|n|تعداد واژه|B2|Communication
+attachment style|n|سبک دلبستگی|B2|Psychology & Society
+avoidance behavior|n|رفتار اجتنابی|B2|Psychology & Society
+behavioral cue|n|نشانهٔ رفتاری|B2|Psychology & Society
+boundary setting|n|تعیین مرز شخصی|B2|Psychology & Society
+cognitive bias|n|سوگیری شناختی|B2|Psychology & Society
+compassion fatigue|n|فرسودگی ناشی از همدلی|B2|Psychology & Society
+conflict resolution|n|حل تعارض|B2|Psychology & Society
+coping mechanism|n|سازوکار مقابله|B2|Psychology & Society
+decision fatigue|n|خستگی تصمیم‌گیری|B2|Psychology & Society
+emotional labor|n|کار عاطفی|B2|Psychology & Society
+emotional regulation|n|تنظیم هیجان|B2|Psychology & Society
+empathy gap|n|شکاف همدلی|B2|Psychology & Society
+family dynamic|n|الگوی تعامل خانوادگی|B2|Psychology & Society
+group cohesion|n|انسجام گروهی|B2|Psychology & Society
+habit loop|n|چرخهٔ عادت|B2|Psychology & Society
+identity formation|n|شکل‌گیری هویت|B2|Psychology & Society
+imposter syndrome|n|سندروم خودناشایست‌پنداری|B2|Psychology & Society
+interpersonal skill|n|مهارت بین‌فردی|B2|Psychology & Society
+learned helplessness|n|درماندگی آموخته‌شده|B2|Psychology & Society
+mental load|n|بار ذهنی|B2|Psychology & Society
+mind wandering|n|سرگردانی ذهن|B2|Psychology & Society
+motivational interviewing|n|مصاحبهٔ انگیزشی|B2|Psychology & Society
+negative reinforcement|n|تقویت منفی|B2|Psychology & Society
+peer pressure|n|فشار همسالان|B2|Psychology & Society
+prosocial behavior|n|رفتار یاری‌گرانه|B2|Psychology & Society
+psychological safety|n|امنیت روانی|B2|Psychology & Society
+reciprocal trust|n|اعتماد متقابل|B2|Psychology & Society
+relational aggression|n|پرخاشگری رابطه‌ای|B2|Psychology & Society
+rumination|n|نشخوار فکری|B2|Psychology & Society
+self-compassion|n|خودشفقتی|B2|Psychology & Society
+self-disclosure|n|خودافشایی|B2|Psychology & Society
+social comparison|n|مقایسهٔ اجتماعی|B2|Psychology & Society
+social cue|n|نشانهٔ اجتماعی|B2|Psychology & Society
+stress response|n|پاسخ به استرس|B2|Psychology & Society
+thought pattern|n|الگوی فکری|B2|Psychology & Society
+toxic positivity|n|مثبت‌اندیشی افراطی|B2|Psychology & Society
+value conflict|n|تعارض ارزشی|B2|Psychology & Society
+vicarious trauma|n|آسیب روانی ثانویه|B2|Psychology & Society
+workplace burnout|n|فرسودگی شغلی|B2|Psychology & Society
+attachment figure|n|شخص دلبستگی|B2|Psychology & Society
+emotional bandwidth|n|ظرفیت عاطفی|B2|Psychology & Society
+distress tolerance|n|تحمل پریشانی|B2|Psychology & Society
+impulse control|n|کنترل تکانه|B2|Psychology & Society
+self-efficacy|n|خودکارآمدی|B2|Psychology & Society
+self-monitoring|n|خودپایشی|B2|Psychology & Society
+social withdrawal|n|کناره‌گیری اجتماعی|B2|Psychology & Society
+stress inoculation|n|ایمن‌سازی در برابر استرس|B2|Psychology & Society
+anti-lock braking system|n|سامانهٔ ترمز ضدقفل|B2|Transport & Engineering
+axle load|n|بار محور|B2|Transport & Engineering
+ball bearing|n|یاتاقان ساچمه‌ای|B2|Transport & Engineering
+belt tensioner|n|تنظیم‌کنندهٔ کشش تسمه|B2|Transport & Engineering
+brake caliper|n|کالیپر ترمز|B2|Transport & Engineering
+brake fade|n|افت عملکرد ترمز|B2|Transport & Engineering
+camshaft|n|میل‌بادامک|B2|Transport & Engineering
+carbon deposit|n|رسوب کربن|B2|Transport & Engineering
+charging circuit|n|مدار شارژ|B2|Transport & Engineering
+clutch plate|n|صفحهٔ کلاچ|B2|Transport & Engineering
+coolant reservoir|n|مخزن مایع خنک‌کننده|B2|Transport & Engineering
+crankcase|n|محفظهٔ میل‌لنگ|B2|Transport & Engineering
+crumple zone|n|ناحیهٔ مچاله‌شونده|B2|Transport & Engineering
+differential gear|n|چرخ‌دندهٔ دیفرانسیل|B2|Transport & Engineering
+drive belt|n|تسمهٔ محرک|B2|Transport & Engineering
+driveshaft|n|میل گاردان|B2|Transport & Engineering
+engine knock|n|ضربهٔ احتراق موتور|B2|Transport & Engineering
+exhaust manifold|n|منیفولد دود|B2|Transport & Engineering
+fuel economy|n|مصرف سوخت اقتصادی|B2|Transport & Engineering
+fuel rail|n|ریل سوخت|B2|Transport & Engineering
+gear ratio|n|نسبت دنده|B2|Transport & Engineering
+hydraulic clutch|n|کلاچ هیدرولیکی|B2|Transport & Engineering
+idle speed|n|دور آرام موتور|B2|Transport & Engineering
+ignition coil|n|کویل احتراق|B2|Transport & Engineering
+intake manifold|n|منیفولد ورودی|B2|Transport & Engineering
+lubrication system|n|سامانهٔ روان‌کاری|B2|Transport & Engineering
+oil pressure|n|فشار روغن|B2|Transport & Engineering
+oil sump|n|کارتل روغن|B2|Transport & Engineering
+oxygen sensor|n|حسگر اکسیژن|B2|Transport & Engineering
+power steering|n|فرمان هیدرولیک|B2|Transport & Engineering
+radiator fan|n|فن رادیاتور|B2|Transport & Engineering
+shock absorber|n|کمک‌فنر|B2|Transport & Engineering
+steering linkage|n|اتصالات فرمان|B2|Transport & Engineering
+steering rack|n|جعبه‌فرمان دنده‌شانه‌ای|B2|Transport & Engineering
+strut mount|n|پایهٔ کمک‌فنر|B2|Transport & Engineering
+synthetic lubricant|n|روان‌کنندهٔ مصنوعی|B2|Transport & Engineering
+timing belt|n|تسمهٔ تایم|B2|Transport & Engineering
+torque converter|n|مبدل گشتاور|B2|Transport & Engineering
+traction control|n|کنترل کشش|B2|Transport & Engineering
+transmission fluid|n|روغن گیربکس|B2|Transport & Engineering
+turbocharger|n|توربوشارژر|B2|Transport & Engineering
+valve clearance|n|فیلر سوپاپ|B2|Transport & Engineering
+wheel alignment|n|تنظیم زوایای چرخ|B2|Transport & Engineering
+wheel bearing|n|بلبرینگ چرخ|B2|Transport & Engineering
+windshield washer|n|شیشه‌شوی|B2|Transport & Engineering
+wiring harness|n|دسته‌سیم|B2|Transport & Engineering
+allergen statement|n|بیانیهٔ آلرژن‌ها|B2|Food & Hospitality
+batch cooking|n|پخت دسته‌ای|B2|Food & Hospitality
+blind tasting|n|چشیدن بدون اطلاع از هویت|B2|Food & Hospitality
+braising liquid|n|مایع آرام‌پز|B2|Food & Hospitality
+bread lame|n|تیغهٔ برش خمیر|B2|Food & Hospitality
+cake crumb|n|بافت داخلی کیک|B2|Food & Hospitality
+caramelization|n|کاراملی‌شدن|B2|Food & Hospitality
+carryout container|n|ظرف غذای بیرون‌بر|B2|Food & Hospitality
+chef's knife|n|چاقوی سرآشپز|B2|Food & Hospitality
+chilling rack|n|توری خنک‌کننده|B2|Food & Hospitality
+cross-contamination|n|آلودگی متقاطع|B2|Food & Hospitality
+crumb coat|n|لایهٔ اولیهٔ خامه‌کشی|B2|Food & Hospitality
+cutlery tray|n|جاقاشقی|B2|Food & Hospitality
+degassing|n|گاززدایی خمیر|B2|Food & Hospitality
+dining etiquette|n|آداب غذاخوری|B2|Food & Hospitality
+dough scraper|n|کاردک خمیر|B2|Food & Hospitality
+dry brining|n|نمک‌سود کردن خشک|B2|Food & Hospitality
+foodborne illness|n|بیماری ناشی از غذا|B2|Food & Hospitality
+food handler|n|متصدی آماده‌سازی غذا|B2|Food & Hospitality
+food intolerance|n|عدم تحمل غذایی|B2|Food & Hospitality
+garnish station|n|بخش تزئین غذا|B2|Food & Hospitality
+gluten development|n|تشکیل شبکهٔ گلوتن|B2|Food & Hospitality
+infusion time|n|زمان دم‌کشیدن|B2|Food & Hospitality
+menu engineering|n|مهندسی منو|B2|Food & Hospitality
+kitchen brigade|n|گروه سازمان‌یافتهٔ آشپزخانه|B2|Food & Hospitality
+mise en place|n|آماده‌سازی مواد پیش از پخت|B2|Food & Hospitality
+nutrient density|n|تراکم مواد مغذی|B2|Food & Hospitality
+portion control|n|کنترل اندازهٔ سهم|B2|Food & Hospitality
+proofing basket|n|سبد تخمیر نهایی|B2|Food & Hospitality
+recipe yield|n|میزان خروجی دستور غذا|B2|Food & Hospitality
+resting period|n|زمان استراحت مواد|B2|Food & Hospitality
+safe food handling|n|کار ایمن با مواد غذایی|B2|Food & Hospitality
+service charge|n|هزینهٔ خدمات|B2|Food & Hospitality
+shortening|n|چربی قنادی|B2|Food & Hospitality
+smoke point|n|نقطهٔ دود|B2|Food & Hospitality
+temperature danger zone|n|بازهٔ دمای خطر|B2|Food & Hospitality
+texture contrast|n|تضاد بافت|B2|Food & Hospitality
+thermocouple|n|دماسنج ترموکوپل|B2|Food & Hospitality
+vacuum sealing|n|بسته‌بندی خلأ|B2|Food & Hospitality
+water activity|n|فعالیت آبی|B2|Food & Hospitality
+yeast proofing|n|تخمیر خمیر با مخمر|B2|Food & Hospitality
+academic probation|n|مشروطی تحصیلی|B2|Education
+admissions interview|n|مصاحبهٔ پذیرش|B2|Education
+assessment rubric|n|جدول معیارهای ارزیابی|B2|Education
+attendance policy|n|ضوابط حضور|B2|Education
+capstone project|n|پروژهٔ جامع پایانی|B2|Education
+class participation|n|مشارکت کلاسی|B2|Education
+credit transfer|n|انتقال واحد درسی|B2|Education
+curriculum map|n|نقشهٔ برنامهٔ درسی|B2|Education
+degree audit|n|بررسی وضعیت مدرک|B2|Education
+dissertation defense|n|دفاع از رساله|B2|Education
+doctoral candidate|n|داوطلب دکتری|B2|Education
+elective course|n|درس اختیاری|B2|Education
+formative assessment|n|ارزشیابی تکوینی|B2|Education
+grade appeal|n|اعتراض به نمره|B2|Education
+graduate assistantship|n|دستیار آموزشی تحصیلات تکمیلی|B2|Education
+learning outcome|n|پیامد یادگیری|B2|Education
+learning objective|n|هدف یادگیری|B2|Education
+lecture capture|n|ضبط سخنرانی|B2|Education
+open-book exam|n|آزمون کتاب‌باز|B2|Education
+oral examination|n|آزمون شفاهی|B2|Education
+plagiarism checker|n|بررسی‌کنندهٔ سرقت علمی|B2|Education
+prerequisite course|n|درس پیش‌نیاز|B2|Education
+qualifying examination|n|آزمون جامع|B2|Education
+research assistantship|n|دستیار پژوهشی|B2|Education
+rubric descriptor|n|توصیف‌گر معیار ارزیابی|B2|Education
+scholarly source|n|منبع علمی|B2|Education
+semester credit|n|واحد ترمی|B2|Education
+standardized test|n|آزمون استاندارد|B2|Education
+student grievance|n|شکایت دانشجو|B2|Education
+study workload|n|حجم کار درسی|B2|Education
+supervised practice|n|تمرین تحت نظارت|B2|Education
+teaching assistant|n|دستیار تدریس|B2|Education
+thesis proposal|n|پیشنهاد پایان‌نامه|B2|Education
+transcript request|n|درخواست ریزنمرات|B2|Education
+tuition waiver|n|معافیت شهریه|B2|Education
+writing center|n|مرکز نگارش|B2|Education
+agility ladder|n|نردبان چابکی|B2|Sport
+ankle mobility|n|تحرک مچ پا|B2|Sport
+athletic trainer|n|مربی آمادگی جسمانی|B2|Sport
+balance drill|n|تمرین تعادل|B2|Sport
+bodyweight exercise|n|تمرین با وزن بدن|B2|Sport
+cool-down routine|n|روال سردکردن بدن|B2|Sport
+defensive stance|n|حالت دفاعی|B2|Sport
+fight choreography|n|طراحی حرکات مبارزه|B2|Sport
+footwork drill|n|تمرین جابه‌جایی پا|B2|Sport
+grappling|n|فن درگیری نزدیک|B2|Sport
+guard position|n|وضعیت گارد|B2|Sport
+hand-eye coordination|n|هماهنگی چشم و دست|B2|Sport
+heart-rate zone|n|ناحیهٔ ضربان قلب|B2|Sport
+interval training|n|تمرین تناوبی|B2|Sport
+isometric hold|n|نگه‌داشتن ایزومتریک|B2|Sport
+joint mobility|n|تحرک مفصل|B2|Sport
+landing mechanics|n|تکنیک فرود|B2|Sport
+load management|n|مدیریت بار تمرین|B2|Sport
+martial arts belt|n|کمربند هنرهای رزمی|B2|Sport
+movement pattern|n|الگوی حرکت|B2|Sport
+muscle endurance|n|استقامت عضلانی|B2|Sport
+overtraining syndrome|n|سندرم تمرین‌زدگی|B2|Sport
+range of motion|n|دامنهٔ حرکتی|B2|Sport
+reaction drill|n|تمرین واکنش|B2|Sport
+recovery session|n|جلسهٔ ریکاوری|B2|Sport
+resistance band|n|کش مقاومتی|B2|Sport
+rest interval|n|فاصلهٔ استراحت|B2|Sport
+round timer|n|زمان‌سنج راند|B2|Sport
+shadowboxing|n|مبارزهٔ سایه|B2|Sport
+skill acquisition|n|یادگیری مهارت|B2|Sport
+sparring partner|n|حریف تمرینی|B2|Sport
+stance switch|n|تغییر گارد|B2|Sport
+strike accuracy|n|دقت ضربه|B2|Sport
+training load|n|بار تمرینی|B2|Sport
+training volume|n|حجم تمرین|B2|Sport
+warm-up set|n|ست گرم‌کردن|B2|Sport
+alluvial fan|n|بادبزن آبرفتی|B2|Environment & Geography
+altitude sickness|n|بیماری ارتفاع|B2|Environment & Geography
+archipelago|n|مجمع‌الجزایر|B2|Environment & Geography
+barometric pressure|n|فشار بارومتری|B2|Environment & Geography
+basin drainage|n|زهکشی حوضه|B2|Environment & Geography
+bedrock|n|سنگ بستر|B2|Environment & Geography
+continental shelf|n|فلات قاره|B2|Environment & Geography
+debris flow|n|جریان آوار|B2|Environment & Geography
+delta plain|n|دشت دلتا|B2|Environment & Geography
+drainage basin|n|حوضهٔ آبریز|B2|Environment & Geography
+dune migration|n|جابه‌جایی تپهٔ ماسه‌ای|B2|Environment & Geography
+fault line|n|خط گسل|B2|Environment & Geography
+floodplain|n|دشت سیلابی|B2|Environment & Geography
+geothermal gradient|n|شیب زمین‌گرمایی|B2|Environment & Geography
+glacial retreat|n|پس‌روی یخچال|B2|Environment & Geography
+ground fissure|n|شکاف زمین|B2|Environment & Geography
+karst landscape|n|چشم‌انداز کارستی|B2|Environment & Geography
+lava flow|n|جریان گدازه|B2|Environment & Geography
+leeward slope|n|دامنهٔ پشت‌به‌باد|B2|Environment & Geography
+limestone pavement|n|سطح آهکی فرسوده|B2|Environment & Geography
+mantle plume|n|ستون گوشته|B2|Environment & Geography
+marine terrace|n|سکوی دریایی|B2|Environment & Geography
+meteor trail|n|رد شهاب|B2|Environment & Geography
+orographic lift|n|صعود اوروگرافیک|B2|Environment & Geography
+periglacial zone|n|ناحیهٔ پیرایخچالی|B2|Environment & Geography
+plate boundary|n|مرز صفحهٔ زمین‌ساختی|B2|Environment & Geography
+river meander|n|پیچان‌رود|B2|Environment & Geography
+rockfall|n|ریزش سنگ|B2|Environment & Geography
+sedimentary basin|n|حوضهٔ رسوبی|B2|Environment & Geography
+seismic gap|n|گپ لرزه‌ای|B2|Environment & Geography
+soil horizon|n|لایهٔ خاک|B2|Environment & Geography
+subduction zone|n|ناحیهٔ فرورانش|B2|Environment & Geography
+tectonic plate|n|صفحهٔ زمین‌ساختی|B2|Environment & Geography
+thermal inversion|n|وارونگی دما|B2|Environment & Geography
+topographic map|n|نقشهٔ توپوگرافی|B2|Environment & Geography
+volcanic ash|n|خاکستر آتشفشانی|B2|Environment & Geography
+volcanic arc|n|کمان آتشفشانی|B2|Environment & Geography
+windward slope|n|دامنهٔ روبه‌باد|B2|Environment & Geography
+accessibility audit|n|ممیزی دسترس‌پذیری|B2|Public Services
+benefit eligibility|n|شرایط احراز مزایا|B2|Public Services
+building code|n|مقررات ساختمان|B2|Public Services
+civil registry|n|ثبت احوال|B2|Public Services
+community outreach|n|ارتباط فعال با جامعه|B2|Public Services
+complaint procedure|n|روند رسیدگی به شکایت|B2|Public Services
+disaster relief|n|کمک‌رسانی در بلایا|B2|Public Services
+emergency shelter|n|پناهگاه اضطراری|B2|Public Services
+evacuation route|n|مسیر تخلیه|B2|Public Services
+food assistance|n|کمک غذایی|B2|Public Services
+housing allowance|n|کمک‌هزینهٔ مسکن|B2|Public Services
+housing register|n|دفتر ثبت مسکن|B2|Public Services
+inspection notice|n|اخطار بازرسی|B2|Public Services
+municipal bond|n|اوراق قرضهٔ شهرداری|B2|Public Services
+municipal council|n|شورای شهر|B2|Public Services
+permit application|n|درخواست مجوز|B2|Public Services
+public consultation|n|مشاورهٔ عمومی|B2|Public Services
+public hearing|n|جلسهٔ استماع عمومی|B2|Public Services
+public procurement|n|خرید دولتی|B2|Public Services
+records retention|n|نگهداری اسناد|B2|Public Services
+regulatory sandbox|n|محیط آزمون مقرراتی|B2|Public Services
+residency permit|n|مجوز اقامت|B2|Public Services
+right of way|n|حق عبور|B2|Public Services
+service interruption|n|وقفهٔ خدمات|B2|Public Services
+social housing|n|مسکن اجتماعی|B2|Public Services
+street furniture|n|تجهیزات مبلمان شهری|B2|Public Services
+traffic calming|n|آرام‌سازی ترافیک|B2|Public Services
+urban renewal|n|نوسازی شهری|B2|Public Services
+utility easement|n|حق عبور تأسیسات|B2|Public Services
+waste transfer station|n|ایستگاه انتقال پسماند|B2|Public Services
+zoning ordinance|n|مقررات پهنه‌بندی|B2|Public Services
+ablation study|n|مطالعهٔ حذف مؤلفه|C1|Research & Methods
+adversarial example|n|نمونهٔ خصمانه|C1|Research & Methods
+annotation protocol|n|دستورالعمل حاشیه‌نویسی|C1|Research & Methods
+Bayesian prior|n|پیشین بیزی|C1|Research & Methods
+blind review|n|داوری ناشناس|C1|Research & Methods
+causal inference|n|استنباط علّی|C1|Research & Methods
+coding scheme|n|طرح کدگذاری|C1|Research & Methods
+confounding variable|n|متغیر مخدوش‌گر|C1|Research & Methods
+construct validity|n|روایی سازه|C1|Research & Methods
+control condition|n|شرط کنترل|C1|Research & Methods
+data saturation|n|اشباع داده|C1|Research & Methods
+dependent measure|n|سنجهٔ وابسته|C1|Research & Methods
+effect size|n|اندازهٔ اثر|C1|Research & Methods
+external validity|n|روایی بیرونی|C1|Research & Methods
+factor loading|n|بار عاملی|C1|Research & Methods
+false discovery rate|n|نرخ کشف کاذب|C1|Research & Methods
+ground truth|n|واقعیت مبنا|C1|Research & Methods
+inter-rater agreement|n|توافق بین ارزیابان|C1|Research & Methods
+internal validity|n|روایی درونی|C1|Research & Methods
+measurement bias|n|سوگیری اندازه‌گیری|C1|Research & Methods
+missingness mechanism|n|سازوکار دادهٔ گمشده|C1|Research & Methods
+null hypothesis|n|فرضیهٔ صفر|C1|Research & Methods
+observer effect|n|اثر مشاهده‌گر|C1|Research & Methods
+operational definition|n|تعریف عملیاتی|C1|Research & Methods
+outlier detection|n|تشخیص دادهٔ پرت|C1|Research & Methods
+power analysis|n|تحلیل توان آماری|C1|Research & Methods
+pre-registration|n|ثبت پیشینی پژوهش|C1|Research & Methods
+primary endpoint|n|پیامد اصلی|C1|Research & Methods
+qualitative coding|n|کدگذاری کیفی|C1|Research & Methods
+randomization block|n|بلوک تصادفی‌سازی|C1|Research & Methods
+replication crisis|n|بحران تکرارپذیری|C1|Research & Methods
+sampling frame|n|چارچوب نمونه‌گیری|C1|Research & Methods
+selection bias|n|سوگیری انتخاب|C1|Research & Methods
+statistical power|n|توان آماری|C1|Research & Methods
+thematic analysis|n|تحلیل مضمون|C1|Research & Methods
+triangulation|n|سه‌سوسازی روش‌ها|C1|Research & Methods
+type I error|n|خطای نوع اول|C1|Research & Methods
+type II error|n|خطای نوع دوم|C1|Research & Methods
+variable operationalization|n|عملیاتی‌سازی متغیر|C1|Research & Methods
+backup battery|n|باتری پشتیبان|B1|Technology
+battery health|n|سلامت باتری|B1|Technology
+battery terminal|n|قطب باتری|B1|Technology
+blackout curtain|n|پردهٔ تاریک‌کننده|B1|Home
+blister pack|n|بسته‌بندی بلیستری|B2|Health
+body pillow|n|بالش بلند بدن|B1|Home
+bookend|n|نگهدارندهٔ کتاب|B1|Home
+bottle opener|n|دربازکن بطری|A2|Home
+braille display|n|نمایشگر بریل|B2|Technology
+brass fitting|n|اتصال برنجی|B2|Engineering
+break-glass procedure|n|رویهٔ اضطراری دسترسی|C1|Technology
+browser cache|n|حافظهٔ نهان مرورگر|B2|Technology
+building envelope|n|پوستهٔ ساختمان|C1|Engineering
+bulkhead|n|دیوار جداکننده؛ دیوارهٔ ضدآب|C1|Engineering
+burner cap|n|درپوش شعله‌پخش‌کن|B1|Home
+cable gland|n|گلند کابل|C1|Engineering
+cable tie|n|بست کمربندی کابل|B1|Engineering
+call forwarding|n|انتقال تماس|B1|Technology
+camera obscura|n|اتاقک تاریک|C1|Art
+capillary tube|n|لولهٔ مویین|C1|Science
+carabiner|n|کارابین|B2|Sport
+carafe|n|پارچ مخصوص سرو|B2|Food
+cargo bay|n|محفظهٔ بار|B2|Aviation
+cartridge filter|n|فیلتر کارتریجی|B2|Engineering
+case study|n|مطالعهٔ موردی|B2|Education
+cash drawer|n|کشوی پول|B1|Business
+catwalk|n|راهروی باریک مرتفع|B2|Engineering
+ceiling rose|n|قاب تزئینی چراغ سقفی|B2|Home
+cell culture|n|کشت سلولی|C1|Science
+chain of custody|n|زنجیرهٔ نگهداری ادله|C1|Law
+charging dock|n|پایهٔ شارژ|B1|Technology
+chemical spill|n|نشت مادهٔ شیمیایی|B2|Safety
+chest freezer|n|فریزر صندوقی|B1|Home
+chipboard|n|نئوپان|B2|Home
+circuit diagram|n|نقشهٔ مدار|B1|Engineering
+clamp meter|n|آمپرمتر انبری|C1|Engineering
+classroom observation|n|مشاهدهٔ کلاسی|B2|Education
+climate normal|n|میانگین اقلیمی بلندمدت|C1|Environment
+closed captioning|n|زیرنویس ویژهٔ ناشنوایان|B2|Communication
+cloud backup|n|پشتیبان‌گیری ابری|B1|Technology
+coastal plain|n|دشت ساحلی|B2|Geography
+code repository|n|مخزن کد|B1|Technology
+cold chain|n|زنجیرهٔ سرد|B2|Health
+colorimeter|n|رنگ‌سنج|C1|Science
+combustion chamber|n|محفظهٔ احتراق|C1|Engineering
+community garden|n|باغ اجتماعی|B1|Environment
+compact fluorescent lamp|n|لامپ فلورسنت فشرده|B2|Home
+compliance checklist|n|فهرست بررسی انطباق|B2|Business
+compression fitting|n|اتصال فشاری|C1|Engineering
+computer vision|n|بینایی ماشین|C1|Technology
+concrete mixer|n|بتونیر|B1|Engineering
+conflict of duties|n|تعارض وظایف|C1|Law
+conservation easement|n|حق محدودکننده برای حفاظت زمین|C1|Environment
+consular services|n|خدمات کنسولی|B2|Travel
+contact tracing|n|ردیابی تماس|B2|Health
+content moderation|n|مدیریت محتوای کاربران|B2|Technology
+control panel|n|پنل کنترل|B1|Technology
+coolant leak|n|نشتی مایع خنک‌کننده|B1|Engineering
+counterfeit detection|n|تشخیص کالای تقلبی|C1|Business
+crash barrier|n|مانع محافظ تصادف|B2|Transport
+credit bureau|n|مؤسسهٔ اعتبارسنجی|B2|Finance
+crosswind component|n|مؤلفهٔ باد جانبی|C1|Aviation
+cryogenic storage|n|ذخیره‌سازی برودتی|C1|Science
+currency peg|n|نرخ تثبیت‌شدهٔ ارز|C1|Finance
+customer churn|n|ریزش مشتری|C1|Business
+cutoff frequency|n|فرکانس قطع|C1|Engineering
+data anonymization|n|ناشناس‌سازی داده|C1|Technology
+data dictionary|n|فرهنگ داده|B2|Technology
+data lake|n|دریاچهٔ داده|C1|Technology
+data retention|n|نگهداری داده|B2|Technology
+debit mandate|n|مجوز برداشت مستقیم|C1|Finance
+decibel meter|n|دسی‌بل‌سنج|B2|Science
+decision tree|n|درخت تصمیم|B2|Technology
+decontamination|n|آلودگی‌زدایی|B2|Health
+defibrillator|n|دفیبریلاتور|B2|Health
+delegation matrix|n|ماتریس تفویض اختیار|C1|Business
+delivery docket|n|برگهٔ تحویل کالا|B2|Business
+demand forecasting|n|پیش‌بینی تقاضا|B2|Business
+demographic dividend|n|سود جمعیتی|C1|Economics
+denial-of-service attack|n|حملهٔ منع خدمت|C1|Technology
+dependency injection|n|تزریق وابستگی|C1|Technology
+deposit slip|n|فیش واریز|B1|Finance
+diagnostic criteria|n|معیارهای تشخیصی|B2|Health
+digital certificate|n|گواهی دیجیتال|B2|Technology
+digital divide|n|شکاف دیجیتال|B2|Society
+digital forensics|n|جرم‌یابی دیجیتال|C1|Technology
+digital signature|n|امضای دیجیتال|B1|Technology
+direct debit|n|برداشت مستقیم|B2|Finance
+disaster recovery|n|بازیابی پس از بحران|C1|Technology
+disclosure statement|n|بیانیهٔ افشا|B2|Law
+discount rate|n|نرخ تنزیل|C1|Finance
+distribution center|n|مرکز توزیع|B1|Business
+document scanner|n|اسکنر اسناد|B1|Technology
+domain registrar|n|ثبت‌کنندهٔ دامنه|B2|Technology
+door closer|n|آرام‌بند در|B1|Home
+double-entry bookkeeping|n|حسابداری دوطرفه|C1|Finance
+drainage ditch|n|جوی زهکشی|B1|Engineering
+drawbridge|n|پل متحرک|B2|Engineering
+drift angle|n|زاویهٔ رانش|C1|Aviation
+drought index|n|شاخص خشکسالی|C1|Environment
+drug formulary|n|فهرست داروهای مجاز|C1|Health
+dual citizenship|n|تابعیت دوگانه|B2|Law
+duct tape|n|نوار چسب پارچه‌ای|A2|Home
+duty roster|n|جدول نوبت‌کاری|B1|Work
+e-commerce platform|n|پلتفرم تجارت الکترونیکی|B1|Business
+egress route|n|مسیر خروج اضطراری|C1|Safety
+electrical conduit|n|لولهٔ محافظ سیم برق|B2|Engineering
+electrical load|n|بار الکتریکی|B2|Engineering
+electrocardiogram|n|نوار قلب|B2|Health
+electrode gel|n|ژل الکترود|C1|Health
+electronic invoicing|n|صدور الکترونیکی فاکتور|B2|Business
+elevator pitch|n|معرفی کوتاه و اثرگذار ایده|B2|Communication
+emergency egress|n|خروج اضطراری|C1|Safety
+emergency beacon|n|چراغ یا فرستندهٔ اضطراری|B2|Safety
+emergency contact list|n|فهرست تماس اضطراری|B1|Safety
+emission factor|n|ضریب انتشار آلاینده|C1|Environment
+end-of-life disposal|n|دفع در پایان عمر مفید|C1|Environment
+energy audit|n|ممیزی انرژی|B2|Environment
+energy density|n|چگالی انرژی|C1|Science
+environmental baseline|n|خط مبنای زیست‌محیطی|C1|Environment
+epidemic curve|n|منحنی همه‌گیری|C1|Health
+equipment downtime|n|زمان ازکارافتادگی تجهیزات|B2|Work
+equity premium|n|صرف ریسک سهام|C1|Finance
+essential tremor|n|لرزش اساسی|C1|Health
+ethics committee|n|کمیتهٔ اخلاق|B2|Society
+evidence locker|n|محفظهٔ نگهداری ادله|C1|Law
+exhaust brake|n|ترمز موتور|B2|Transport
+exposure limit|n|حد مجاز مواجهه|B2|Safety
+external audit|n|حسابرسی مستقل|B2|Business
+fabric shaver|n|پرزگیر لباس|A2|Home
+fallback mechanism|n|سازوکار جایگزین|B2|Technology
+false positive|n|مثبت کاذب|B2|Science
+family court|n|دادگاه خانواده|B1|Law
+fan coil unit|n|فن‌کویل|C1|Engineering
+fault tree|n|درخت خطا|C1|Engineering
+feature extraction|n|استخراج ویژگی|C1|Technology
+fee schedule|n|جدول تعرفه|B2|Finance
+field notebook|n|دفترچهٔ میدانی|B1|Science
+file descriptor|n|توصیف‌گر فایل|C1|Technology
+filter cartridge|n|کارتریج فیلتر|B2|Engineering
+financial covenant|n|تعهد مالی قراردادی|C1|Finance
+fire blanket|n|پتوی اطفای حریق|B1|Safety
+fire door|n|در ضدحریق|B1|Safety
+fire load|n|بار حریق|C1|Safety
+fireproof cabinet|n|کمد ضدحریق|B2|Safety
+first responder|n|نیروی امدادی اولیه|B1|Safety
+fixed asset register|n|دفتر ثبت دارایی ثابت|C1|Finance
+fleet management|n|مدیریت ناوگان|B2|Transport
+flight data recorder|n|ثبت‌کنندهٔ داده‌های پرواز|B2|Aviation
+flight duty period|n|دورهٔ وظیفهٔ پروازی|C1|Aviation
+flight information region|n|منطقهٔ اطلاعات پرواز|C1|Aviation
+flight level|n|سطح پروازی|B2|Aviation
+flow meter|n|دبی‌سنج|B2|Engineering
+food desert|n|منطقهٔ کم‌دسترسی به غذای سالم|C1|Society
+food label|n|برچسب مواد غذایی|B1|Food
+food safety plan|n|برنامهٔ ایمنی غذا|B2|Food
+force sensor|n|حسگر نیرو|C1|Engineering
+forecast horizon|n|افق پیش‌بینی|C1|Science
+foreign tax credit|n|اعتبار مالیاتی خارجی|C1|Finance
+forklift truck|n|لیفتراک|B1|Work
+form factor|n|عامل شکل|C1|Technology
+frequency band|n|باند فرکانسی|B2|Engineering
+fuel gauge|n|نشانگر سوخت|A2|Transport
+fuel trim|n|تنظیم سوخت|C1|Engineering
+funding round|n|مرحلهٔ جذب سرمایه|B2|Business
+gas chromatography|n|کروماتوگرافی گازی|C1|Science
+gate agent|n|مسئول گیت پرواز|B2|Aviation
+gauge pressure|n|فشار گیج|C1|Engineering
+gender pay gap|n|شکاف دستمزد جنسیتی|B2|Society
+general ledger|n|دفتر کل|B2|Finance
+generator set|n|مجموعهٔ ژنراتور|B2|Engineering
+genetic marker|n|نشانگر ژنتیکی|C1|Science
+gesture recognition|n|تشخیص حرکت دست و بدن|B2|Technology
+glass transition|n|گذار شیشه‌ای|C1|Science
+global positioning system|n|سامانهٔ موقعیت‌یاب جهانی|B1|Technology
+government bond|n|اوراق قرضهٔ دولتی|B2|Finance
+grace period|n|مهلت ارفاقی|B2|Finance
+gradient descent|n|نزول گرادیان|C1|Technology
+grain elevator|n|سیلوی بالابر غلات|C1|Agriculture
+ground handling agent|n|شرکت خدمات زمینی|C1|Aviation
+groundwater basin|n|حوضهٔ آب زیرزمینی|C1|Environment
+guarantee period|n|مدت ضمانت|B1|Business
+hazard register|n|دفتر ثبت مخاطرات|B2|Safety
+health baseline|n|وضعیت پایهٔ سلامت|B2|Health
+heat exchanger|n|مبدل حرارتی|B2|Engineering
+heat sink|n|گرماگیر|C1|Engineering
+heating element|n|المنت گرمایشی|B1|Home
+heritage language|n|زبان میراثی|C1|Education
+high-pass filter|n|فیلتر بالاگذر|C1|Engineering
+histology slide|n|لام بافت‌شناسی|C1|Health
+home equity|n|ارزش خالص مالکیت خانه|C1|Finance
+hostile takeover|n|تصاحب خصمانه|C1|Business
+human factors|n|عوامل انسانی|B2|Work
+humidity sensor|n|حسگر رطوبت|B1|Technology
+hydraulic actuator|n|عملگر هیدرولیکی|C1|Engineering
+identity provider|n|ارائه‌دهندهٔ هویت دیجیتال|C1|Technology
+incident log|n|دفتر ثبت رخداد|B2|Work
+incident response|n|پاسخ به رخداد|B2|Technology
+income bracket|n|بازهٔ درآمدی|B2|Finance
+indemnity clause|n|بند جبران خسارت|C1|Law
+indoor air quality|n|کیفیت هوای داخل ساختمان|B2|Environment
+industrial design|n|طراحی صنعتی|B2|Engineering
+inference engine|n|موتور استنتاج|C1|Technology
+information architecture|n|معماری اطلاعات|C1|Technology
+initial public offering|n|عرضهٔ اولیهٔ عمومی سهام|C1|Finance
+input lag|n|تأخیر ورودی|B2|Technology
+inspection hatch|n|دریچهٔ بازدید|B2|Engineering
+instrument panel|n|صفحهٔ ابزار|B1|Transport
+insurance deductible|n|فرانشیز بیمه|B2|Finance
+interchange fee|n|کارمزد تبادل|C1|Finance
+intercom system|n|سامانهٔ آیفون داخلی|B1|Technology
+interest rate swap|n|قرارداد معاوضهٔ نرخ بهره|C1|Finance
+internal control|n|کنترل داخلی|B2|Business
+internet exchange point|n|نقطهٔ تبادل اینترنت|C1|Technology
+inventory count|n|شمارش موجودی|B1|Business
+investment horizon|n|افق سرمایه‌گذاری|B2|Finance
+ion exchange|n|تبادل یونی|C1|Science
+isolation valve|n|شیر قطع و وصل|C1|Engineering
+job hazard analysis|n|تحلیل خطر شغلی|C1|Safety
+joint venture|n|مشارکت تجاری|B2|Business
+key performance indicator|n|شاخص کلیدی عملکرد|B2|Business
+knowledge base|n|پایگاه دانش|B1|Technology
+laboratory notebook|n|دفترچهٔ آزمایشگاه|B2|Science
+landing gear|n|ارابهٔ فرود|B1|Aviation
+lateral thinking|n|تفکر جانبی|B2|Thinking
+lease agreement|n|قرارداد اجاره|B1|Law
+learning analytics|n|تحلیل داده‌های یادگیری|C1|Education
+legal aid clinic|n|مرکز خدمات حقوقی رایگان|B2|Law
+liability waiver|n|سلب مسئولیت قراردادی|C1|Law
+life-cycle assessment|n|ارزیابی چرخهٔ عمر|C1|Environment
+light-emitting diode|n|دیود نورگسیل|B2|Technology
+line of credit|n|خط اعتباری|B2|Finance
+linear actuator|n|عملگر خطی|C1|Engineering
+link budget|n|بودجهٔ پیوند مخابراتی|C1|Engineering
+liquid chromatography|n|کروماتوگرافی مایع|C1|Science
+live load|n|بار زندهٔ سازه|C1|Engineering
+load factor|n|ضریب بار|C1|Aviation
+log rotation|n|چرخش گزارش‌ها|C1|Technology
+longitudinal study|n|مطالعهٔ طولی|B2|Research
+loss aversion|n|گریز از زیان|C1|Psychology
+low-pass filter|n|فیلتر پایین‌گذر|C1|Engineering
+machine guarding|n|حفاظ ماشین‌آلات|B2|Safety
+maintenance window|n|بازهٔ نگه‌داری سامانه|B2|Technology
+margin call|n|اخطار افزایش وجه تضمین|C1|Finance
+market basket|n|سبد بازار|B2|Economics
+market order|n|سفارش بازار|B2|Finance
+material handling|n|جابجایی مواد|B2|Engineering
+mean time to repair|n|میانگین زمان تعمیر|C1|Engineering
+mechanical seal|n|آب‌بند مکانیکی|C1|Engineering
+medical device registry|n|سامانهٔ ثبت تجهیزات پزشکی|C1|Health
+memory address|n|نشانی حافظه|B2|Technology
+message queue|n|صف پیام|C1|Technology
+microcontroller|n|میکروکنترلر|B2|Technology
+microfinance|n|تأمین مالی خرد|B2|Finance
+microscope slide|n|لام میکروسکوپ|B1|Science
+midpoint formula|n|فرمول نقطهٔ میانی|B2|Mathematics
+minimum viable product|n|حداقل محصول پذیرفتنی|C1|Business
+mission statement|n|بیانیهٔ مأموریت|B2|Business
+mobile hotspot|n|نقطهٔ اتصال همراه|B1|Technology
+model checkpoint|n|نقطهٔ ذخیرهٔ مدل|C1|Technology
+mortgage broker|n|کارگزار وام مسکن|B2|Finance
+motion sickness|n|بیماری حرکت|B1|Health
+motor controller|n|کنترل‌کنندهٔ موتور|B2|Engineering
+multifactor authentication|n|احراز هویت چندعاملی|B2|Technology
+municipal permit|n|مجوز شهرداری|B1|Public Services
+mutual fund|n|صندوق سرمایه‌گذاری مشترک|B2|Finance
+navigation database|n|پایگاه دادهٔ ناوبری|C1|Aviation
+negative control|n|کنترل منفی|B2|Science
+network address translation|n|ترجمهٔ نشانی شبکه|C1|Technology
+network latency|n|تأخیر شبکه|B2|Technology
+neural interface|n|رابط عصبی|C1|Technology
+noise floor|n|کف نویز|C1|Engineering
+non-disclosure agreement|n|توافق‌نامهٔ عدم افشا|B2|Law
+nonlinear regression|n|رگرسیون غیرخطی|C1|Science
+nonperforming loan|n|وام غیرجاری|C1|Finance
+nuclear magnetic resonance|n|تشدید مغناطیسی هسته‌ای|C1|Science
+object detection|n|تشخیص شیء|B2|Technology
+off-grid system|n|سامانهٔ مستقل از شبکه|B2|Energy
+offset account|n|حساب جبرانی|C1|Finance
+oil analysis|n|آنالیز روغن|B2|Engineering
+onboarding checklist|n|فهرست بررسی ورود کارمند|B1|Work
+open-source license|n|مجوز متن‌باز|B2|Technology
+operating lease|n|اجارهٔ عملیاتی|C1|Finance
+operating margin|n|حاشیهٔ سود عملیاتی|B2|Finance
+optical fiber|n|فیبر نوری|B1|Technology
+optical isolator|n|جداساز نوری|C1|Engineering
+order fulfillment|n|تکمیل سفارش|B2|Business
+organizational culture|n|فرهنگ سازمانی|B2|Work
+out-of-pocket expense|n|هزینهٔ پرداختی از جیب|B2|Finance
+overcurrent protection|n|حفاظت در برابر اضافه‌جریان|C1|Engineering
+overhead crane|n|جرثقیل سقفی|B2|Engineering
+packet loss|n|اتلاف بسته‌های شبکه|B2|Technology
+parental leave|n|مرخصی والدین|B1|Work
+parking brake|n|ترمز دستی|A2|Transport
+partial discharge|n|تخلیهٔ جزئی الکتریکی|C1|Engineering
+passenger briefing|n|توجیه مسافران|B2|Aviation
+payroll tax|n|مالیات حقوق و دستمزد|B2|Finance
+peer-to-peer lending|n|وام‌دهی همتا به همتا|C1|Finance
+penetration testing|n|آزمون نفوذ|C1|Technology
+performance benchmark|n|معیار سنجش عملکرد|B2|Technology
+performance bond|n|ضمانت‌نامهٔ حسن انجام کار|C1|Business
+personal protective equipment|n|تجهیزات حفاظت فردی|B1|Safety
+phase noise|n|نویز فاز|C1|Engineering
+photovoltaic cell|n|سلول فتوولتائیک|B2|Energy
+physical access control|n|کنترل دسترسی فیزیکی|B2|Security
+pilot study|n|مطالعهٔ مقدماتی|B2|Research
+pipeline integrity|n|یکپارچگی خط لوله|C1|Engineering
+pitch deck|n|ارائهٔ معرفی کسب‌وکار|B2|Business
+policy brief|n|خلاصهٔ سیاستی|C1|Government
+power factor|n|ضریب توان|C1|Engineering
+power inverter|n|مبدل برق|B2|Engineering
+predictive maintenance|n|نگه‌داری پیش‌بینانه|B2|Engineering
+premium bond|n|اوراق ممتاز|C1|Finance
+pressure relief valve|n|شیر اطمینان فشار|C1|Engineering
+preventive maintenance|n|نگه‌داری پیشگیرانه|B2|Engineering
+price ceiling|n|سقف قیمت|B2|Economics
+price floor|n|کف قیمت|B2|Economics
+privacy notice|n|اطلاعیهٔ حریم خصوصی|B1|Technology
+probability distribution|n|توزیع احتمال|B2|Mathematics
+process capability|n|قابلیت فرایند|C1|Engineering
+product backlog|n|فهرست کارهای محصول|B2|Technology
+product liability|n|مسئولیت حقوقی محصول|C1|Law
+production quota|n|سهمیهٔ تولید|B2|Business
+professional indemnity|n|بیمهٔ مسئولیت حرفه‌ای|C1|Finance
+program counter|n|شمارندهٔ برنامه|C1|Technology
+project baseline|n|خط مبنای پروژه|B2|Work
+project dependency|n|وابستگی پروژه|B2|Work
+proof of concept|n|اثبات مفهوم|B2|Technology
+property deed|n|سند مالکیت|B1|Law
+protocol stack|n|پشتهٔ پروتکل|C1|Technology
+public liability insurance|n|بیمهٔ مسئولیت عمومی|C1|Finance
+purchase order|n|سفارش خرید|B1|Business
+quality assurance|n|تضمین کیفیت|B2|Work
+quality control sample|n|نمونهٔ کنترل کیفیت|B2|Science
+quantization error|n|خطای کوانتیزه‌سازی|C1|Engineering
+quarterly report|n|گزارش فصلی|B1|Business
+queue discipline|n|سیاست صف‌بندی|C1|Technology
+radio beacon|n|فرستندهٔ راهنمای رادیویی|B2|Aviation
+radio horizon|n|افق رادیویی|C1|Engineering
+radiofrequency interference|n|تداخل بسامد رادیویی|C1|Engineering
+rain gauge|n|باران‌سنج|B1|Weather
+randomized trial|n|کارآزمایی تصادفی|B2|Health
+rate limiter|n|محدودکنندهٔ نرخ|C1|Technology
+real-time clock|n|ساعت بلادرنگ|B2|Technology
+receiving dock|n|سکوی دریافت کالا|B1|Business
+records management|n|مدیریت اسناد|B2|Work
+recurrent neural network|n|شبکهٔ عصبی بازگشتی|C1|Technology
+reference architecture|n|معماری مرجع|C1|Technology
+refrigerant leak|n|نشتی مبرد|C1|Engineering
+regression coefficient|n|ضریب رگرسیون|C1|Science
+regulatory filing|n|ثبت رسمی گزارش مقرراتی|C1|Business
+reinforced concrete|n|بتن مسلح|B2|Engineering
+remote access gateway|n|درگاه دسترسی از راه دور|C1|Technology
+renewable portfolio|n|سبد انرژی تجدیدپذیر|C1|Energy
+repair manual|n|دفترچهٔ تعمیرات|B1|Engineering
+repayment schedule|n|برنامهٔ بازپرداخت|B2|Finance
+research ethics|n|اخلاق پژوهش|B2|Research
+resource leveling|n|تسطیح منابع|C1|Work
+response latency|n|تأخیر پاسخ|C1|Technology
+retention rate|n|نرخ ماندگاری|B2|Business
+return merchandise authorization|n|مجوز مرجوعی کالا|C1|Business
+risk appetite|n|اشتیاق به ریسک|C1|Finance
+risk register|n|دفتر ثبت ریسک|B2|Work
+roadworthiness test|n|آزمون صلاحیت تردد خودرو|B2|Transport
+router firmware|n|میان‌افزار مسیریاب|B2|Technology
+safety interlock|n|قفل ایمنی|C1|Engineering
+sampling bias|n|سوگیری نمونه‌گیری|B2|Research
+satellite uplink|n|پیوند بالاروندهٔ ماهواره‌ای|C1|Technology
+scanning electron microscope|n|میکروسکوپ الکترونی روبشی|C1|Science
+scheduled maintenance|n|نگه‌داری زمان‌بندی‌شده|B1|Engineering
+security deposit|n|ودیعهٔ ضمانتی|B1|Finance
+security patch|n|وصلهٔ امنیتی|B1|Technology
+sensor fusion|n|ترکیب دادهٔ حسگرها|C1|Technology
+service outage|n|قطعی سرویس|B1|Technology
+settlement account|n|حساب تسویه|B2|Finance
+shadow pricing|n|قیمت‌گذاری سایه‌ای|C1|Economics
+shared custody|n|حضانت مشترک|B2|Law
+shelf registration|n|ثبت عرضهٔ آتی اوراق|C1|Finance
+signal attenuation|n|تضعیف سیگنال|C1|Engineering
+signal generator|n|مولد سیگنال|B2|Engineering
+single point of failure|n|نقطهٔ شکست منفرد|C1|Technology
+site reliability engineering|n|مهندسی قابلیت اطمینان سایت|C1|Technology
+skills matrix|n|ماتریس مهارت‌ها|B2|Work
+sliding scale|n|مقیاس پلکانی|B2|Finance
+smart meter|n|کنتور هوشمند|B1|Energy
+social audit|n|ممیزی اجتماعی|C1|Society
+software dependency|n|وابستگی نرم‌افزاری|B2|Technology
+solar irradiance|n|تابش خورشیدی|C1|Energy
+source code escrow|n|سپردن امانی کد منبع|C1|Technology
+spare parts inventory|n|موجودی قطعات یدکی|B1|Engineering
+spectral line|n|خط طیفی|C1|Science
+spectrum analyzer|n|طیف‌نما|C1|Engineering
+spending cap|n|سقف هزینه‌کرد|B2|Finance
+spill containment|n|مهار نشت|B2|Safety
+stakeholder map|n|نقشهٔ ذی‌نفعان|B2|Work
+standard operating procedure|n|روش اجرایی استاندارد|B2|Work
+static pressure|n|فشار ایستا|C1|Engineering
+statutory audit|n|حسابرسی قانونی|C1|Finance
+stock keeping unit|n|شناسهٔ واحد نگهداری موجودی|C1|Business
+storage controller|n|کنترل‌کنندهٔ ذخیره‌سازی|C1|Technology
+storm drain|n|زهکش آب باران|B1|Engineering
+stress fracture|n|شکستگی ناشی از فشار تکراری|B2|Health
+structural integrity|n|یکپارچگی سازه‌ای|C1|Engineering
+subcontractor|n|پیمانکار فرعی|B2|Work
+supply chain visibility|n|شفافیت زنجیرهٔ تأمین|C1|Business
+surge protector|n|محافظ نوسان برق|B1|Technology
+suspension bridge|n|پل معلق|B2|Engineering
+system call|n|فراخوان سیستمی|C1|Technology
+system boundary|n|مرز سامانه|C1|Science
+tail risk|n|ریسک دنباله‌ای|C1|Finance
+tax assessment|n|ارزیابی مالیاتی|B2|Finance
+tax residency|n|اقامت مالیاتی|C1|Finance
+technical debt|n|بدهی فنی|B2|Technology
+telemetry data|n|دادهٔ دورسنجی|C1|Technology
+temperature gradient|n|شیب دما|B2|Science
+tender document|n|اسناد مناقصه|B2|Business
+thermal runaway|n|فرار حرارتی|C1|Engineering
+threat intelligence|n|اطلاعات تهدید|C1|Security
+time-series data|n|دادهٔ سری زمانی|B2|Research
+token bucket|n|سطل توکن|C1|Technology
+total cost of ownership|n|کل هزینهٔ مالکیت|C1|Business
+trade credit|n|اعتبار تجاری|B2|Finance
+traffic separation scheme|n|طرح جداسازی ترافیک|C1|Aviation
+training dataset|n|مجموعه‌دادهٔ آموزشی|B2|Technology
+transit lounge|n|سالن ترانزیت|B1|Travel
+transmission loss|n|تلفات انتقال|C1|Engineering
+travel advisory|n|هشدار سفر|B1|Travel
+treatment adherence|n|پایبندی به درمان|B2|Health
+trust boundary|n|مرز اعتماد|C1|Technology
+turbine blade|n|پرهٔ توربین|B2|Engineering
+underwriting margin|n|حاشیهٔ تعهد پذیره‌نویسی|C1|Finance
+uninterruptible power supply|n|منبع تغذیهٔ بدون وقفه|B2|Technology
+unit economics|n|اقتصاد واحد محصول|C1|Business
+urban heat island|n|جزیرهٔ گرمایی شهری|B2|Environment
+user acceptance testing|n|آزمون پذیرش کاربر|B2|Technology
+user journey map|n|نقشهٔ مسیر کاربر|B2|Design
+user story|n|داستان کاربر|B1|Technology
+utility meter|n|کنتور خدمات شهری|B1|Home
+validation dataset|n|مجموعه‌دادهٔ اعتبارسنجی|B2|Technology
+value-added tax|n|مالیات بر ارزش افزوده|B2|Finance
+variance analysis|n|تحلیل انحراف|C1|Finance
+vehicle inspection|n|بازرسی خودرو|B1|Transport
+vendor lock-in|n|وابستگی انحصاری به فروشنده|C1|Technology
+version control|n|کنترل نسخه|B1|Technology
+vibration isolation|n|جداسازی ارتعاش|C1|Engineering
+virtual private network|n|شبکهٔ خصوصی مجازی|B2|Technology
+visual impairment|n|اختلال بینایی|B2|Health
+volatility index|n|شاخص نوسان|C1|Finance
+voltage regulator|n|تنظیم‌کنندهٔ ولتاژ|B2|Engineering
+vulnerability disclosure|n|افشای آسیب‌پذیری|C1|Security
+wage garnishment|n|کسر اجباری از دستمزد|C1|Finance
+warranty claim|n|درخواست استفاده از ضمانت|B2|Business
+water hammer|n|ضربهٔ قوچ در لوله|C1|Engineering
+water ingress|n|نفوذ آب|B2|Engineering
+weather briefing|n|توجیه هواشناسی|B2|Aviation
+altimeter|n|ارتفاع‌سنج|B2|Aviation
+anemometer|n|بادسنج|B2|Aviation

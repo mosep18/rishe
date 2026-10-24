@@ -1,0 +1,1109 @@
+# Rishe 1.5 standalone source rows reconstructed from the generated database; all remain Draft.
+barograph|n|ثبت‌کنندهٔ فشار جو|B2|Aviation
+ceilometer|n|ابرپیمای ارتفاع‌سنج|B2|Aviation
+radiosonde|n|رادیوسوند|B2|Aviation
+psychrometer|n|روان‌سنج رطوبت|B2|Aviation
+hygrometer|n|رطوبت‌سنج|B2|Aviation
+isobar|n|خط هم‌فشار|B2|Aviation
+isotherm|n|خط هم‌دما|B2|Aviation
+isotach|n|خط هم‌سرعت باد|B2|Aviation
+isohyet|n|خط هم‌بارش|B2|Aviation
+isallobar|n|خط تغییرات هم‌فشار|B2|Aviation
+isopleth|n|خط هم‌مقدار|B2|Aviation
+trough|n|ناوهٔ فشار؛ فرورفتگی|B2|Aviation
+ridge|n|پشتهٔ فشار؛ برآمدگی|B2|Aviation
+occlusion|n|جبههٔ انسدادی|B2|Aviation
+virga|n|بارش تبخیرشونده پیش از رسیدن به زمین|B2|Aviation
+graupel|n|برف دانه‌ای؛ گراوپل|B2|Aviation
+rime|n|یخک؛ یخ رسوبی|B2|Aviation
+hoarfrost|n|شبنم یخ‌زده|B2|Aviation
+downdraft|n|جریان نزولی هوا|B2|Aviation
+updraft|n|جریان صعودی هوا|B2|Aviation
+advection|n|انتقال افقی تودهٔ هوا|B2|Aviation
+convection|n|همرفت|B2|Aviation
+turbulence|n|آشفتگی جریان هوا|B2|Aviation
+windward|n|روبه‌باد|B2|Aviation
+leeward|n|پشت‌به‌باد|B2|Aviation
+anabatic|n|مربوط به باد صعودی دامنه|B2|Aviation
+katabatic|n|مربوط به باد نزولی دامنه|B2|Aviation
+tropopause|n|تروپوپاز|B2|Aviation
+stratosphere|n|استراتوسفر|B2|Aviation
+mesosphere|n|مزوسفر|B2|Aviation
+thermosphere|n|ترموسفر|B2|Aviation
+ionosphere|n|یون‌سپهر|B2|Aviation
+geopotential|n|ژئوپتانسیل|B2|Aviation
+aneroid|n|بی‌هوا؛ آنتروئید|B2|Aviation
+altocumulus|n|ابر آلتوکومولوس|B2|Aviation
+cirrocumulus|n|ابر سیروکومولوس|B2|Aviation
+stratocumulus|n|ابر استراتوکومولوس|B2|Aviation
+cumulonimbus|n|ابر کومولونیمبوس|B2|Aviation
+virga-like|n|شبیه بارش تبخیرشونده|B2|Aviation
+supercooled|n|فوق‌سرد؛ ابرسرد|B2|Aviation
+isentrope|n|خط هم‌آنتروپی|B2|Aviation
+isentropic|n|هم‌آنتروپی|B2|Aviation
+geostrophic|n|ژئوستروفیک|B2|Aviation
+ageostrophic|n|غیرژئوستروفیک|B2|Aviation
+orographic|n|وابسته به ناهمواری زمین|B2|Aviation
+baroclinic|n|باروکلینیک|B2|Aviation
+barotropic|n|باروتروپیک|B2|Aviation
+cyclogenesis|n|زایش چرخند|B2|Aviation
+frontogenesis|n|شکل‌گیری جبهه|B2|Aviation
+frontolysis|n|تضعیف جبهه|B2|Aviation
+subsidence|n|فرونشینی هوا|B2|Aviation
+adiabatic|n|بی‌دررو|B2|Aviation
+isothermal|n|هم‌دما|B2|Aviation
+isobaric|n|هم‌فشار|B2|Aviation
+isenthalpic|n|هم‌آنتالپی|B2|Aviation
+anomalous|n|ناهنجار|B2|Aviation
+convective|n|همرفتی|B2|Aviation
+stratiform|n|لایه‌ای|B2|Aviation
+precipitable|n|قابل بارش؛ رسوب‌پذیر|B2|Aviation
+hydrometeor|n|هیدرومتئور؛ پدیدهٔ آبی جوی|B2|Aviation
+pluviometer|n|باران‌سنج|B2|Aviation
+nephoscope|n|ابرنما|B2|Aviation
+ceilometry|n|اندازه‌گیری ارتفاع پایهٔ ابر|B2|Aviation
+thermograph|n|ثبت‌کنندهٔ دما|B2|Aviation
+baroclinicity|n|باروکلینیسیتی|B2|Aviation
+divergence|n|واگرایی|B2|Aviation
+vorticity|n|چرخندگی|B2|Aviation
+convergence|n|همگرایی|B2|Aviation
+advectional|n|انتقالی|B2|Aviation
+convectivity|n|همرفت‌پذیری|B2|Aviation
+dyspnea|n|تنگی نفس|B2|Health
+cyanosis|n|سیانوز؛ کبودی|B2|Health
+bronchodilator|n|گشادکنندهٔ نایژه|B2|Health
+mucolytic|n|خلط‌آور رقیق‌کنندهٔ مخاط|B2|Health
+nebulizer|n|نبولایزر؛ دستگاه نبولایز|B2|Health
+spirometry|n|اسپیرومتری؛ سنجش عملکرد ریه|B2|Health
+oximetry|n|اکسی‌سنجی|B2|Health
+hypoxia|n|کمبود اکسیژن بافتی|B2|Health
+hypercapnia|n|افزایش دی‌اکسیدکربن خون|B2|Health
+tachypnea|n|تنفس تند|B2|Health
+bradycardia|n|کندتپشی قلب|B2|Health
+tachycardia|n|تندتپشی قلب|B2|Health
+arrhythmia|n|آریتمی؛ بی‌نظمی ضربان|B2|Health
+auscultation|n|سمع؛ گوش‌دادن پزشکی|B2|Health
+palpation|n|لمس تشخیصی|B2|Health
+percussion|n|دق پزشکی|B2|Health
+atelectasis|n|آتِلکتازی؛ فروریختگی بخشی از ریه|B2|Health
+bronchospasm|n|اسپاسم نایژه|B2|Health
+hemoptysis|n|سرفهٔ خونی|B2|Health
+sputum|n|خلط|B2|Health
+rhinitis|n|التهاب بینی|B2|Health
+sinusitis|n|التهاب سینوس‌ها|B2|Health
+pleurisy|n|التهاب پردهٔ جنب|B2|Health
+alveolar|n|آلوئولی؛ مربوط به کیسه‌های هوایی|B2|Health
+bronchiole|n|نایژک|B2|Health
+alveolus|n|کیسهٔ هوایی ریه|B2|Health
+diaphragm|n|دیافراگم|B2|Health
+larynx|n|حنجره|B2|Health
+pharynx|n|حلق|B2|Health
+epiglottis|n|اپی‌گلوت؛ دریچهٔ حنجره|B2|Health
+trachea|n|نای|B2|Health
+thorax|n|قفسهٔ سینه|B2|Health
+sternum|n|جناغ|B2|Health
+clavicle|n|ترقوه|B2|Health
+scapula|n|کتف|B2|Health
+humerus|n|استخوان بازو|B2|Health
+radius|n|استخوان زند زبرین|B2|Health
+ulna|n|استخوان زند زیرین|B2|Health
+carpal|n|مربوط به استخوان مچ دست|B2|Health
+metacarpal|n|استخوان کف دست|B2|Health
+phalanx|n|بند انگشت|B2|Health
+leukocyte|n|گلبول سفید|B2|Health
+erythrocyte|n|گلبول قرمز|B2|Health
+thrombocyte|n|پلاکت|B2|Health
+hematocrit|n|هماتوکریت|B2|Health
+hemoglobin|n|هموگلوبین|B2|Health
+leukocytosis|n|افزایش گلبول سفید|B2|Health
+thrombosis|n|لخته‌شدن خون|B2|Health
+embolism|n|آمبولی|B2|Health
+ischemia|n|ایسکمی؛ کم‌خونی موضعی|B2|Health
+necrosis|n|نکروز؛ مرگ بافت|B2|Health
+edema|n|ورم بافتی|B2|Health
+erythema|n|سرخی پوست|B2|Health
+urticaria|n|کهیر|B2|Health
+pruritus|n|خارش|B2|Health
+paresthesia|n|گزگز؛ احساس غیرطبیعی|B2|Health
+neuralgia|n|درد عصبی|B2|Health
+myalgia|n|درد عضلانی|B2|Health
+arthralgia|n|درد مفصل|B2|Health
+arthrosis|n|آرتروز؛ بیماری مفصل|B2|Health
+osteopenia|n|کاهش تراکم استخوان|B2|Health
+osteoporosis|n|پوکی استخوان|B2|Health
+tendinopathy|n|اختلال تاندون|B2|Health
+fasciitis|n|التهاب فاسیا|B2|Health
+myopathy|n|بیماری عضله|B2|Health
+neuropathy|n|نوروپاتی؛ آسیب عصب|B2|Health
+nephrology|n|کلیه‌شناسی|B2|Health
+hepatology|n|کبدشناسی|B2|Health
+pulmonology|n|ریه‌شناسی|B2|Health
+hematology|n|خون‌شناسی|B2|Health
+endocrinology|n|غددشناسی|B2|Health
+immunology|n|ایمنی‌شناسی|B2|Health
+etiology|n|سبب‌شناسی|B2|Health
+pathophysiology|n|آسیب‌شناسی فیزیولوژیک|B2|Health
+prognosis|n|پیش‌آگهی|B2|Health
+comorbidity|n|هم‌ابتلایی|B2|Health
+polypharmacy|n|مصرف هم‌زمان داروهای متعدد|B2|Health
+expectorant|n|خلط‌آور|B2|Health
+antitussive|n|ضدسرفه|B2|Health
+mucosa|n|مخاط|B2|Health
+bronchitis|n|برونشیت|B2|Health
+bronchiectasis|n|گشادشدگی نایژه‌ها|B2|Health
+laryngitis|n|التهاب حنجره|B2|Health
+tracheitis|n|التهاب نای|B2|Health
+pleural|n|مربوط به پردهٔ جنب|B2|Health
+pulmonary|n|ریوی|B2|Health
+ventilation|n|تهویه|B2|Health
+perfusion|n|خون‌رسانی|B2|Health
+spirometer|n|اسپیرومتر|B2|Health
+stethoscope|n|گوشی پزشکی|B2|Health
+otoscope|n|اتوسکوپ|B2|Health
+ophthalmoscope|n|افتالموسکوپ|B2|Health
+laryngoscope|n|لارنگوسکوپ|B2|Health
+endoscope|n|آندوسکوپ|B2|Health
+bronchoscope|n|برونکوسکوپ|B2|Health
+anhedonia|n|ناتوانی در تجربهٔ لذت|B2|Psychology
+lethargy|n|رخوت؛ بی‌حالی|B2|Psychology
+dysphoria|n|خلق ناخوشایند|B2|Psychology
+irritability|n|تحریک‌پذیری|B2|Psychology
+restlessness|n|بی‌قراری|B2|Psychology
+agitation|n|آشفتگی؛ بی‌تابی|B2|Psychology
+perseveration|n|پافشاری تکراری|B2|Psychology
+disinhibition|n|کاهش بازداری|B2|Psychology
+impulsivity|n|تکانشگری|B2|Psychology
+compulsivity|n|اجبارگرایی|B2|Psychology
+hypervigilance|n|بیش‌هشیاری|B2|Psychology
+detachment|n|گسست عاطفی|B2|Psychology
+dissociation|n|گسست روانی|B2|Psychology
+depersonalization|n|مسخ شخصیت|B2|Psychology
+derealization|n|مسخ واقعیت|B2|Psychology
+alienation|n|بیگانگی|B2|Psychology
+conformity|n|همنوایی|B2|Psychology
+altruism|n|نوع‌دوستی|B2|Psychology
+egocentrism|n|خودمحوری|B2|Psychology
+machiavellianism|n|ماکیاولی‌گری|B2|Psychology
+narcissism|n|خودشیفتگی|B2|Psychology
+compassion|n|شفقت|B2|Psychology
+indignation|n|خشم اخلاقی|B2|Psychology
+equanimity|n|تعادل روانی|B2|Psychology
+tact|n|ظرافت در تعامل|B2|Psychology
+guile|n|حیله‌گری|B2|Psychology
+trepidation|n|دلهره|B2|Psychology
+unease|n|نا‌آرامی|B2|Psychology
+solace|n|تسلی|B2|Psychology
+reprieve|n|فرجه؛ آسودگی موقت|B2|Psychology
+reprisal|n|اقدام تلافی‌جویانه|B2|Psychology
+retaliation|n|تلافی|B2|Psychology
+reconciliation|n|آشتی|B2|Psychology
+estrangement|n|بیگانگی؛ دوری|B2|Psychology
+ambivalence|n|دوسوگرایی|B2|Psychology
+avoidance|n|اجتناب|B2|Psychology
+brooding|n|غم‌اندیشی|B2|Psychology
+catastrophizing|n|فاجعه‌پنداری|B2|Psychology
+co-rumination|n|نشخوار فکری مشترک|B2|Psychology
+dread|n|هراس|B2|Psychology
+empath|n|همدل؛ فرد همدل|B2|Psychology
+enmeshment|n|درهم‌تنیدگی ناسالم|B2|Psychology
+grit|n|پشتکار|B2|Psychology
+inhibition|n|بازداری|B2|Psychology
+intrusiveness|n|مزاحمت؛ مداخله‌گری|B2|Psychology
+jealousy|n|حسادت|B2|Psychology
+loneliness|n|تنهایی|B2|Psychology
+maladjustment|n|ناسازگاری روانی|B2|Psychology
+mindfulness|n|ذهن‌آگاهی|B2|Psychology
+negativity|n|منفی‌نگری|B2|Psychology
+obsession|n|وسواس فکری|B2|Psychology
+overthinking|n|بیش‌ازحد فکر کردن|B2|Psychology
+paranoia|n|بدگمانی شدید|B2|Psychology
+perfectionism|n|کمال‌گرایی|B2|Psychology
+procrastination|n|اهمال‌کاری|B2|Psychology
+resentfulness|n|رنجش‌پذیری|B2|Psychology
+ruminative|n|نشخواری؛ مربوط به نشخوار فکری|B2|Psychology
+selflessness|n|ازخودگذشتگی|B2|Psychology
+startle|n|واکنش از جا پریدن|B2|Psychology
+stoicism|n|رواقی‌گری؛ خویشتن‌داری|B2|Psychology
+tolerance|n|تحمل|B2|Psychology
+withdrawal|n|کناره‌گیری|B2|Psychology
+yearning|n|اشتیاق شدید|B2|Psychology
+fiduciary|n|امین؛ دارای وظیفهٔ امانی|B2|Business & Law
+covenant|n|تعهد قراردادی|B2|Business & Law
+tranche|n|بخش از وام یا اوراق|B2|Business & Law
+liquidity|n|نقدشوندگی|B2|Business & Law
+surety|n|ضامن؛ ضمانت|B2|Business & Law
+indemnity|n|جبران خسارت|B2|Business & Law
+lien|n|حق حبس یا وثیقهٔ قانونی|B2|Business & Law
+encumbrance|n|بار حقوقی بر دارایی|B2|Business & Law
+conveyance|n|انتقال مالکیت|B2|Business & Law
+easement|n|حق ارتفاق|B2|Business & Law
+usufruct|n|حق انتفاع|B2|Business & Law
+testator|n|وصیت‌کننده|B2|Business & Law
+legatee|n|موصی‌له|B2|Business & Law
+trustee|n|امین؛ متولی|B2|Business & Law
+beneficiary|n|ذی‌نفع|B2|Business & Law
+debenture|n|اوراق بدهی بدون وثیقهٔ مشخص|B2|Business & Law
+debtor|n|بدهکار|B2|Business & Law
+forbearance|n|مهلت‌دادن به بدهکار|B2|Business & Law
+foreclosure|n|سلب مالکیت بابت بدهی|B2|Business & Law
+garnishment|n|توقیف بخشی از درآمد|B2|Business & Law
+guarantor|n|ضامن|B2|Business & Law
+indemnifier|n|جبران‌کنندهٔ خسارت|B2|Business & Law
+insurer|n|بیمه‌گر|B2|Business & Law
+insured|n|بیمه‌شده|B2|Business & Law
+liquidator|n|تصفیه‌کننده|B2|Business & Law
+mortgagor|n|وام‌گیرندهٔ رهنی|B2|Business & Law
+mortgagee|n|وام‌دهندهٔ رهنی|B2|Business & Law
+obligee|n|متعهدله|B2|Business & Law
+obligor|n|متعهد|B2|Business & Law
+payee|n|دریافت‌کنندهٔ وجه|B2|Business & Law
+plaintiff|n|خواهان|B2|Business & Law
+respondent|n|طرف پاسخ‌گو در دعوی|B2|Business & Law
+appellant|n|تجدیدنظرخواه|B2|Business & Law
+appellee|n|طرف تجدیدنظرخواهی|B2|Business & Law
+deponent|n|اظهارکنندهٔ سوگندخورده|B2|Business & Law
+litigant|n|طرف دعوی|B2|Business & Law
+arbitrage|n|آربیتراژ؛ بهره‌گیری از اختلاف قیمت|B2|Business & Law
+arbitrageur|n|معامله‌گر آربیتراژ|B2|Business & Law
+usufructuary|n|دارندهٔ حق انتفاع|B2|Business & Law
+notarization|n|گواهی دفتر اسناد رسمی|B2|Business & Law
+notarial|n|محضری؛ مربوط به دفتر اسناد رسمی|B2|Business & Law
+subrogation|n|قائم‌مقامی حقوقی|B2|Business & Law
+novation|n|تبدیل تعهد قراردادی|B2|Business & Law
+estoppel|n|منع انکار قانونی|B2|Business & Law
+indefeasibility|n|ابطال‌ناپذیری حق|B2|Business & Law
+voidability|n|قابلیت ابطال|B2|Business & Law
+voidance|n|ابطال؛ بی‌اثر کردن قرارداد|B2|Business & Law
+severability|n|قابلیت تفکیک بند قراردادی|B2|Business & Law
+assignability|n|قابلیت واگذاری|B2|Business & Law
+assignor|n|واگذارکننده|B2|Business & Law
+assignee|n|گیرندهٔ واگذاری|B2|Business & Law
+codicil|n|الحاقیهٔ وصیت‌نامه|B2|Business & Law
+testamentary|n|وصیتی|B2|Business & Law
+incumbrance|n|بار حقوقی بر دارایی|B2|Business & Law
+indemnitor|n|متعهد به جبران خسارت|B2|Business & Law
+suretyship|n|ضمانت|B2|Business & Law
+sublease|n|اجارهٔ فرعی|B2|Business & Law
+sublessor|n|اجاره‌دهندهٔ فرعی|B2|Business & Law
+sublessee|n|اجاره‌گیرندهٔ فرعی|B2|Business & Law
+leasehold|n|حق اجارهٔ بلندمدت|B2|Business & Law
+freehold|n|مالکیت آزاد|B2|Business & Law
+encroachment|n|تجاوز به ملک|B2|Business & Law
+injunction|n|دستور منع قضایی|B2|Business & Law
+grommet|n|گرومت؛ حلقهٔ محافظ سوراخ|B2|Engineering
+gasket|n|واشر آب‌بندی|B2|Engineering
+rivet|n|پرچ|B2|Engineering
+dowel|n|پین اتصال چوبی|B2|Engineering
+caulk|n|درزگیر؛ مادهٔ درزگیری|B2|Engineering
+sealant|n|درزگیر|B2|Engineering
+chisel|n|اسکنه|B2|Engineering
+mallet|n|چکش چوبی|B2|Engineering
+planer|n|رندهٔ برقی|B2|Engineering
+lathe|n|ماشین تراش|B2|Engineering
+sander|n|سنباده‌زن|B2|Engineering
+trowel|n|ماله|B2|Engineering
+spackle|n|بتونهٔ دیوار|B2|Engineering
+lintel|n|نعل درگاه|B2|Engineering
+fascia|n|فاشیا؛ تختهٔ لبهٔ بام|B2|Engineering
+cladding|n|پوشش بیرونی ساختمان|B2|Engineering
+glazing|n|شیشه‌کاری|B2|Engineering
+corbel|n|طاقچهٔ پیش‌آمدهٔ نگهدارنده|B2|Engineering
+finial|n|سرستونک تزئینی|B2|Engineering
+pergola|n|آلاچیق مشبک|B2|Engineering
+trellis|n|داربست مشبک|B2|Engineering
+valance|n|والان؛ پردهٔ کوتاه|B2|Engineering
+cleat|n|گیرهٔ نگهدارنده|B2|Engineering
+latch|n|چفت|B2|Engineering
+plinth|n|پایهٔ ستون|B2|Engineering
+coping|n|سنگ پوششی دیوار|B2|Engineering
+jamb|n|دورقاب در یا پنجره|B2|Engineering
+mullion|n|عضو عمودی قاب پنجره|B2|Engineering
+transom|n|عضو افقی بالای در|B2|Engineering
+escutcheon|n|صفحهٔ تزئینی دور قفل|B2|Engineering
+baffle|n|صفحهٔ منحرف‌کنندهٔ جریان|B2|Engineering
+ducting|n|کانال‌کشی هوا|B2|Engineering
+conduit|n|لولهٔ محافظ سیم|B2|Engineering
+manifold|n|منیفولد؛ چندراهه|B2|Engineering
+impeller|n|پروانهٔ پمپ|B2|Engineering
+spindle|n|محور چرخان|B2|Engineering
+sprocket|n|چرخ زنجیر|B2|Engineering
+pawl|n|ضامن چرخ‌جغجغه|B2|Engineering
+ratchet|n|چرخ‌جغجغه|B2|Engineering
+sheave|n|فلکهٔ طناب|B2|Engineering
+flange|n|فلنج|B2|Engineering
+cotter|n|اشپیل؛ خار نگهدارنده|B2|Engineering
+clevis|n|چنگک اتصال|B2|Engineering
+yoke|n|یوغ؛ بست دوشاخه|B2|Engineering
+flywheel|n|چرخ طیار|B2|Engineering
+caliper|n|کولیس؛ کالیپر|B2|Engineering
+solenoid|n|سلونوئید|B2|Engineering
+rectifier|n|یکسوکننده|B2|Engineering
+thermistor|n|مقاومت حساس به دما|B2|Engineering
+varistor|n|مقاومت وابسته به ولتاژ|B2|Engineering
+inductor|n|سلف|B2|Engineering
+ferrite|n|فریت|B2|Engineering
+oscillator|n|نوسان‌ساز|B2|Engineering
+amplifier|n|تقویت‌کننده|B2|Engineering
+attenuator|n|تضعیف‌کننده|B2|Engineering
+coupler|n|کوپلر؛ جفت‌کننده|B2|Engineering
+diplexer|n|دیپلکسر|B2|Engineering
+duplexer|n|دوپلکسر|B2|Engineering
+modulator|n|مدوله‌کننده|B2|Engineering
+demodulator|n|آشکارساز مدولاسیون|B2|Engineering
+impedance|n|امپدانس|B2|Engineering
+capacitance|n|ظرفیت خازنی|B2|Engineering
+inductance|n|اندوکتانس|B2|Engineering
+conductance|n|رسانایی|B2|Engineering
+reactance|n|راکتانس|B2|Engineering
+resonance|n|تشدید|B2|Engineering
+diffraction|n|پراش|B2|Engineering
+refraction|n|شکست موج|B2|Engineering
+interference|n|تداخل|B2|Engineering
+isotropy|n|همسانگردی|B2|Engineering
+ductility|n|شکل‌پذیری؛ مفتول‌پذیری|B2|Engineering
+malleability|n|چکش‌خواری|B2|Engineering
+brittleness|n|شکنندگی|B2|Engineering
+porosity|n|تخلخل|B2|Engineering
+permeability|n|تراوایی|B2|Engineering
+hygroscopy|n|رطوبت‌گیری|B2|Engineering
+hydrophobicity|n|آب‌گریزی|B2|Engineering
+hydrophilicity|n|آب‌دوستی|B2|Engineering
+miscibility|n|امتزاج‌پذیری|B2|Engineering
+solubility|n|حلالیت|B2|Engineering
+crystallinity|n|بلورینگی|B2|Engineering
+granularity|n|دانه‌بندی|B2|Engineering
+flocculation|n|لخته‌سازی|B2|Engineering
+coagulation|n|انعقاد|B2|Engineering
+sedimentation|n|ته‌نشینی|B2|Engineering
+centrifugation|n|سانتریفیوژ کردن|B2|Engineering
+chromatography|n|کروماتوگرافی|B2|Engineering
+electrophoresis|n|الکتروفورز|B2|Engineering
+calorimetry|n|گرماسنجی|B2|Engineering
+photometry|n|نور‌سنجی|B2|Engineering
+radiometry|n|تابش‌سنجی|B2|Engineering
+dosimetry|n|دوزسنجی|B2|Engineering
+aliquot|n|بخش نمونهٔ اندازه‌گیری‌شده|B2|Engineering
+reagent|n|معرف؛ واکنشگر|B2|Engineering
+analyte|n|مادهٔ مورد سنجش|B2|Engineering
+precipitate|n|رسوب|B2|Engineering
+filtrate|n|مایع صاف‌شده|B2|Engineering
+eluate|n|مایع خروجی شست‌وشوی ستون|B2|Engineering
+adsorbent|n|جاذب سطحی|B2|Engineering
+desiccant|n|رطوبت‌گیر|B2|Engineering
+substrate|n|زیرلایه؛ بستر|B2|Engineering
+ligand|n|لیگاند؛ پیونددهنده|B2|Engineering
+chelate|n|کلات|B2|Engineering
+isotope|n|ایزوتوپ|B2|Engineering
+hydrolysis|n|هیدرولیز|B2|Engineering
+polymerization|n|بسپارش|B2|Engineering
+vulcanization|n|ولکانش|B2|Engineering
+covariance|n|کوواریانس|B2|Mathematics & Statistics
+skewness|n|چولگی|B2|Mathematics & Statistics
+kurtosis|n|کشیدگی توزیع|B2|Mathematics & Statistics
+heteroscedasticity|n|ناهمسانی واریانس|B2|Mathematics & Statistics
+homoscedasticity|n|همسانی واریانس|B2|Mathematics & Statistics
+collinearity|n|هم‌خطی|B2|Mathematics & Statistics
+multicollinearity|n|هم‌خطی چندگانه|B2|Mathematics & Statistics
+autocorrelation|n|خودهم‌بستگی|B2|Mathematics & Statistics
+orthogonality|n|تعامل عمود؛ تعامد|B2|Mathematics & Statistics
+eigenvalue|n|مقدار ویژه|B2|Mathematics & Statistics
+eigenvector|n|بردار ویژه|B2|Mathematics & Statistics
+singularity|n|تکینگی|B2|Mathematics & Statistics
+asymptote|n|مجانب|B2|Mathematics & Statistics
+derivative|n|مشتق|B2|Mathematics & Statistics
+integral|n|انتگرال|B2|Mathematics & Statistics
+matrix|n|ماتریس|B2|Mathematics & Statistics
+tensor|n|تنسور؛ تانسور|B2|Mathematics & Statistics
+scalar|n|کمیت نرده‌ای|B2|Mathematics & Statistics
+vector|n|بردار|B2|Mathematics & Statistics
+topology|n|توپولوژی|B2|Mathematics & Statistics
+calculus|n|حسابان|B2|Mathematics & Statistics
+Hessian|n|ماتریس هسین|B2|Mathematics & Statistics
+Jacobian|n|ژاکوبین|B2|Mathematics & Statistics
+determinant|n|دترمینان|B2|Mathematics & Statistics
+eigenbasis|n|پایهٔ بردارهای ویژه|B2|Mathematics & Statistics
+approximation|n|تقریب|B2|Mathematics & Statistics
+perturbation|n|اختلال؛ اغتشاش|B2|Mathematics & Statistics
+stochastic|n|تصادفی؛ احتمالاتی|B2|Mathematics & Statistics
+deterministic|n|قطعی|B2|Mathematics & Statistics
+ergodicity|n|ارگودیسیته؛ خاصیت ارگودیک|B2|Mathematics & Statistics
+variance|n|واریانس|B2|Mathematics & Statistics
+quartile|n|چارک|B2|Mathematics & Statistics
+percentile|n|صدک|B2|Mathematics & Statistics
+median|n|میانه|B2|Mathematics & Statistics
+mode|n|نما؛ مد|B2|Mathematics & Statistics
+denominator|n|مخرج|B2|Mathematics & Statistics
+numerator|n|صورت|B2|Mathematics & Statistics
+quotient|n|خارج‌قسمت|B2|Mathematics & Statistics
+remainder|n|باقی‌مانده|B2|Mathematics & Statistics
+modulus|n|قدر مطلق؛ پیمانه|B2|Mathematics & Statistics
+radix|n|پایهٔ عددی|B2|Mathematics & Statistics
+mantissa|n|مانتیسا؛ بخش معنی‌دار عدد|B2|Mathematics & Statistics
+exponent|n|توان؛ نما|B2|Mathematics & Statistics
+logarithm|n|لگاریتم|B2|Mathematics & Statistics
+antilogarithm|n|آنتی‌لگاریتم|B2|Mathematics & Statistics
+trigonometry|n|مثلثات|B2|Mathematics & Statistics
+sine|n|سینوس|B2|Mathematics & Statistics
+cosine|n|کسینوس|B2|Mathematics & Statistics
+tangent|n|تانژانت|B2|Mathematics & Statistics
+cotangent|n|کتانژانت|B2|Mathematics & Statistics
+secant|n|سکانت|B2|Mathematics & Statistics
+cosecant|n|کسکانت|B2|Mathematics & Statistics
+permutation|n|جایگشت|B2|Mathematics & Statistics
+factorial|n|فاکتوریل|B2|Mathematics & Statistics
+binomial|n|دوجمله‌ای|B2|Mathematics & Statistics
+polynomial|n|چندجمله‌ای|B2|Mathematics & Statistics
+monomial|n|تک‌جمله‌ای|B2|Mathematics & Statistics
+coefficient|n|ضریب|B2|Mathematics & Statistics
+asymptotic|n|مجانب‌وار|B2|Mathematics & Statistics
+differentiability|n|مشتق‌پذیری|B2|Mathematics & Statistics
+integrability|n|انتگرال‌پذیری|B2|Mathematics & Statistics
+injectivity|n|یک‌به‌یک‌بودن|B2|Mathematics & Statistics
+surjectivity|n|پوشابودن|B2|Mathematics & Statistics
+bijectivity|n|دوسویی‌بودن|B2|Mathematics & Statistics
+isomorphism|n|هم‌ریختی|B2|Mathematics & Statistics
+homomorphism|n|ریخت‌همسان|B2|Mathematics & Statistics
+isometry|n|هم‌فاصله‌ای|B2|Mathematics & Statistics
+orthonormality|n|متعامد یکه‌بودن|B2|Mathematics & Statistics
+positive-definite|n|مثبت‌معین|B2|Mathematics & Statistics
+semidefinite|n|نیمه‌معین|B2|Mathematics & Statistics
+convexity|n|کوژبودن|B2|Mathematics & Statistics
+concavity|n|کاو‌بودن|B2|Mathematics & Statistics
+monotonicity|n|یکنواختی|B2|Mathematics & Statistics
+stationarity|n|ایستایی آماری|B2|Mathematics & Statistics
+autocovariance|n|خودکوواریانس|B2|Mathematics & Statistics
+posterior|n|پسین؛ توزیع پسین|B2|Mathematics & Statistics
+prior|n|پیشین؛ توزیع پیشین|B2|Mathematics & Statistics
+estimator|n|برآوردگر|B2|Mathematics & Statistics
+estimand|n|کمیت مورد برآورد|B2|Mathematics & Statistics
+identifiability|n|شناسایی‌پذیری|B2|Mathematics & Statistics
+regularization|n|منظم‌سازی|B2|Mathematics & Statistics
+overfitting|n|بیش‌برازش|B2|Mathematics & Statistics
+underfitting|n|کم‌برازش|B2|Mathematics & Statistics
+ecotoxicology|n|بوم‌سم‌شناسی|B2|Environment
+foodweb|n|شبکهٔ غذایی|B2|Environment
+groundwater|n|آب زیرزمینی|B2|Environment
+invasiveness|n|مهاجم‌بودن؛ تهاجم‌پذیری|B2|Environment
+ozonolysis|n|اوزون‌کافت|B2|Environment
+sedimentology|n|رسوب‌شناسی|B2|Environment
+afforestation|n|جنگل‌کاری|B2|Environment
+albedo|n|سپیدایی؛ بازتابندگی|B2|Environment
+biomagnification|n|بزرگ‌نمایی زیستی|B2|Environment
+bioaccumulation|n|تجمع زیستی|B2|Environment
+bioremediation|n|زیست‌پالایی|B2|Environment
+desertification|n|بیابان‌زایی|B2|Environment
+eutrophication|n|پرغذایی آب|B2|Environment
+fragmentation|n|تکه‌تکه‌شدن زیستگاه|B2|Environment
+glaciology|n|یخچال‌شناسی|B2|Environment
+hydrology|n|آب‌شناسی|B2|Environment
+limnology|n|دریاچه‌شناسی|B2|Environment
+mycology|n|قارچ‌شناسی|B2|Environment
+ornithology|n|پرنده‌شناسی|B2|Environment
+pedology|n|خاک‌شناسی|B2|Environment
+phytoplankton|n|فیتوپلانکتون|B2|Environment
+zooplankton|n|زئوپلانکتون|B2|Environment
+phytoremediation|n|گیاه‌پالایی|B2|Environment
+reforestation|n|احیای جنگل|B2|Environment
+salinity|n|شوری|B2|Environment
+seagrass|n|علف دریایی|B2|Environment
+silviculture|n|پرورش جنگل|B2|Environment
+stratification|n|لایه‌بندی|B2|Environment
+thermocline|n|لایهٔ گرادیان دما|B2|Environment
+upwelling|n|بالاآمدگی آب ژرف|B2|Environment
+watershed|n|حوزهٔ آبخیز|B2|Environment
+wetland|n|تالاب|B2|Environment
+wilderness|n|ناحیهٔ بکر|B2|Environment
+xerophyte|n|گیاه خشکی‌زی|B2|Environment
+halophyte|n|گیاه شورپسند|B2|Environment
+hydrophyte|n|گیاه آبزی|B2|Environment
+epiphyte|n|گیاه هوازی|B2|Environment
+endemic|n|بوم‌زاد|B2|Environment
+endemicity|n|بوم‌زادبودن|B2|Environment
+invasive|n|مهاجم|B2|Environment
+indigenous|n|بومی|B2|Environment
+subarctic|n|زیرقطبی|B2|Environment
+periglacial|n|پیرایخچالی|B2|Environment
+cryosphere|n|کرایوسفر؛ سپهر یخ|B2|Environment
+hydrosphere|n|آب‌سپهر|B2|Environment
+lithosphere|n|سنگ‌سپهر|B2|Environment
+anthropocene|n|آنتروپوسن|B2|Environment
+microclimate|n|ریزاقلیم|B2|Environment
+desiccation|n|خشک‌شدن شدید|B2|Environment
+erosivity|n|فرسایش‌زایی|B2|Environment
+hydrophobic|n|آب‌گریز|B2|Environment
+hydrophilic|n|آب‌دوست|B2|Environment
+recalcitrant|n|دیرتجزیه‌شونده|B2|Environment
+biochar|n|زیست‌زغال|B2|Environment
+compostability|n|کمپوست‌پذیری|B2|Environment
+algorithmic|n|الگوریتمی|B2|Technology
+asynchrony|n|ناهم‌زمانی|B2|Technology
+asynchronous|n|ناهم‌زمان|B2|Technology
+atomicity|n|اتمی‌بودن؛ تجزیه‌ناپذیری تراکنش|B2|Technology
+backpressure|n|فشار بازگشتی؛ کنترل فشار بار|B2|Technology
+bitrate|n|نرخ بیت|B2|Technology
+blockchain|n|زنجیرهٔ بلوکی|B2|Technology
+bytecode|n|بایت‌کد|B2|Technology
+ciphertext|n|متن رمز‌شده|B2|Technology
+cryptanalysis|n|رمزشکافی|B2|Technology
+cryptography|n|رمزنگاری|B2|Technology
+decryption|n|رمزگشایی|B2|Technology
+deserialization|n|واگرد سریال‌سازی|B2|Technology
+idempotence|n|ایدِمپوتنسی؛ خاصیت تکرار بی‌اثر|B2|Technology
+latency|n|تأخیر|B2|Technology
+marshalling|n|سریال‌سازی ساختار داده|B2|Technology
+middleware|n|میان‌افزار|B2|Technology
+obfuscation|n|مبهم‌سازی کد|B2|Technology
+orchestration|n|هماهنگ‌سازی سامانه‌ها|B2|Technology
+overload|n|اضافه‌بار|B2|Technology
+permalink|n|پیوند پایدار|B2|Technology
+polymorphism|n|چندریختی|B2|Technology
+provisioning|n|تأمین و آماده‌سازی منابع|B2|Technology
+race-condition|n|شرط رقابت|B2|Technology
+recursion|n|بازگشت؛ فراخوانی بازگشتی|B2|Technology
+serialization|n|سریال‌سازی|B2|Technology
+sharding|n|تقسیم افقی داده|B2|Technology
+throughput|n|توان عملیاتی|B2|Technology
+tokenizer|n|توکن‌ساز|B2|Technology
+transpiler|n|مبدل زبان برنامه‌نویسی|B2|Technology
+virtualization|n|مجازی‌سازی|B2|Technology
+webhook|n|وب‌هوک|B2|Technology
+workaround|n|راه‌حل موقت|B2|Technology
+backport|n|انتقال اصلاح به نسخهٔ قدیمی|B2|Technology
+backward-compatibility|n|سازگاری رو به عقب|B2|Technology
+benchmarking|n|معیارسنجی|B2|Technology
+deadlock|n|بن‌بست|B2|Technology
+deprecation|n|منسوخ‌سازی|B2|Technology
+destructor|n|مخرب؛ تابع نابودگر|B2|Technology
+determinism|n|قطعیت|B2|Technology
+encapsulation|n|کپسوله‌سازی|B2|Technology
+failover|n|انتقال خودکار به سامانهٔ جایگزین|B2|Technology
+forking|n|انشعاب‌گیری|B2|Technology
+hotfix|n|اصلاح فوری|B2|Technology
+idempotent|n|ایدِمپوتنت؛ تکرارپذیر بدون اثر مضاعف|B2|Technology
+instrumentation|n|ابزارگذاری؛ افزودن سنجه|B2|Technology
+introspection|n|درون‌نگری کد|B2|Technology
+monorepo|n|مخزن یکپارچه|B2|Technology
+mutability|n|تغییرپذیری|B2|Technology
+overprovisioning|n|تخصیص بیش‌ازنیاز منابع|B2|Technology
+polyfill|n|چندپرکن؛ سازگارساز ویژگی|B2|Technology
+refactoring|n|بازآرایی کد|B2|Technology
+rollback|n|بازگشت به نسخهٔ پیشین|B2|Technology
+statelessness|n|بدون‌حالت‌بودن|B2|Technology
+taint|n|آلودگی داده؛ نشان‌گذاری ورودی نامطمئن|B2|Technology
+telemetry|n|دورسنجی|B2|Technology
+threading|n|رشته‌سازی اجرایی|B2|Technology
+unboxing|n|خارج‌کردن از بسته‌بندی نوعی|B2|Technology
+upcasting|n|تبدیل به نوع والد|B2|Technology
+webassembly|n|وب‌اسمبلی|B2|Technology
+whitelisting|n|فهرست مجاز|B2|Technology
+watchdog|n|نگهبان نرم‌افزاری|B2|Technology
+zeroization|n|پاک‌سازی امن داده|B2|Technology
+zlib|n|کتابخانهٔ فشرده‌سازی زدلیب|B2|Technology
+ablation|n|برداشت یا حذف بافت|B2|General Academic
+abscissa|n|محور افقی|B2|General Academic
+accretion|n|افزایش تدریجی؛ انباشت|B2|General Academic
+acoustics|n|آواشناسی فیزیکی|B2|General Academic
+adjudication|n|داوری؛ رسیدگی رسمی|B2|General Academic
+admixture|n|آمیخته؛ اختلاط|B2|General Academic
+agglomeration|n|کلوخه‌شدن|B2|General Academic
+allometry|n|رشد ناهم‌مقیاس|B2|General Academic
+amalgam|n|آمالگام؛ ملغمه|B2|General Academic
+amalgamation|n|ادغام|B2|General Academic
+antithesis|n|نقیض؛ تقابل|B2|General Academic
+aporia|n|بن‌بست فکری|B2|General Academic
+archetype|n|کهن‌الگو|B2|General Academic
+asymmetry|n|عدم تقارن|B2|General Academic
+autarky|n|خودبسندگی اقتصادی|B2|General Academic
+axiom|n|اصل موضوع|B2|General Academic
+barbarism|n|وحشی‌گری؛ نابهنجاری زبانی|B2|General Academic
+baroque|n|باروک؛ پرآرایه|B2|General Academic
+bioethics|n|اخلاق زیستی|B2|General Academic
+biometrics|n|زیست‌سنجی|B2|General Academic
+calibration|n|کالیبراسیون|B2|General Academic
+capillarity|n|مویینگی|B2|General Academic
+catabolism|n|سوخت‌وساز تجزیه‌ای|B2|General Academic
+categorization|n|دسته‌بندی|B2|General Academic
+causality|n|علیت|B2|General Academic
+chronotope|n|زمان‌مکان روایی|B2|General Academic
+circumscription|n|محدودسازی؛ تحدید|B2|General Academic
+coalescence|n|هم‌جوشی|B2|General Academic
+coherence|n|انسجام|B2|General Academic
+commensurability|n|قیاس‌پذیری|B2|General Academic
+commensurate|n|متناسب؛ هم‌سنج|B2|General Academic
+conflation|n|درهم‌آمیختگی|B2|General Academic
+congruence|n|هم‌نهشتی؛ سازگاری|B2|General Academic
+connotation|n|معنای ضمنی|B2|General Academic
+consilience|n|همگرایی شواهد|B2|General Academic
+constructivism|n|ساخت‌گرایی|B2|General Academic
+contiguity|n|مجاورت|B2|General Academic
+convolution|n|پیچش؛ درهم‌پیچیدگی|B2|General Academic
+corollary|n|نتیجهٔ فرعی|B2|General Academic
+counterfactual|n|خلاف‌واقع|B2|General Academic
+crystallography|n|بلورشناسی|B2|General Academic
+deference|n|احترام؛ تمکین|B2|General Academic
+demarcation|n|مرزبندی|B2|General Academic
+denotation|n|معنای صریح|B2|General Academic
+diachronic|n|درزمانی|B2|General Academic
+dichotomy|n|دوگانگی|B2|General Academic
+discrepancy|n|ناهمخوانی|B2|General Academic
+disjunction|n|گسست؛ انفصال|B2|General Academic
+dissonance|n|ناهم‌آوایی؛ ناهماهنگی|B2|General Academic
+duality|n|دوگانگی|B2|General Academic
+eclecticism|n|التقاط‌گرایی|B2|General Academic
+epistemology|n|معرفت‌شناسی|B2|General Academic
+equivocation|n|ابهام‌گویی|B2|General Academic
+exegesis|n|تفسیر متن|B2|General Academic
+extrapolation|n|برون‌یابی|B2|General Academic
+hermeneutics|n|هرمنوتیک؛ تفسیرشناسی|B2|General Academic
+heuristic|n|اکتشافی؛ راه‌یاب|B2|General Academic
+homology|n|هم‌ساختی|B2|General Academic
+intertextuality|n|بینامتنیت|B2|General Academic
+metonymy|n|مجاز مرسل|B2|General Academic
+modalities|n|وجه‌ها؛ شیوه‌ها|B2|General Academic
+neologism|n|واژهٔ نو|B2|General Academic
+ontology|n|هستی‌شناسی|B2|General Academic
+parsimony|n|صرفه‌جویی در فرض‌ها|B2|General Academic
+polysemy|n|چندمعنایی|B2|General Academic
+presupposition|n|پیش‌انگاشت|B2|General Academic
+prolegomenon|n|مقدمهٔ مقدماتی|B2|General Academic
+semiotics|n|نشانه‌شناسی|B2|General Academic
+synecdoche|n|مجاز جزء و کل|B2|General Academic
+teleology|n|غایت‌شناسی|B2|General Academic
+typology|n|گونه‌شناسی|B2|General Academic
+univocity|n|تک‌معنایی|B2|General Academic
+verisimilitude|n|واقع‌نمایی|B2|General Academic
+zeitgeist|n|روح زمانه|B2|General Academic
+backwater|n|منطقهٔ دورافتاده؛ آب راکد|B2|Travel & Society
+byway|n|راه فرعی|B2|Travel & Society
+cairn|n|تل سنگی راهنما|B2|Travel & Society
+causeway|n|راه روی آب؛ خاکریز راه|B2|Travel & Society
+chicane|n|پیچ تند مسیر|B2|Travel & Society
+cul-de-sac|n|بن‌بست|B2|Travel & Society
+escarpment|n|پرتگاه لایه‌ای|B2|Travel & Society
+ferryboat|n|کشتی مسافری کوتاه‌مسیر|B2|Travel & Society
+fjord|n|فیورد؛ آبدره|B2|Travel & Society
+geotag|n|برچسب جغرافیایی|B2|Travel & Society
+hinterland|n|پس‌کرانه؛ ناحیهٔ پشت‌بندر|B2|Travel & Society
+isthmus|n|باریکهٔ خشکی|B2|Travel & Society
+jetty|n|اسکلهٔ باریک|B2|Travel & Society
+lagoon|n|تالاب ساحلی؛ لاگون|B2|Travel & Society
+landmark|n|نشانگاه؛ نقطهٔ شاخص|B2|Travel & Society
+layover|n|توقف بین‌راهی|B2|Travel & Society
+lowland|n|جلگه؛ زمین پست|B2|Travel & Society
+motorway|n|آزادراه|B2|Travel & Society
+overpass|n|گذرگاه روگذر|B2|Travel & Society
+peninsula|n|شبه‌جزیره|B2|Travel & Society
+promenade|n|پیاده‌راه تفریحی|B2|Travel & Society
+quay|n|اسکله؛ بارانداز|B2|Travel & Society
+roundabout|n|میدان ترافیکی|B2|Travel & Society
+seaway|n|مسیر دریایی|B2|Travel & Society
+skyway|n|گذرگاه مرتفع|B2|Travel & Society
+switchback|n|مسیر زیگزاگی|B2|Travel & Society
+thoroughfare|n|معبر اصلی|B2|Travel & Society
+turnpike|n|بزرگراه عوارضی|B2|Travel & Society
+underpass|n|گذرگاه زیرگذر|B2|Travel & Society
+viaduct|n|پل راهگذر|B2|Travel & Society
+waypoint|n|نقطهٔ مسیر|B2|Travel & Society
+wharf|n|اسکلهٔ بارگیری|B2|Travel & Society
+wayfinding|n|یافتن مسیر|B2|Travel & Society
+zenith|n|سمت‌الرأس؛ اوج|B2|Travel & Society
+azimuth|n|سمت؛ زاویهٔ سمتی|B2|Travel & Society
+meridian|n|نصف‌النهار|B2|Travel & Society
+parallax|n|اختلاف منظر|B2|Travel & Society
+perigee|n|حضیض|B2|Travel & Society
+apogee|n|اوج؛ دورترین نقطه از زمین|B2|Travel & Society
+perihelion|n|حضیض خورشیدی|B2|Travel & Society
+aphelion|n|اوج خورشیدی|B2|Travel & Society
+solstice|n|انقلاب خورشیدی|B2|Travel & Society
+equinox|n|اعتدال|B2|Travel & Society
+sidereal|n|نجومی؛ ستاره‌ای|B2|Travel & Society
+celestial|n|آسمانی|B2|Travel & Society
+intertidal|n|میان‌کشندی|B2|Travel & Society
+subtidal|n|زیرکشندی|B2|Travel & Society
+estuarine|n|مربوط به مصب|B2|Travel & Society
+lacustrine|n|دریاچه‌ای|B2|Travel & Society
+palustrine|n|مردابی|B2|Travel & Society
+alluvial|n|آبرفتی|B2|Travel & Society
+fluvial|n|رودخانه‌ای|B2|Travel & Society
+aeolian|n|بادی؛ وابسته به باد|B2|Travel & Society
+glacial|n|یخچالی|B2|Travel & Society
+glaciated|n|یخچالی‌شده|B2|Travel & Society
+topographic|n|توپوگرافیک|B2|Travel & Society
+bathymetric|n|ژرفاسنجی|B2|Travel & Society
+cartographic|n|نقشه‌نگاری|B2|Travel & Society
+geodetic|n|ژئودتیک|B2|Travel & Society
+geospatial|n|مکانی؛ زمین‌فضایی|B2|Travel & Society
+geotectonic|n|زمین‌ساختی|B2|Travel & Society
+hydrographic|n|آب‌نگاری|B2|Travel & Society
+isostatic|n|ایزوستاتیک|B2|Travel & Society
+agar|n|آگار|B2|Food & Home
+albumen|n|سفیدهٔ تخم‌مرغ|B2|Food & Home
+amaranth|n|آمارانت؛ تاج‌خروس خوراکی|B2|Food & Home
+anise|n|بادیان رومی|B2|Food & Home
+arrowroot|n|نشاستهٔ ریشهٔ مارانتا|B2|Food & Home
+asafetida|n|آنغوزه|B2|Food & Home
+bulgur|n|بلغور|B2|Food & Home
+caraway|n|زیرهٔ سیاه|B2|Food & Home
+cardamom|n|هل|B2|Food & Home
+chicory|n|کاسنی|B2|Food & Home
+chutney|n|چاتنی؛ چاشنی میوه‌ای|B2|Food & Home
+clove|n|میخک|B2|Food & Home
+confectionery|n|شیرینی‌سازی|B2|Food & Home
+cornmeal|n|آرد ذرت|B2|Food & Home
+curd|n|دلمهٔ شیر؛ کشک نرم|B2|Food & Home
+demerara|n|شکر قهوه‌ای درشت|B2|Food & Home
+dulce|n|شیرینی شیری|B2|Food & Home
+farro|n|گندم فاررو|B2|Food & Home
+fenugreek|n|شنبلیله|B2|Food & Home
+freekeh|n|فریکه؛ گندم سبز برشته|B2|Food & Home
+galangal|n|گالانگال|B2|Food & Home
+ghee|n|روغن حیوانی تصفیه‌شده|B2|Food & Home
+giardiniera|n|ترشی سبزیجات|B2|Food & Home
+gochujang|n|خمیر فلفل کره‌ای|B2|Food & Home
+harissa|n|هریسه؛ خمیر فلفل تند|B2|Food & Home
+hominy|n|ذرت فرآوری‌شده|B2|Food & Home
+jaggery|n|شکر نیشکر تصفیه‌نشده|B2|Food & Home
+kefir|n|کفیر|B2|Food & Home
+kimchi|n|کیمچی|B2|Food & Home
+kumquat|n|کامکوات|B2|Food & Home
+labneh|n|لبنه؛ ماست چکیده|B2|Food & Home
+lavash|n|لواش|B2|Food & Home
+marzipan|n|مارزیپان|B2|Food & Home
+mascarpone|n|ماسکارپونه|B2|Food & Home
+molasses|n|ملاس؛ شیرهٔ غلیظ|B2|Food & Home
+muesli|n|موسلی|B2|Food & Home
+natto|n|ناتو؛ سویای تخمیرشده|B2|Food & Home
+nixtamal|n|ذرت قلیایی‌فرآوری‌شده|B2|Food & Home
+nougat|n|نوقا|B2|Food & Home
+okra|n|بامیه|B2|Food & Home
+orzo|n|اورزو؛ پاستای برنجی‌شکل|B2|Food & Home
+panforte|n|پانفورته|B2|Food & Home
+paprika|n|پاپریکا|B2|Food & Home
+pastrami|n|پاسترامی|B2|Food & Home
+polenta|n|پولنتا|B2|Food & Home
+quark|n|کوارک؛ پنیر تازه|B2|Food & Home
+quince|n|به|B2|Food & Home
+radicchio|n|رادیکیو|B2|Food & Home
+roux|n|رو؛ مخلوط آرد و چربی|B2|Food & Home
+semolina|n|سمولینا|B2|Food & Home
+shiso|n|شیسو|B2|Food & Home
+skyr|n|اسکیر؛ لبنی تخمیری|B2|Food & Home
+sumac|n|سماق|B2|Food & Home
+tempeh|n|تمپه|B2|Food & Home
+teff|n|تف|B2|Food & Home
+toffee|n|تافی|B2|Food & Home
+turmeric|n|زردچوبه|B2|Food & Home
+wakame|n|واکامه|B2|Food & Home
+za'atar|n|زعتر|B2|Food & Home
+zest|n|پوست رنده‌شدهٔ مرکبات|B2|Food & Home
+zabaglione|n|زابایونه|B2|Food & Home
+zucchini|n|کدو سبز|B2|Food & Home
+amaretto|n|آمارتو|B2|Food & Home
+bechamel|n|سس بشامل|B2|Food & Home
+beurre|n|کره|B2|Food & Home
+bouillon|n|آب گوشت؛ عصاره|B2|Food & Home
+charcuterie|n|فراورده‌های گوشتی|B2|Food & Home
+consomme|n|کنسومه؛ آبگوشت صاف‌شده|B2|Food & Home
+demitasse|n|فنجان کوچک قهوه|B2|Food & Home
+emulsion|n|امولسیون|B2|Food & Home
+fondant|n|فوندانت|B2|Food & Home
+ganache|n|گاناش|B2|Food & Home
+gelato|n|ژلاتو|B2|Food & Home
+gruyere|n|پنیر گرویر|B2|Food & Home
+infusion|n|دم‌کرده|B2|Food & Home
+julienne|n|خلال باریک|B2|Food & Home
+maillard|n|مایارد؛ واکنش قهوه‌ای‌شدن|B2|Food & Home
+omelette|n|املت|B2|Food & Home
+quenelle|n|کِنل؛ شکل بیضی غذا|B2|Food & Home
+ramekin|n|ظرف کوچک فر|B2|Food & Home
+terrine|n|ترین؛ قالب غذای فشرده|B2|Food & Home
+vinaigrette|n|سس سرکه و روغن|B2|Food & Home
+austerity|n|ریاضت اقتصادی|B2|Economics & Society
+bilateralism|n|دوجانبه‌گرایی|B2|Economics & Society
+cartelization|n|کارتل‌سازی|B2|Economics & Society
+clientelism|n|حامی‌پروری سیاسی|B2|Economics & Society
+commoditization|n|کالایی‌شدن|B2|Economics & Society
+deindustrialization|n|صنعت‌زدایی|B2|Economics & Society
+deleveraging|n|کاهش اهرم مالی|B2|Economics & Society
+dematerialization|n|نامادی‌شدن؛ کاهش مصرف مواد|B2|Economics & Society
+deregulation|n|مقررات‌زدایی|B2|Economics & Society
+disintermediation|n|حذف واسطه|B2|Economics & Society
+divestiture|n|واگذاری دارایی|B2|Economics & Society
+externality|n|برون‌ریز؛ اثر خارجی|B2|Economics & Society
+financialization|n|مالی‌سازی|B2|Economics & Society
+franchising|n|اعطای حق امتیاز|B2|Economics & Society
+gentrification|n|اعیان‌سازی محله|B2|Economics & Society
+globalism|n|جهان‌گرایی|B2|Economics & Society
+informality|n|غیررسمی‌بودن|B2|Economics & Society
+intermediation|n|واسطه‌گری|B2|Economics & Society
+liberalization|n|آزادسازی|B2|Economics & Society
+mercantilism|n|سوداگرایی|B2|Economics & Society
+monetarism|n|پول‌گرایی|B2|Economics & Society
+neoliberalism|n|نولیبرالیسم|B2|Economics & Society
+protectionism|n|حمایت‌گرایی|B2|Economics & Society
+rentier|n|رانت‌خوار؛ متکی به رانت|B2|Economics & Society
+securitization|n|اوراق‌بهادارسازی|B2|Economics & Society
+stagflation|n|رکود تورمی|B2|Economics & Society
+subsidization|n|یارانه‌دهی|B2|Economics & Society
+syndicalism|n|سندیکالیسم|B2|Economics & Society
+taxation|n|مالیات‌ستانی|B2|Economics & Society
+technocracy|n|فن‌سالاری|B2|Economics & Society
+underemployment|n|اشتغال ناقص|B2|Economics & Society
+unbanked|n|فاقد دسترسی بانکی|B2|Economics & Society
+unbundling|n|تفکیک خدمات|B2|Economics & Society
+urbanization|n|شهرنشینی|B2|Economics & Society
+voluntarism|n|داوطلب‌گرایی|B2|Economics & Society
+welfarism|n|رفاه‌گرایی|B2|Economics & Society
+workfare|n|الزام به کار در ازای مزایا|B2|Economics & Society
+precarity|n|بی‌ثباتی؛ ناامنی اقتصادی|B2|Economics & Society
+precariat|n|طبقهٔ شاغلان بی‌ثبات|B2|Economics & Society
+rent-seeking|n|رانت‌جویی|B2|Economics & Society
+redistribution|n|بازتوزیع|B2|Economics & Society
+reskilling|n|بازآموزی مهارت|B2|Economics & Society
+upskilling|n|ارتقای مهارت|B2|Economics & Society
+underinsurance|n|بیمه‌پوشانی ناکافی|B2|Economics & Society
+unbankability|n|نامناسب‌بودن برای دریافت خدمات بانکی|B2|Economics & Society
+debtors|n|بدهکاران|B2|Economics & Society
+creditworthiness|n|اعتبارپذیری مالی|B2|Economics & Society
+transnationalism|n|فراملی‌گرایی|B2|Economics & Society
+adsorption|n|جذب سطحی|B2|Materials & Chemistry
+amorphous|n|بی‌شکل؛ آمورف|B2|Materials & Chemistry
+anode|n|آند|B2|Materials & Chemistry
+anolyte|n|محلول آندی|B2|Materials & Chemistry
+antioxidant|n|آنتی‌اکسیدان|B2|Materials & Chemistry
+aqueous|n|آبی؛ محلول در آب|B2|Materials & Chemistry
+autoclave|n|اتوکلاو|B2|Materials & Chemistry
+azeotrope|n|آزئوتروپ|B2|Materials & Chemistry
+biopolymer|n|زیست‌بسپار|B2|Materials & Chemistry
+buffer|n|بافر؛ محلول تنظیم‌کنندهٔ pH|B2|Materials & Chemistry
+calorimeter|n|گرماسنج|B2|Materials & Chemistry
+carbide|n|کاربید|B2|Materials & Chemistry
+catalyst|n|کاتالیزگر|B2|Materials & Chemistry
+catalysis|n|کاتالیز|B2|Materials & Chemistry
+cellulose|n|سلولز|B2|Materials & Chemistry
+chelation|n|کلاته‌سازی|B2|Materials & Chemistry
+chromophore|n|رنگ‌زا|B2|Materials & Chemistry
+colloid|n|کلوئید|B2|Materials & Chemistry
+complexation|n|کمپلکس‌سازی|B2|Materials & Chemistry
+copolymer|n|هم‌بسپار|B2|Materials & Chemistry
+corrosion|n|خوردگی|B2|Materials & Chemistry
+crucible|n|بوتهٔ آزمایش|B2|Materials & Chemistry
+cryogen|n|مادهٔ برودتی|B2|Materials & Chemistry
+crystallite|n|بلورک|B2|Materials & Chemistry
+deionization|n|یون‌زدایی|B2|Materials & Chemistry
+delamination|n|لایه‌لایه‌شدن|B2|Materials & Chemistry
+deliquescence|n|شکفتگی رطوبتی؛ جذب رطوبت تا حل‌شدن|B2|Materials & Chemistry
+desorption|n|واجذب|B2|Materials & Chemistry
+dialysis|n|دیالیز|B2|Materials & Chemistry
+diamagnetism|n|دیامغناطیس|B2|Materials & Chemistry
+dielectric|n|دی‌الکتریک|B2|Materials & Chemistry
+diffusivity|n|ضریب نفوذپذیری|B2|Materials & Chemistry
+diluent|n|رقیق‌کننده|B2|Materials & Chemistry
+dispersant|n|پراکنده‌ساز|B2|Materials & Chemistry
+electrolyte|n|الکترولیت|B2|Materials & Chemistry
+electroplating|n|آبکاری الکتریکی|B2|Materials & Chemistry
+emulsifier|n|امولسیون‌ساز|B2|Materials & Chemistry
+endotherm|n|فرایند گرماگیر|B2|Materials & Chemistry
+exotherm|n|فرایند گرماده|B2|Materials & Chemistry
+ferromagnetism|n|فرومغناطیس|B2|Materials & Chemistry
+filament|n|رشته؛ فیلامان|B2|Materials & Chemistry
+flocculant|n|لخته‌ساز|B2|Materials & Chemistry
+fluorophore|n|ترکیب فلورسانس‌دهنده|B2|Materials & Chemistry
+gelation|n|ژل‌شدن|B2|Materials & Chemistry
+gravimetry|n|وزن‌سنجی|B2|Materials & Chemistry
+hydrogel|n|هیدروژل|B2|Materials & Chemistry
+hygroscopicity|n|رطوبت‌گیری|B2|Materials & Chemistry
+immiscibility|n|امتزاج‌ناپذیری|B2|Materials & Chemistry
+intercalation|n|درون‌لایه‌نشانی|B2|Materials & Chemistry
+isomer|n|ایزومر|B2|Materials & Chemistry
+isomerization|n|ایزومریزاسیون|B2|Materials & Chemistry
+isotopologue|n|ایزوتوپولوگ|B2|Materials & Chemistry
+lyophilization|n|خشک‌کردن انجمادی|B2|Materials & Chemistry
+macromolecule|n|درشت‌مولکول|B2|Materials & Chemistry
+micelle|n|میسل|B2|Materials & Chemistry
+monomer|n|تکپار|B2|Materials & Chemistry
+nanocomposite|n|نانوکامپوزیت|B2|Materials & Chemistry
+nanofiber|n|نانوالیاف|B2|Materials & Chemistry
+nanoparticle|n|نانوذره|B2|Materials & Chemistry
+oxidant|n|اکسنده|B2|Materials & Chemistry
+oxidation|n|اکسایش|B2|Materials & Chemistry
+passivation|n|خنثی‌سازی سطح|B2|Materials & Chemistry
+pelletization|n|گلوله‌سازی|B2|Materials & Chemistry
+permeation|n|نفوذ؛ تراوش|B2|Materials & Chemistry
+photolysis|n|نورکافت|B2|Materials & Chemistry
+plasticizer|n|نرم‌کنندهٔ پلاستیک|B2|Materials & Chemistry
+polycondensation|n|بسپارش تراکمی|B2|Materials & Chemistry
+polydispersity|n|چندپراکندگی|B2|Materials & Chemistry
+precipitant|n|رسوب‌دهنده|B2|Materials & Chemistry
+pyrolysis|n|پیرولیز|B2|Materials & Chemistry
+reductant|n|کاهنده|B2|Materials & Chemistry
+resin|n|رزین؛ صمغ مصنوعی|B2|Materials & Chemistry
+solvate|n|حلال‌پوشیده|B2|Materials & Chemistry
+stoichiometry|n|استوکیومتری|B2|Materials & Chemistry
+surfactant|n|مادهٔ فعال سطحی|B2|Materials & Chemistry
+thermoplastic|n|گرمانرم|B2|Materials & Chemistry
+thermoset|n|گرماسخت|B2|Materials & Chemistry
+viscoelasticity|n|گرانروکشسانی|B2|Materials & Chemistry
+volatilization|n|فرّارشدن|B2|Materials & Chemistry
+vulcanite|n|لاستیک سخت|B2|Materials & Chemistry
+allophone|n|آلوفون|B2|Language & Arts
+allomorph|n|آلومورف|B2|Language & Arts
+anaphora|n|آنافورا؛ ارجاع پیشین|B2|Language & Arts
+antanaclasis|n|تکرار واژه با معنای متفاوت|B2|Language & Arts
+aposiopesis|n|گسست عمدی سخن|B2|Language & Arts
+asyndeton|n|حذف حرف ربط|B2|Language & Arts
+bathos|n|افت ناگهانی لحن|B2|Language & Arts
+chiasmus|n|وارونگی متقارن|B2|Language & Arts
+colophon|n|شناسنامهٔ پایانی کتاب|B2|Language & Arts
+consonance|n|هم‌آوایی صامت‌ها|B2|Language & Arts
+diacritic|n|نشانهٔ اعراب یا تمایز|B2|Language & Arts
+dieresis|n|دوصدایی‌شدن واکه؛ نشان تفکیک|B2|Language & Arts
+ellipsis|n|حذف؛ سه‌نقطه|B2|Language & Arts
+epenthesis|n|افزایش آوا|B2|Language & Arts
+epigraph|n|سرلوحهٔ نقل‌قول|B2|Language & Arts
+epistrophe|n|تکرار در پایان عبارت|B2|Language & Arts
+ethos|n|اعتبار اخلاقی سخنور|B2|Language & Arts
+foreshadowing|n|پیش‌آگاهی روایی|B2|Language & Arts
+hyperbaton|n|وارونگی نحوی|B2|Language & Arts
+hypallage|n|جابجایی صفت از نظر نحوی|B2|Language & Arts
+hypophora|n|پرسش و پاسخ توسط گوینده|B2|Language & Arts
+litotes|n|کم‌گویی تأکیدی|B2|Language & Arts
+malapropism|n|کاربرد سهوی واژهٔ مشابه|B2|Language & Arts
+metalepsis|n|استعارهٔ زنجیره‌ای|B2|Language & Arts
+onomatopoeia|n|واج‌آرایی تقلیدی؛ نام‌آوا|B2|Language & Arts
+parataxis|n|هم‌پایگی نحوی|B2|Language & Arts
+polysyndeton|n|تکرار حروف ربط|B2|Language & Arts
+prolepsis|n|پیش‌نگری؛ پیش‌گویی روایی|B2|Language & Arts
+prosody|n|آهنگ گفتار|B2|Language & Arts
+zeugma|n|حذف مشترک با بازی معنایی|B2|Language & Arts
+alliteration|n|واج‌آرایی|B2|Language & Arts
+assonance|n|هم‌آوایی واکه‌ها|B2|Language & Arts
+consonantism|n|نظام صامت‌ها|B2|Language & Arts
+diphthong|n|واکهٔ مرکب|B2|Language & Arts
+phonology|n|واج‌شناسی|B2|Language & Arts
+morpheme|n|تکواژ|B2|Language & Arts
+morphology|n|صرف‌شناسی|B2|Language & Arts
+grapheme|n|نویسه|B2|Language & Arts
+orthography|n|املا؛ نظام نوشتار|B2|Language & Arts
+pragmatics|n|کاربردشناسی|B2|Language & Arts
+semantics|n|معناشناسی|B2|Language & Arts
+sociolinguistics|n|جامعه‌زبان‌شناسی|B2|Language & Arts
+psycholinguistics|n|روان‌زبان‌شناسی|B2|Language & Arts
+lexicography|n|فرهنگ‌نگاری|B2|Language & Arts
+lexicology|n|واژه‌شناسی|B2|Language & Arts
+etymology|n|ریشه‌شناسی|B2|Language & Arts
+idiomaticity|n|اصطلاح‌گونگی|B2|Language & Arts
+grammaticality|n|دستوری‌بودن|B2|Language & Arts
+ungrammaticality|n|غیردستوری‌بودن|B2|Language & Arts
+grammaticalization|n|دستوری‌شدن|B2|Language & Arts
+lexicalization|n|واژگانی‌شدن|B2|Language & Arts
+homonymy|n|هم‌نامی|B2|Language & Arts
+homophony|n|هم‌آوایی|B2|Language & Arts
+paronymy|n|شبه‌هم‌نامی|B2|Language & Arts
+hyponymy|n|شمول معنایی؛ رابطهٔ زیرواژگی|B2|Language & Arts
+hypernymy|n|فراواژگی|B2|Language & Arts
+meronymy|n|جزءواژگی|B2|Language & Arts
+actionable|adj|قابل اقدام|B2|Professional Adjectives
+bidirectional|adj|دوسویه|B2|Professional Adjectives
+coercive|adj|اجبارآمیز|B2|Professional Adjectives
+compliant|adj|مطیع مقررات؛ منطبق|B2|Professional Adjectives
+consequential|adj|پیامددار؛ مهم|B2|Professional Adjectives
+decentralized|adj|غیرمتمرکز|B2|Professional Adjectives
+defensible|adj|قابل دفاع|B2|Professional Adjectives
+deployable|adj|قابل استقرار|B2|Professional Adjectives
+diagnostic|adj|تشخیصی|B2|Professional Adjectives
+discretionary|adj|اختیاری؛ وابسته به صلاحدید|B2|Professional Adjectives
+distributive|adj|توزیعی|B2|Professional Adjectives
+durable|adj|بادوام|B2|Professional Adjectives
+enforceable|adj|قابل اجرا از نظر قانونی|B2|Professional Adjectives
+executable|adj|قابل اجرا|B2|Professional Adjectives
+governable|adj|قابل اداره|B2|Professional Adjectives
+immutable|adj|تغییرناپذیر|B2|Professional Adjectives
+indemnifiable|adj|قابل جبران خسارت|B2|Professional Adjectives
+intrinsic|adj|ذاتی|B2|Professional Adjectives
+mitigative|adj|کاهندهٔ اثر|B2|Professional Adjectives
+nonbinding|adj|غیرالزام‌آور|B2|Professional Adjectives
+noncompliant|adj|غیرمنطبق|B2|Professional Adjectives
+nonlinear|adj|غیرخطی|B2|Professional Adjectives
+plausible|adj|باورپذیر|B2|Professional Adjectives
+procedural|adj|رویه‌ای|B2|Professional Adjectives
+proprietary|adj|اختصاصی؛ مالکیتی|B2|Professional Adjectives
+reconcilable|adj|قابل آشتی یا تطبیق|B2|Professional Adjectives
+severable|adj|قابل تفکیک|B2|Professional Adjectives
+statutory|adj|قانونی؛ مصرح در قانون|B2|Professional Adjectives
+uncontested|adj|بدون مناقشه|B2|Professional Adjectives
+undue|adj|ناموجه؛ بیش‌ازحد|B2|Professional Adjectives
+unenforceable|adj|غیرقابل اجرا از نظر قانونی|B2|Professional Adjectives
+unilateral|adj|یک‌جانبه|B2|Professional Adjectives
+volatile|adj|فرّار؛ بی‌ثبات|B2|Professional Adjectives
+abnegation|n|انکار خواسته‌های شخصی|C1|Advanced Vocabulary
+abstention|n|خودداری؛ پرهیز|C1|Advanced Vocabulary
+acquiescence|n|تمکین؛ پذیرش ضمنی|C1|Advanced Vocabulary
+adumbration|n|طرح کلی؛ اشارهٔ مبهم|C1|Advanced Vocabulary
+apotheosis|n|اوج؛ خدایی‌انگاری|C1|Advanced Vocabulary
+approbation|n|تأیید رسمی|C1|Advanced Vocabulary
+asperity|n|تندی؛ خشونت کلام|C1|Advanced Vocabulary
+assiduity|n|پشتکار|C1|Advanced Vocabulary
+assuagement|n|تسکین|C1|Advanced Vocabulary
+attenuation|n|تضعیف|C1|Advanced Vocabulary
+averment|n|اظهار رسمی|C1|Advanced Vocabulary
+beleaguerment|n|محاصره‌شدن|C1|Advanced Vocabulary
+blandishment|n|چاپلوسی؛ فریب نرم|C1|Advanced Vocabulary
+calumny|n|تهمت؛ افترا|C1|Advanced Vocabulary
+capitulation|n|تسلیم|C1|Advanced Vocabulary
+castigation|n|سرزنش شدید|C1|Advanced Vocabulary
+circumspection|n|احتیاط؛ دوراندیشی|C1|Advanced Vocabulary
+complaisance|n|خوش‌خدمتی؛ موافقت بیش‌ازحد|C1|Advanced Vocabulary
+concupiscence|n|شهوت‌پرستی|C1|Advanced Vocabulary
+contumacy|n|سرپیچی از مرجع قانونی|C1|Advanced Vocabulary
+cupidity|n|حرص؛ طمع|C1|Advanced Vocabulary
+dearth|n|کمبود شدید|C1|Advanced Vocabulary
+debauchery|n|عیاشی؛ فساد اخلاقی|C1|Advanced Vocabulary
+demur|n|اعتراض یا تردید|C1|Advanced Vocabulary
+desuetude|n|متروک‌شدن|C1|Advanced Vocabulary
+diffidence|n|کم‌رویی؛ بی‌اعتمادی به خود|C1|Advanced Vocabulary
+dilatory|n|وقت‌کش؛ تعلل‌آمیز|C1|Advanced Vocabulary
+disapprobation|n|عدم تأیید|C1|Advanced Vocabulary
+disavowal|n|انکار مسئولیت|C1|Advanced Vocabulary
+ebullience|n|سرزندگی پرشور|C1|Advanced Vocabulary
+effrontery|n|وقاحت|C1|Advanced Vocabulary
+enervation|n|سست‌شدن نیرو|C1|Advanced Vocabulary
+encomium|n|ستایش‌نامه|C1|Advanced Vocabulary
+ephemerality|n|گذرا بودن|C1|Advanced Vocabulary
+exculpation|n|تبرئه|C1|Advanced Vocabulary
+exigency|n|وضعیت اضطراری|C1|Advanced Vocabulary
+expiation|n|کفاره؛ جبران خطا|C1|Advanced Vocabulary
+extirpation|n|ریشه‌کن‌سازی|C1|Advanced Vocabulary
+fatuity|n|ابلهی|C1|Advanced Vocabulary
+fractiousness|n|ناسازگاری؛ بدقلقی|C1|Advanced Vocabulary
+grandiloquence|n|لفاظی پرطمطراق|C1|Advanced Vocabulary
+ignominy|n|رسوایی؛ ننگ|C1|Advanced Vocabulary
+imprecation|n|نفرین|C1|Advanced Vocabulary
+intransigence|n|سازش‌ناپذیری|C1|Advanced Vocabulary
+invective|n|ناسزاگویی|C1|Advanced Vocabulary
+irresolution|n|بی‌تصمیمی|C1|Advanced Vocabulary
+lachrymose|n|اشک‌آلود؛ گریه‌زاری|C1|Advanced Vocabulary
+lugubriousness|n|اندوه‌نمایی|C1|Advanced Vocabulary
+malfeasance|n|تخلف؛ سوءرفتار اداری|C1|Advanced Vocabulary
+mendacity|n|دروغ‌گویی|C1|Advanced Vocabulary
+obduracy|n|سرسختی؛ لجاجت|C1|Advanced Vocabulary
+obloquy|n|بدنامی؛ نکوهش عمومی|C1|Advanced Vocabulary
+obsequiousness|n|چاپلوسی|C1|Advanced Vocabulary
+ossification|n|استخوانی‌شدن؛ خشک‌اندیشی|C1|Advanced Vocabulary
+parsimoniousness|n|خسیسی|C1|Advanced Vocabulary
+perfidiousness|n|خیانت‌کاری|C1|Advanced Vocabulary
+perspicacity|n|تیزبینی|C1|Advanced Vocabulary
+pusillanimity|n|بزدلی|C1|Advanced Vocabulary
+recalcitrance|n|سرکشی|C1|Advanced Vocabulary
+recrudescence|n|بازگشت بیماری یا مشکل|C1|Advanced Vocabulary
+redolence|n|رایحهٔ قوی|C1|Advanced Vocabulary
+reprobation|n|محکوم‌کردن اخلاقی|C1|Advanced Vocabulary
+reticence|n|کم‌گویی؛ خویشتن‌داری|C1|Advanced Vocabulary
+salubriousness|n|سلامت‌بخشی|C1|Advanced Vocabulary
+temerity|n|جسارت بی‌پروا|C1|Advanced Vocabulary
+tergiversation|n|تغییر موضع فرصت‌طلبانه|C1|Advanced Vocabulary
+unctuousness|n|چرب‌زبانی؛ تظاهر به خیرخواهی|C1|Advanced Vocabulary
+vacillation|n|تردید و دودلی|C1|Advanced Vocabulary
+vicissitude|n|فرازونشیب زندگی|C1|Advanced Vocabulary
+vituperation|n|ناسزاگویی شدید|C1|Advanced Vocabulary
+weltschmerz|n|اندوه از وضعیت جهان|C1|Advanced Vocabulary
